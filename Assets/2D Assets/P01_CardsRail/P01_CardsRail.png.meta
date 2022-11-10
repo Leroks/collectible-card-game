@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 9fa778aad4132074b97d97d385167b67
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (1)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1727
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec33c7a6f8d4fb4d987fb0b7a95062c
+      internalID: -778090745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (10)
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1065
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfee55bbef599d046a40920a7e6b3b08
+      internalID: 414816222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (11)
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1065
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9892ccd30f2ce5d44bdcd4d958eb7bdc
+      internalID: -342469260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (12)
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1065
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ef8323449b2d24d936746123d20bfa
+      internalID: -1412932398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (13)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 734
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f7701d70995e841a9987f84aeb9137
+      internalID: -31275890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (14)
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 734
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc7bc340bc823e4d99192f4258c6c86
+      internalID: 547941685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (15)
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 734
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39614b8098ead254cace926a05c80fbc
+      internalID: 1084880658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (16)
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 734
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539ee99214089034d863dacb7b9b2424
+      internalID: 662592814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (17)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 403
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c268800272af5104094eaca6a97e85df
+      internalID: 143387673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (18)
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 403
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b5ca0d2317823418edfb5b97c467a9
+      internalID: -2100577913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (19)
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 403
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c9e5383cbd68f4d9aba5d736c9e470
+      internalID: -1176593406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (2)
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1727
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e0a3cfdfdc5ba41a6fa08a89f5bfb6
+      internalID: 1566571669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (20)
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 403
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bab7ca717965249a266a2487f67a43
+      internalID: 1993229733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (21)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 72
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d5bd9bd30487c41b323ecfff43127d
+      internalID: -1193894135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (3)
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1727
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66090976adcfd5647bbd382724202573
+      internalID: 1282373749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (4)
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1727
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaec5438fa77a444814af0ec89e20ff
+      internalID: -1300475705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (5)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1396
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca5877a2ad8f644bad6e25fd67cadef
+      internalID: -1348068009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (6)
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1396
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424175da3debeed41a853bf64a30118b
+      internalID: -802539626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (7)
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1396
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5111dac24ba4143ab9f3c1af1e4b4a
+      internalID: 925212725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (8)
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1396
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc032ee305d90004884dcfc68a69817a
+      internalID: 625485996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_CardsRail (9)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1065
+        width: 223
+        height: 311
+      alignment: 9
+      pivot: {x: -6.1390133, y: 1.4115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8234b2b320ec8aa44afd17341af9f67c
+      internalID: 1533048911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 136fb3da16dd9434e97f3aba8d53e6b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 7063ee720bcb0f548ae2247d32df390c, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-P01_CardsRail (21): -1193894135
+      Base-P01_CardsRail (5): -1348068009
+      Base-P01_CardsRail (12): -1412932398
+      Base-P01_CardsRail (8): 625485996
+      Base-P01_CardsRail (20): 1993229733
+      Base-P01_CardsRail (16): 662592814
+      Base-P01_CardsRail (13): -31275890
+      Base-P01_CardsRail (3): 1282373749
+      Base-P01_CardsRail (11): -342469260
+      Base-P01_CardsRail (2): 1566571669
+      Base-P01_CardsRail (17): 143387673
+      Base-P01_CardsRail (14): 547941685
+      Base-P01_CardsRail (15): 1084880658
+      Base-P01_CardsRail (6): -802539626
+      Base-P01_CardsRail (19): -1176593406
+      Base-P01_CardsRail (9): 1533048911
+      Base-P01_CardsRail (10): 414816222
+      Base-P01_CardsRail (7): 925212725
+      Base-P01_CardsRail (4): -1300475705
+      Base-P01_CardsRail (18): -2100577913
+      Base-P01_CardsRail (1): -778090745
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

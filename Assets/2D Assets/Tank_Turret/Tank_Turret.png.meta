@@ -1,0 +1,1772 @@
+fileFormatVersion: 2
+guid: c0b3ff0d0fce86647a0457fe14bace19
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-Tank_Turret (1)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1805
+        width: 152
+        height: 242
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.4008265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c28cd7badeca04d96e5ad8090b1bd7
+      internalID: -1580459090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (10)
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1802
+        width: 152
+        height: 245
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.3183672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9e2de416f9b3d439af20dfc46f84e6
+      internalID: 504467382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (11)
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1774
+        width: 165
+        height: 273
+      alignment: 9
+      pivot: {x: -3.430303, y: -1.978022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f1d6a8d96b02140b01745de8726818
+      internalID: -401843400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (12)
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1774
+        width: 171
+        height: 273
+      alignment: 9
+      pivot: {x: -3.2748537, y: -1.978022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202d08eaaa5a75d4b9dab00de50746d8
+      internalID: 1995605681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (13)
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1791
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fff006b4ab756149a9cb8ecf1c176f3
+      internalID: -1836759815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (14)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1502
+        width: 168
+        height: 270
+      alignment: 9
+      pivot: {x: -3.3511906, y: -1.9962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cb8508c450fe543971cba0265ccc9d
+      internalID: 32983332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (15)
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1516
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db18caa60146c3d419422574c8d83b6d
+      internalID: 971019160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (16)
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1512
+        width: 152
+        height: 260
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.126923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da53fb22eacd131488a129185bbd3986
+      internalID: -1411215070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (17)
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1512
+        width: 152
+        height: 260
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.126923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecdbd5c6b075464995f26c7199b07ed
+      internalID: 1773293281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (18)
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1516
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e4422005b706a40a2817a7e8059e19
+      internalID: -1009774896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (19)
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1516
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7abfef126f0773479c169cce0b156c4
+      internalID: 1979302744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (2)
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1805
+        width: 152
+        height: 242
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.4008265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454d9a7ae0af7da489368e369ae0c62a
+      internalID: -1765275077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (20)
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1516
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4014ef4bbef79d54dac0ae64836c4112
+      internalID: 1919438430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (21)
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1516
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ec99e1c40ada439b8ce8a47e678f4
+      internalID: 1875770191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (22)
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1516
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681a26ff3af5bc745ab2d7c9916a5619
+      internalID: 45944741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (23)
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1516
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd99667edd7488e41840960b75d02e98
+      internalID: -1375911098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (24)
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1516
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b901be083131dc0469203a24af752781
+      internalID: -686874824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (25)
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1516
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f002e381cbaba47abb84994c586871
+      internalID: -1501916814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (26)
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1516
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7559e445654d0074082ded8526d6d184
+      internalID: 1832410663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (27)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1233
+        width: 154
+        height: 267
+      alignment: 9
+      pivot: {x: -3.7597404, y: -2.104869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9557ad4a3333dd54faa43db5a06e1237
+      internalID: 256569687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (28)
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1227
+        width: 195
+        height: 273
+      alignment: 9
+      pivot: {x: -2.871795, y: -1.978022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d97d735b13c9b47a84f5ce8a447c82
+      internalID: -2096740367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (29)
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1233
+        width: 156
+        height: 267
+      alignment: 9
+      pivot: {x: -3.5897436, y: -2.022472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3691f25b329306347a5500919bb9c2a2
+      internalID: -777654418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (3)
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1803
+        width: 152
+        height: 244
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.3729508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196aef621d8716542beea308343f8d89
+      internalID: -1737318891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (30)
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1259
+        width: 189
+        height: 241
+      alignment: 9
+      pivot: {x: -2.9629629, y: -2.3485477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9003e8053222448c0bc5fab0cb262
+      internalID: -1609795455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (31)
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1251
+        width: 173
+        height: 249
+      alignment: 9
+      pivot: {x: -3.2369943, y: -2.2730923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f77a2aa91c1e441af6da6f6a335174
+      internalID: -67211411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (32)
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1252
+        width: 136
+        height: 248
+      alignment: 9
+      pivot: {x: -4.257353, y: -2.282258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2402149f17a3c498bb76ccbae858a6
+      internalID: -563509068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (33)
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1249
+        width: 136
+        height: 251
+      alignment: 9
+      pivot: {x: -4.257353, y: -2.250996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e61f6c7abac6946b67864508897c28
+      internalID: 1918647708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (34)
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1251
+        width: 166
+        height: 249
+      alignment: 9
+      pivot: {x: -3.4879518, y: -2.2650602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076aad3aaf3f4e34ea294bd02b7f8f54
+      internalID: -1782982450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (35)
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1251
+        width: 142
+        height: 249
+      alignment: 9
+      pivot: {x: -4.0774646, y: -2.2650602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10fd3a92095c374cab0d8b1ad0da2e6
+      internalID: -1009940149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (36)
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1249
+        width: 142
+        height: 251
+      alignment: 9
+      pivot: {x: -4.0774646, y: -2.2390437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ee30c79eebd2b4caa2cd02237fa036
+      internalID: -1263146289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (37)
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1225
+        width: 176
+        height: 275
+      alignment: 9
+      pivot: {x: -3.1988637, y: -1.96}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b829bb483b14ae44c925fe4e1dea2572
+      internalID: 471960705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (38)
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1226
+        width: 152
+        height: 274
+      alignment: 9
+      pivot: {x: -3.7039473, y: -1.9671533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7121e2aaf6763f4ea994f2c2baef1d9
+      internalID: -1827856665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (39)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 934
+        width: 163
+        height: 289
+      alignment: 9
+      pivot: {x: -3.4539878, y: -1.8650519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c6e65b937d0894b8dd10880b8ff941
+      internalID: 1558307411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (4)
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1793
+        width: 152
+        height: 254
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.2401574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abf0a9837ec9c54c863a34c54deceff
+      internalID: 1352384314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (40)
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 950
+        width: 168
+        height: 273
+      alignment: 9
+      pivot: {x: -3.3511906, y: -1.9743589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f540d793cc8be7b40b52b0d3ec5f3af8
+      internalID: 1833068425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (41)
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 956
+        width: 168
+        height: 267
+      alignment: 9
+      pivot: {x: -3.3511906, y: -2.0187266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d429c369db041418020f2a2f4583ca
+      internalID: -429091207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (42)
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 949
+        width: 168
+        height: 274
+      alignment: 9
+      pivot: {x: -3.3511906, y: -1.9671533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b02b35c19e6446b3fdf0b3d492d40
+      internalID: 1444615668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (43)
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 948
+        width: 168
+        height: 275
+      alignment: 9
+      pivot: {x: -3.3511906, y: -1.96}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04cead7c41bb4f449913158e112fc5e
+      internalID: -2122435088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (44)
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 967
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fcdd661f4d826449608ef13d640b76
+      internalID: -368159642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (45)
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 967
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe713666056ff1b4ab06092c23063d33
+      internalID: -1870306245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (46)
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 944
+        width: 152
+        height: 279
+      alignment: 9
+      pivot: {x: -3.8092105, y: -1.9820789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f0d59e45ce59748a2d8b9fcd9531ea
+      internalID: 1120826915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (47)
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 967
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1219bdfef5c5019428b746438ffc75f5
+      internalID: 653178192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (48)
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 967
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d2b114b09351d4ea0ce2905793dad0
+      internalID: -1387350519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (49)
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 967
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436f7b0ca2433f74baee41d9a30e3755
+      internalID: 1739797315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (5)
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1801
+        width: 152
+        height: 246
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.3455284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65afd1751a7a69439342c2fbd169f0b
+      internalID: 717294819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (50)
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 967
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d71a718963610c439404339146e2b15
+      internalID: -561118320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (51)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b928ae63a743e8849ad0fc82acea2491
+      internalID: 1433095906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (52)
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356f8fc65614ed48b5d08b6fb565e93
+      internalID: -1447571241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (53)
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833d7509d745de24d8551c124024c1f0
+      internalID: 259622520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (54)
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ae57e445c6854e9065bcbbc399412
+      internalID: -639407108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (55)
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2717b794db1054c45b4dc646edeae7b8
+      internalID: -861081864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (56)
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412b722f79abcad4c9f99891c55eb2c2
+      internalID: -141671501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (57)
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9fc246f7fcac549b640b16557c4a67
+      internalID: -848133682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (58)
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d907804f6287c7849848cec87e9f3621
+      internalID: 1221487093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (59)
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b56bc7d4993d9242b95720367e6cecb
+      internalID: -1081290414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (6)
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1799
+        width: 152
+        height: 248
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.3185484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c65bcf7261692144927bc75a619b1b8
+      internalID: -560120388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (60)
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1061a00a44add149a38129636a09c94
+      internalID: 589093343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (61)
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329070259064a7045bc7a3fab39b2f56
+      internalID: -827819556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (62)
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4348e3a9ee25b0438d11559ec1aa80b
+      internalID: -1455393294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (63)
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 676
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5454816f7385c4499a55323411648e
+      internalID: 1291009804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (64)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 418
+        width: 152
+        height: 256
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.1601562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712ab413cca9361458d25bee92248940
+      internalID: -1366341361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (65)
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 414
+        width: 171
+        height: 260
+      alignment: 9
+      pivot: {x: -3.2748537, y: -2.126923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906db7ed7a55b114db74e7bae0984550
+      internalID: -132223707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (66)
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 401
+        width: 171
+        height: 273
+      alignment: 9
+      pivot: {x: -3.2748537, y: -1.978022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1f248cec7e14e48a5806d75d649576
+      internalID: -1365928217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (67)
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 401
+        width: 165
+        height: 273
+      alignment: 9
+      pivot: {x: -3.430303, y: -1.978022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f320d80b8343a44d97cac42331f3ab4
+      internalID: 247491964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (68)
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 421
+        width: 153
+        height: 253
+      alignment: 9
+      pivot: {x: -3.7843137, y: -2.2134387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195fbcca0e56bc149a961f12b7a908ab
+      internalID: -233168117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (69)
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 429
+        width: 152
+        height: 245
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.310204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b31dc577fcbe545a40d36a539fc162
+      internalID: 1074489612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (7)
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1794
+        width: 152
+        height: 253
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.2529645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b4cfc9f665ef64a8c8d393394cd3ad
+      internalID: 2022871406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (70)
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 427
+        width: 153
+        height: 247
+      alignment: 9
+      pivot: {x: -3.7843137, y: -2.2834008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68387ce6dc4804147b7072cdc16b3651
+      internalID: 411007948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (71)
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 421
+        width: 152
+        height: 253
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.2529645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cce6abdf7be534fa68c3a26638e65a
+      internalID: -1258423446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (72)
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 429
+        width: 152
+        height: 245
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.3591838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b41f52b525d2b747afd2a3e5ed087e7
+      internalID: 2132985031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (73)
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 430
+        width: 152
+        height: 244
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.3729508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e11f5d903315c408a49de9c03e23dd
+      internalID: 92690316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (74)
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 420
+        width: 131
+        height: 254
+      alignment: 9
+      pivot: {x: -4.5801525, y: -2.2401574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8de82e454fda114a973ed2307c44bb8
+      internalID: -2142035576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (75)
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 432
+        width: 131
+        height: 242
+      alignment: 9
+      pivot: {x: -4.5801525, y: -2.4008265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac64aee5cd34484c8b29b08b9534250
+      internalID: -313944366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (76)
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 432
+        width: 131
+        height: 242
+      alignment: 9
+      pivot: {x: -4.5801525, y: -2.4008265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c163047ee6da2498711ceea389752b
+      internalID: 2096443069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (8)
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1799
+        width: 153
+        height: 248
+      alignment: 9
+      pivot: {x: -3.7843137, y: -2.2701614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeb451f0e197e7458dbbb8be13bf311
+      internalID: 69870590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Tank_Turret (9)
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1807
+        width: 152
+        height: 240
+      alignment: 9
+      pivot: {x: -3.8092105, y: -2.3791666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de705f588e649cb42847739c166b9fd2
+      internalID: 488093378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8bdde04b915ac4048830acb2e15b3979
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 7ed27569217b1634c884b1700c2b3ed4, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-Tank_Turret (3): -1737318891
+      Base-Tank_Turret (21): 1875770191
+      Base-Tank_Turret (44): -368159642
+      Base-Tank_Turret (7): 2022871406
+      Base-Tank_Turret (26): 1832410663
+      Base-Tank_Turret (11): -401843400
+      Base-Tank_Turret (53): 259622520
+      Base-Tank_Turret (39): 1558307411
+      Base-Tank_Turret (75): -313944366
+      Base-Tank_Turret (19): 1979302744
+      Base-Tank_Turret (27): 256569687
+      Base-Tank_Turret (58): 1221487093
+      Base-Tank_Turret (32): -563509068
+      Base-Tank_Turret (1): -1580459090
+      Base-Tank_Turret (35): -1009940149
+      Base-Tank_Turret (72): 2132985031
+      Base-Tank_Turret (43): -2122435088
+      Base-Tank_Turret (73): 92690316
+      Base-Tank_Turret (76): 2096443069
+      Base-Tank_Turret (17): 1773293281
+      Base-Tank_Turret (25): -1501916814
+      Base-Tank_Turret (60): 589093343
+      Base-Tank_Turret (47): 653178192
+      Base-Tank_Turret (18): -1009774896
+      Base-Tank_Turret (61): -827819556
+      Base-Tank_Turret (30): -1609795455
+      Base-Tank_Turret (36): -1263146289
+      Base-Tank_Turret (28): -2096740367
+      Base-Tank_Turret (2): -1765275077
+      Base-Tank_Turret (67): 247491964
+      Base-Tank_Turret (24): -686874824
+      Base-Tank_Turret (34): -1782982450
+      Base-Tank_Turret (8): 69870590
+      Base-Tank_Turret (13): -1836759815
+      Base-Tank_Turret (65): -132223707
+      Base-Tank_Turret (37): 471960705
+      Base-Tank_Turret (9): 488093378
+      Base-Tank_Turret (12): 1995605681
+      Base-Tank_Turret (41): -429091207
+      Base-Tank_Turret (22): 45944741
+      Base-Tank_Turret (38): -1827856665
+      Base-Tank_Turret (45): -1870306245
+      Base-Tank_Turret (4): 1352384314
+      Base-Tank_Turret (56): -141671501
+      Base-Tank_Turret (23): -1375911098
+      Base-Tank_Turret (57): -848133682
+      Base-Tank_Turret (66): -1365928217
+      Base-Tank_Turret (70): 411007948
+      Base-Tank_Turret (62): -1455393294
+      Base-Tank_Turret (33): 1918647708
+      Base-Tank_Turret (59): -1081290414
+      Base-Tank_Turret (71): -1258423446
+      Base-Tank_Turret (31): -67211411
+      Base-Tank_Turret (46): 1120826915
+      Base-Tank_Turret (63): 1291009804
+      Base-Tank_Turret (6): -560120388
+      Base-Tank_Turret (14): 32983332
+      Base-Tank_Turret (10): 504467382
+      Base-Tank_Turret (74): -2142035576
+      Base-Tank_Turret (15): 971019160
+      Base-Tank_Turret (42): 1444615668
+      Base-Tank_Turret (16): -1411215070
+      Base-Tank_Turret (48): -1387350519
+      Base-Tank_Turret (40): 1833068425
+      Base-Tank_Turret (49): 1739797315
+      Base-Tank_Turret (52): -1447571241
+      Base-Tank_Turret (51): 1433095906
+      Base-Tank_Turret (54): -639407108
+      Base-Tank_Turret (55): -861081864
+      Base-Tank_Turret (50): -561118320
+      Base-Tank_Turret (20): 1919438430
+      Base-Tank_Turret (29): -777654418
+      Base-Tank_Turret (64): -1366341361
+      Base-Tank_Turret (69): 1074489612
+      Base-Tank_Turret (68): -233168117
+      Base-Tank_Turret (5): 717294819
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

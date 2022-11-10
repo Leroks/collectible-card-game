@@ -1,0 +1,515 @@
+[
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 0,
+        "faction": 0,
+        "classType": 3,
+        "subClassType":0,
+        "name": "Brewster F2A Buffalo",
+        "texture": "Brewster-F2A-Buffalo",
+        "attackPoint": 1,
+        "commandingPoint": 1,
+        "healthPoint": 3,
+        "specialEffects" : [
+            {
+                "type" : 2,
+                "target" : 0,
+                "count" : 1
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 0,
+        "faction": 0,
+        "classType": 3,
+        "subClassType":0,
+        "name": "Brewster F2A Buffalo",
+        "texture": "Brewster-F2A-Buffalo",
+        "attackPoint": 1,
+        "commandingPoint": 1,
+        "healthPoint": 3
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 0,
+        "faction": 0,
+        "classType": 1,
+        "subClassType":0,
+        "name": "M8 Greyhound",
+        "texture": "M8-Greyhound",
+        "attackPoint": 1,
+        "commandingPoint": 1,
+        "healthPoint": 3,
+        "specialEffects" : [
+            {
+                "type" : 2,
+                "target" : 0,
+                "count" : 1
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 0,
+        "faction": 0,
+        "classType": 1,
+        "subClassType":0,
+        "name": "M8 Greyhound",
+        "texture": "M8-Greyhound",
+        "attackPoint": 1,
+        "commandingPoint": 1,
+        "healthPoint": 3,
+        "specialEffects" : [
+            {
+                "type" : 2,
+                "target" : 0,
+                "count" : 1
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 0,
+        "faction": 0,
+        "classType": 0,
+        "subClassType":0,
+        "name": "442nd Infantry Regiment",
+        "texture": "442nd-Infantry-Regiment",
+        "attackPoint": 2,
+        "commandingPoint": 1,
+        "healthPoint": 2
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 0,
+        "faction": 0,
+        "classType": 0,
+        "subClassType":0,
+        "name": "110th Infantry Regiment",
+        "texture": "110th-Infantry-Regiment",
+        "attackPoint": 2,
+        "commandingPoint": 1,
+        "healthPoint": 2,
+        "specialEffects" : [
+            {
+                "type" : 2,
+                "target" : 0,
+                "count" : 1
+            },
+            {
+                "type" : 1,
+                "target" : 0,
+                "count" : 1
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "commandingPoint" : 2,
+        "faction": 0,
+        "rarity": 1,
+        "name": "Air Support ",
+        "texture": "Air-Support",
+        "specialEffects" : [
+            {
+                "type" : 0,
+                "target" : 0,
+                "count" : 2
+            },
+            {
+                "type" : 1,
+                "target" : 3,
+                "count" : 2
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 0,
+        "subClassType":1,
+        "name": "25th Ranger Regiment",
+        "texture": "25th-Ranger-Regiment",
+        "attackPoint": 2,
+        "commandingPoint": 2,
+        "healthPoint": 4
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 0,
+        "subClassType":1,
+        "name": "25th Ranger Regiment",
+        "texture": "25th-Ranger-Regiment",
+        "attackPoint": 2,
+        "commandingPoint": 2,
+        "healthPoint": 4
+    },
+    {
+        "type": 1,
+        "faction": 0,
+        "rarity": 1,
+        "name": "West Point",
+        "texture": "West-Point",
+        "commandingPoint" : 0,
+        "specialEffects" : [
+            {
+                "type" : 3,
+                "count" : 1
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 0,
+        "subClassType":3,
+        "name": "5th Marine Division",
+        "texture": "5th-Marine-Division",
+        "attackPoint": 5,
+        "commandingPoint": 3,
+        "healthPoint": 5,
+        "abilities" : [],
+        "specialEffects" : [
+            {
+                "type" : 2,
+                "target" : 0,
+                "count" : 1
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 0,
+        "subClassType":3,
+        "name": "5th Marine Division",
+        "texture": "5th-Marine-Division",
+        "attackPoint": 5,
+        "commandingPoint": 3,
+        "healthPoint": 5,
+        "abilities" : [],
+        "specialEffects" : [
+            {
+                "type" : 2,
+                "target" : 0,
+                "count" : 1
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 1,
+        "subClassType":0,
+        "name": "M3 Stuart",
+        "texture": "M3-Stuart",
+        "attackPoint": 2,
+        "commandingPoint": 3,
+        "healthPoint": 2,
+        "abilities" : [],
+        "specialEffects" : [
+            {
+                "type" : 5,
+                "target" : 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 1,
+        "subClassType":0,
+        "name": "M3 Stuart",
+        "texture": "M3-Stuart",
+        "attackPoint": 2,
+        "commandingPoint": 3,
+        "healthPoint": 2,
+        "abilities" : [],
+        "specialEffects" : [
+            {
+                "type" : 5,
+                "target" : 0
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 0,
+        "subClassType":2,
+        "name": "101st Airborne Division",
+        "texture": "101st-Airborne-Division",
+        "attackPoint": 4,
+        "commandingPoint": 3,
+        "healthPoint": 4,
+        "abilities" : [],
+        "specialEffects" : [
+            {
+                "type" : 0,
+                "target" : 0,
+                "count" : 1
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 0,
+        "subClassType":2,
+        "name": "101st Airborne Division",
+        "texture": "101st-Airborne-Division",
+        "attackPoint": 4,
+        "commandingPoint": 3,
+        "healthPoint": 4,
+        "abilities" : [],
+        "specialEffects" : [
+            {
+                "type" : 0,
+                "target" : 0,
+                "count" : 1
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "faction": 0,
+        "rarity": 1,
+        "name": "War Production",
+        "texture": "War-Production",
+        "commandingPoint" : 3,
+        "specialEffects" : [
+            {
+                "type" : 4,
+                "count" : 2
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 1,
+        "subClassType":1,
+        "abilities" : [7],
+        "name": "M4 Sherman",
+        "texture": "M4-Sherman",
+        "attackPoint": 5,
+        "commandingPoint": 4,
+        "healthPoint": 4
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 1,
+        "subClassType":1,
+        "abilities" : [7],
+        "name": "M4 Sherman",
+        "texture": "M4-Sherman",
+        "attackPoint": 5,
+        "commandingPoint": 4,
+        "healthPoint": 4
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 3,
+        "subClassType":0,
+        "name": "P-40 Warhawk",
+        "texture": "P-40-Warhawk",
+        "attackPoint": 4,
+        "commandingPoint": 4,
+        "healthPoint": 4
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 0,
+        "subClassType":3,
+        "abilities" : [0],
+        "name": "P-40 Warhawk",
+        "texture": "P-40-Warhawk",
+        "attackPoint": 5,
+        "commandingPoint": 5,
+        "healthPoint": 5
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 0,
+        "subClassType":3,
+        "abilities" : [0],
+        "name": "Marine Raiders",
+        "texture": "Marine-Raiders",
+        "attackPoint": 5,
+        "commandingPoint": 5,
+        "healthPoint": 5
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 3,
+        "subClassType":3,
+        "name": "P-61 Black Widow",
+        "texture": "P-61-Black-Widow",
+        "attackPoint": 4,
+        "commandingPoint": 5,
+        "healthPoint": 6
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 3,
+        "subClassType":3,
+        "name": "P-61 Black Widow",
+        "texture": "P-61-Black-Widow",
+        "attackPoint": 4,
+        "commandingPoint": 5,
+        "healthPoint": 6
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 3,
+        "subClassType":1,
+        "abilities" : [7],
+        "name": "The Grumman F6F",
+        "texture": "The-Grumman-F6F",
+        "attackPoint": 5,
+        "commandingPoint": 5,
+        "healthPoint": 4
+    },
+    {
+        "type": 1,
+        "faction": 0,
+        "rarity": 1,
+        "name": "Buy War Bonds",
+        "texture": "Buy-War-Bonds",
+        "commandingPoint" : 5,
+        "specialEffects" : [
+            {
+                "type" : 4,
+                "count" : 2
+            },
+            {
+                "type" : 3,
+                "count" : 2
+            }
+        ]
+    },
+    {
+        "type": 1,
+        "faction": 0,
+        "rarity": 0,
+        "name": "Fight For Liberty",
+        "texture": "Fight-For-Liberty",
+        "commandingPoint" : 5,
+        "specialEffects" : [
+            {
+                "type" : 0,
+                "target" : 2,
+                "count" : 2
+            },
+            {
+                "type" : 1,
+                "target" : 2,
+                "count" : 1
+            },
+            {
+                "type" : 0,
+                "target" : 4,
+                "count" : 2
+            }
+        ]
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 1,
+        "faction": 0,
+        "classType": 3,
+        "subClassType":3,
+        "abilities" : [4],
+        "name": "B-24 Liberator",
+        "texture": "B-24-Liberator",
+        "attackPoint": 7,
+        "commandingPoint": 7,
+        "healthPoint": 5
+    },
+    {
+        "type": 0,
+        "id": 1,
+        "level": 0,
+        "rarity": 2,
+        "faction": 0,
+        "classType": 3,
+        "subClassType":3,
+        "abilities" : [1],
+        "name": "B-29 SuperFortress",
+        "texture": "B-29-SuperFortress",
+        "attackPoint": 7,
+        "commandingPoint": 9,
+        "healthPoint": 4
+    }
+]

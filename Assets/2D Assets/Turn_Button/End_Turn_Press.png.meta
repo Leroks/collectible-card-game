@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 36c388007f857f84899ee51255f458ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (1)
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1717
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50b617d5394f3247b3a31b5dbddc8ad
+      internalID: 1940786167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (10)
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1346
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abff9c347c756064ab49d36fe999fbb2
+      internalID: -1265151855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (11)
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 975
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f35a0244b0a5b4e823aaf1f24cbac0
+      internalID: -2044988472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (12)
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 975
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7d7b91852fbf440be2dc82e4558d4e
+      internalID: -1263356938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (13)
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 975
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330fba858b520d34eb7c9de7c0cdee30
+      internalID: 1686067381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (14)
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 975
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6207dfcd494ad1a45b6bd773a3fe14b0
+      internalID: -802652831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (15)
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 975
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b580165c2685b4f83e7e0635fa6335
+      internalID: 222817211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (16)
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 604
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa91def22c18de64481fa559070e1fd8
+      internalID: 2047137636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (17)
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 604
+        width: 306
+        height: 291
+      alignment: 9
+      pivot: {x: -3.986928, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb2b943b0926843b00a7569e1c6b50
+      internalID: 112907682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (18)
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 604
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3347ba6d0cdd0c34e97e547f91ac465f
+      internalID: 654239208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (19)
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 604
+        width: 305
+        height: 291
+      alignment: 9
+      pivot: {x: -4, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6c35330a549a44eb6189db614e9495
+      internalID: 476982411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (2)
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1717
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9cd8b478bc54e4b8d2a015128c90ef
+      internalID: 1829522552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (20)
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 604
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c742917fce72f1449a74a68a0cee376
+      internalID: -1581790615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (21)
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 233
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c4e3a616782f049abc8ba4a076686d
+      internalID: 1639019834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (3)
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1717
+        width: 298
+        height: 291
+      alignment: 9
+      pivot: {x: -4.09396, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efdeba1e14b14b4d89471f8cc58bdd6
+      internalID: 66395555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (4)
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1717
+        width: 296
+        height: 291
+      alignment: 9
+      pivot: {x: -4.1216216, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec49662b4e7ac14997cdcf9316098d4
+      internalID: -1778867322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (5)
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1717
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a1b940a2158b949b1f1c5f79c39c87
+      internalID: -574456789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (6)
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1346
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afa51333cb7071419bdd8f0795aacc1
+      internalID: -245343944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (7)
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1346
+        width: 305
+        height: 291
+      alignment: 9
+      pivot: {x: -4, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb8cb42cc0644d439343aed744e5889
+      internalID: -649552834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (8)
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1346
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6a73400f6fdf540a8d4900d24b2350
+      internalID: -1108508300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Press (9)
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1346
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d354c30a33d13547aa66ac40eaf29af
+      internalID: -1085920696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c1367fc9809d3bd4486153bf9dddead7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 8adcedc7ce31761469db40374fe7f3e7, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-End_Turn_Press (2): 1829522552
+      Base-End_Turn_Press (10): -1265151855
+      Base-End_Turn_Press (15): 222817211
+      Base-End_Turn_Press (21): 1639019834
+      Base-End_Turn_Press (12): -1263356938
+      Base-End_Turn_Press (16): 2047137636
+      Base-End_Turn_Press (4): -1778867322
+      Base-End_Turn_Press (8): -1108508300
+      Base-End_Turn_Press (14): -802652831
+      Base-End_Turn_Press (5): -574456789
+      Base-End_Turn_Press (19): 476982411
+      Base-End_Turn_Press (20): -1581790615
+      Base-End_Turn_Press (1): 1940786167
+      Base-End_Turn_Press (18): 654239208
+      Base-End_Turn_Press (9): -1085920696
+      Base-End_Turn_Press (6): -245343944
+      Base-End_Turn_Press (7): -649552834
+      Base-End_Turn_Press (13): 1686067381
+      Base-End_Turn_Press (17): 112907682
+      Base-End_Turn_Press (11): -2044988472
+      Base-End_Turn_Press (3): 66395555
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

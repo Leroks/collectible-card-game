@@ -1,0 +1,2456 @@
+fileFormatVersion: 2
+guid: d3fe38fb3fe1f0947b1d0c9fa3181a1a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (1)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc2310a9d8ec9c4e8d658bf71f506cd
+      internalID: 1679453586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (10)
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a7c2a6f3bc95f4a9f9931550efbc63
+      internalID: -942630955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (100)
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea35475b76842345838eb451154dd75
+      internalID: -1030965830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (101)
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d46fb5bbdd4b3478d9bfd7cde01407
+      internalID: 1258342676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (102)
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204315b7fe869034aa88534330e331fe
+      internalID: 563492124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (103)
+      rect:
+        serializedVersion: 2
+        x: 6929
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76d3d0a44ac09745a4fea5a84283297
+      internalID: 298390433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (104)
+      rect:
+        serializedVersion: 2
+        x: 7558
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d9f71ab93c8f459db3858bc9535cd
+      internalID: 1263212781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (105)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1443
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8524b73d4a68f184cb8631d63136abda
+      internalID: 1371606851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (106)
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1443
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11c09545971e9f4b887503f5e8554b7
+      internalID: -100521175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (11)
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2efedc72986da643ad5c4d72bd5e138
+      internalID: -1224111948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (12)
+      rect:
+        serializedVersion: 2
+        x: 6929
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2394fdd146ceb042af6b1726b044741
+      internalID: -2048636457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (13)
+      rect:
+        serializedVersion: 2
+        x: 7558
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea4cf7647f065f4eba37936e5e21346
+      internalID: 1890064684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (14)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053ce0761e2e4754789acddc35eb9d7c
+      internalID: 1930770081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (15)
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2360061f3664c946a7dfb37bd30b609
+      internalID: 1559983395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (16)
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ab2a615bbd5e84b87831f1304b0719
+      internalID: -789086506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (17)
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e372eec35075e5a478459fcde9acacc8
+      internalID: -1262242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (18)
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b9f41f6e0c5c94fad4907610474142
+      internalID: -304637379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (19)
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea04b34338e126045b2b722eb58b872a
+      internalID: 1771060047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (2)
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b262dba928e9594e9990cf3b5af5529
+      internalID: 901425770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (20)
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5761a375b3a3a7a4ea58ef96a83c8d5a
+      internalID: -114507018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (21)
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb38e0e5d27114cb974721c8380a2b
+      internalID: 1333913560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (22)
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1173a238f2180c649afd7cefb0865597
+      internalID: 1837600908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (23)
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a94f95fc654c54b8bae01838747ddb
+      internalID: -1475250204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (24)
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9f813836f7a154b808ae55042c84a5
+      internalID: -1619757403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (25)
+      rect:
+        serializedVersion: 2
+        x: 6929
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f5fa3dbea782c499a8d0dc60d58e58
+      internalID: -271862292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (26)
+      rect:
+        serializedVersion: 2
+        x: 7558
+        y: 6700
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abc39a704444bf4ca84b276d1c8bc8d
+      internalID: 268254890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (27)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39711bbaebbe03443a9055629fb1776b
+      internalID: 1266343015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (28)
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571ffe5d1051c604792a1a3331fcbaf3
+      internalID: 964866408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (29)
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8327f777312ffe49bbc1a26d1615e09
+      internalID: -172034375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (3)
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4e0ed3ab825f841a13c6e5a04c2866
+      internalID: -1323436444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (30)
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2a1b98d974fe248b9ef82b859e413a
+      internalID: -861340795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (31)
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e7ba566f656fd4cb4c159f6b19db32
+      internalID: -1566177977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (32)
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39459531220cbf044aaa0287d2811ea4
+      internalID: -944683300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (33)
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53f6c5e85d1f054681e61a5dc48a8b8
+      internalID: -880137800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (34)
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9b38f1bb8ec4d4ebb8a09aff5d4778
+      internalID: -1804072781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (35)
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b395d7a9a622b9448433457fe227bcc
+      internalID: -1628699128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (36)
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a759be67ef9b9374ebe9df4e201163cc
+      internalID: 59667064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (37)
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0213def3ca0a54b9083105a9a5e909
+      internalID: -99745962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (38)
+      rect:
+        serializedVersion: 2
+        x: 6929
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2a966fcca878b45a1e4c390ba299de
+      internalID: 292273997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (39)
+      rect:
+        serializedVersion: 2
+        x: 7558
+        y: 5949
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b4292ae6e089a49947d5fdf1fb0970
+      internalID: 2111199971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (4)
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7372c42d8db4bed4eb022aff42fec637
+      internalID: 244745233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (40)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90762c00555f0fc4b9e53b6ecf0fa3c4
+      internalID: -674769917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (41)
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c050a68ade657043ae118e58752d38c
+      internalID: 1337375685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (42)
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6f3d82db753684788ddb9a34456cc5
+      internalID: 264363170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (43)
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bda1e3cba55b34ba3ee448575be7f9
+      internalID: 611965193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (44)
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60190c10f3aa7d5478c34fdd965a2536
+      internalID: -1604366821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (45)
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca6e83a51b7fcf478b5467b86188011
+      internalID: -2083774244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (46)
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c6af5e17bba9c4383b00a504c05675
+      internalID: 158694978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (47)
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab7d48beab20be4a8219666edcdf9b2
+      internalID: -684964329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (48)
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b7dcb2c03a3ec4b9c90584f8159474
+      internalID: 1679398323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (49)
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeff487e03e2c9340af3445973363f10
+      internalID: -580502335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (5)
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bcb1c261cb7e746874f2fb047dcb10
+      internalID: -1223639512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (50)
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda010bc651a9b7438bc5a07f10cc51b
+      internalID: 2094676933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (51)
+      rect:
+        serializedVersion: 2
+        x: 6929
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2ec6fd589be88489e934d19ffcb782
+      internalID: 1501162322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (52)
+      rect:
+        serializedVersion: 2
+        x: 7558
+        y: 5198
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2268d814919a5ad41a1893160caebb96
+      internalID: 1609607918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (53)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4b92c6c1408cd40abc60ace4f85156
+      internalID: -373835636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (54)
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe31daeda99d0e44bb1428b02d2f6219
+      internalID: 1081491348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (55)
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c14a85854b0d4479d0cee05b44cda3
+      internalID: 779307953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (56)
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8386e3c54ef98e34aa4a6db29b7613e8
+      internalID: 540184791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (57)
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f444950175e2842a49a117ea7da418
+      internalID: 598724279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (58)
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec5d2c4fa33e7d4e8882eac97a9e164
+      internalID: 795537604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (59)
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e353419668bbe5d43920b4b9aeaa2d22
+      internalID: -1648236675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (6)
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c300ba5c34c91459d8e0ceecef4c29
+      internalID: 1930084177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (60)
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71727740eba453a47bb399e0b7bb8caf
+      internalID: 547468949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (61)
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b385ec5a2c44f74eb5d12c4879c796b
+      internalID: -1568516708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (62)
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450d6dbe3e34454db16dc74de6b38c4
+      internalID: -1010946195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (63)
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36adbb730e7d23245b7649186c24c528
+      internalID: -1320389776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (64)
+      rect:
+        serializedVersion: 2
+        x: 6929
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bfe2492fd08e245953f2aa80a34221
+      internalID: 37679392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (65)
+      rect:
+        serializedVersion: 2
+        x: 7558
+        y: 4447
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94760377265888f469b4b0a8ad248a21
+      internalID: 173806339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (66)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981f109939cfcfd45bab69baba140d07
+      internalID: -166931084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (67)
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f268797b0a262c946babc053a677741f
+      internalID: 54545911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (68)
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9a53aed2a282541abbd18024f1791e
+      internalID: 2055801009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (69)
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1106243b437cfc4fb6f2a4b09ce7282
+      internalID: 833780642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (7)
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51b883e35bd0474a8883ba718a1469b
+      internalID: -1703844956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (70)
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9505eb2300d121458e2bc9e109b77be
+      internalID: -1643370092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (71)
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadc143566c49fe4da25e3369611694f
+      internalID: -2070323947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (72)
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b1763b559ca2e4faf76980a926556f
+      internalID: -160512135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (73)
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5d18afc9c72894da13f8a61d57d743
+      internalID: -590300011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (74)
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a1b42d338f3c14ebff6010325eb2cf
+      internalID: -751560858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (75)
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef0bfdf6dd2ae04bb3717833e2b03c6
+      internalID: 609830029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (76)
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf654d1d0de82dc4489bdf19af082f56
+      internalID: -384988366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (77)
+      rect:
+        serializedVersion: 2
+        x: 6929
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533fe424518dbb041abbd4cdb673d5a3
+      internalID: -1543368934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (78)
+      rect:
+        serializedVersion: 2
+        x: 7558
+        y: 3696
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501078138b00ba844bf57c90de10e42e
+      internalID: 706542512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (79)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595eb47ce6ee294c98b5011bafef210
+      internalID: 434192007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (8)
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df64854d7ecc11749828e0f1ecd57389
+      internalID: 1426581293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (80)
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e946f1d6c6e004a48958719dbd813c69
+      internalID: 1722363241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (81)
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06a53e63bb09844b94f39e6292baa11
+      internalID: 565128871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (82)
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef73fc4dd53fc284a8c629d731d49df1
+      internalID: -94787486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (83)
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8e71ea6f1e1b74e860e218333fb7f9
+      internalID: -224442572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (84)
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decba51879fb7ac4d975b7b948e4958b
+      internalID: -288598949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (85)
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b665ba54e806d419b63023e93229ef
+      internalID: 111817246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (86)
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bd0c62cd01beb4aa519a0b0a832779
+      internalID: 254903949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (87)
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4901cc55ae59284a961752fa01c6b2e
+      internalID: 356401170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (88)
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b8faba3fe01d746838b507c62bb9f9
+      internalID: 2058273069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (89)
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8816d1b23558a418b564b3ef514657
+      internalID: 1768531181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (9)
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 7451
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5b4028b41156944947d8d7b9d6eef8
+      internalID: 1038949695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (90)
+      rect:
+        serializedVersion: 2
+        x: 6929
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f19a63dd2acc64f9f7bec96f217899
+      internalID: 2008314955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (91)
+      rect:
+        serializedVersion: 2
+        x: 7558
+        y: 2945
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992e1240d0a9f30498de643ed7c67cb5
+      internalID: 234485840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (92)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d8d907007cbca46af948a171d11eff
+      internalID: -502207934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (93)
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1ce48050d0a83449fde4ff193a00ba
+      internalID: -1344588959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (94)
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c32ce790e3a15444b3a869b5571591b
+      internalID: 134158838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (95)
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8be9bc17fec5a445b5f1fb3661510f7
+      internalID: 1897762066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (96)
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1572c55cd2c6c04c91e727abb0c9100
+      internalID: -539224892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (97)
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7532ca9edf2474cbeab31379c5bbd0
+      internalID: -798524266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (98)
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e7f1f86c4aa9240aa11ad6c1823a90
+      internalID: 1512408258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-DidoShip_Flama (99)
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 2194
+        width: 609
+        height: 731
+      alignment: 9
+      pivot: {x: 3.1527092, y: 1.4774282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5610e3581cb48bf4fa6bae7ee1e18d34
+      internalID: -1364636515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b7642e0946dd4b540bce1fb5c34777ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: c95e5b7be73d04641aa2283dc871438e, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-DidoShip_Flama (22): 1837600908
+      Base-DidoShip_Flama (27): 1266343015
+      Base-DidoShip_Flama (72): -160512135
+      Base-DidoShip_Flama (84): -288598949
+      Base-DidoShip_Flama (43): 611965193
+      Base-DidoShip_Flama (12): -2048636457
+      Base-DidoShip_Flama (31): -1566177977
+      Base-DidoShip_Flama (3): -1323436444
+      Base-DidoShip_Flama (10): -942630955
+      Base-DidoShip_Flama (42): 264363170
+      Base-DidoShip_Flama (14): 1930770081
+      Base-DidoShip_Flama (29): -172034375
+      Base-DidoShip_Flama (5): -1223639512
+      Base-DidoShip_Flama (88): 2058273069
+      Base-DidoShip_Flama (17): -1262242
+      Base-DidoShip_Flama (34): -1804072781
+      Base-DidoShip_Flama (55): 779307953
+      Base-DidoShip_Flama (59): -1648236675
+      Base-DidoShip_Flama (68): 2055801009
+      Base-DidoShip_Flama (32): -944683300
+      Base-DidoShip_Flama (96): -539224892
+      Base-DidoShip_Flama (40): -674769917
+      Base-DidoShip_Flama (66): -166931084
+      Base-DidoShip_Flama (24): -1619757403
+      Base-DidoShip_Flama (70): -1643370092
+      Base-DidoShip_Flama (56): 540184791
+      Base-DidoShip_Flama (100): -1030965830
+      Base-DidoShip_Flama (63): -1320389776
+      Base-DidoShip_Flama (64): 37679392
+      Base-DidoShip_Flama (60): 547468949
+      Base-DidoShip_Flama (69): 833780642
+      Base-DidoShip_Flama (67): 54545911
+      Base-DidoShip_Flama (95): 1897762066
+      Base-DidoShip_Flama (103): 298390433
+      Base-DidoShip_Flama (77): -1543368934
+      Base-DidoShip_Flama (87): 356401170
+      Base-DidoShip_Flama (47): -684964329
+      Base-DidoShip_Flama (91): 234485840
+      Base-DidoShip_Flama (13): 1890064684
+      Base-DidoShip_Flama (30): -861340795
+      Base-DidoShip_Flama (98): 1512408258
+      Base-DidoShip_Flama (9): 1038949695
+      Base-DidoShip_Flama (15): 1559983395
+      Base-DidoShip_Flama (1): 1679453586
+      Base-DidoShip_Flama (71): -2070323947
+      Base-DidoShip_Flama (38): 292273997
+      Base-DidoShip_Flama (23): -1475250204
+      Base-DidoShip_Flama (44): -1604366821
+      Base-DidoShip_Flama (105): 1371606851
+      Base-DidoShip_Flama (102): 563492124
+      Base-DidoShip_Flama (8): 1426581293
+      Base-DidoShip_Flama (39): 2111199971
+      Base-DidoShip_Flama (48): 1679398323
+      Base-DidoShip_Flama (75): 609830029
+      Base-DidoShip_Flama (57): 598724279
+      Base-DidoShip_Flama (62): -1010946195
+      Base-DidoShip_Flama (36): 59667064
+      Base-DidoShip_Flama (41): 1337375685
+      Base-DidoShip_Flama (50): 2094676933
+      Base-DidoShip_Flama (85): 111817246
+      Base-DidoShip_Flama (65): 173806339
+      Base-DidoShip_Flama (94): 134158838
+      Base-DidoShip_Flama (37): -99745962
+      Base-DidoShip_Flama (51): 1501162322
+      Base-DidoShip_Flama (101): 1258342676
+      Base-DidoShip_Flama (76): -384988366
+      Base-DidoShip_Flama (53): -373835636
+      Base-DidoShip_Flama (90): 2008314955
+      Base-DidoShip_Flama (11): -1224111948
+      Base-DidoShip_Flama (18): -304637379
+      Base-DidoShip_Flama (81): 565128871
+      Base-DidoShip_Flama (89): 1768531181
+      Base-DidoShip_Flama (61): -1568516708
+      Base-DidoShip_Flama (82): -94787486
+      Base-DidoShip_Flama (4): 244745233
+      Base-DidoShip_Flama (19): 1771060047
+      Base-DidoShip_Flama (104): 1263212781
+      Base-DidoShip_Flama (52): 1609607918
+      Base-DidoShip_Flama (20): -114507018
+      Base-DidoShip_Flama (35): -1628699128
+      Base-DidoShip_Flama (6): 1930084177
+      Base-DidoShip_Flama (74): -751560858
+      Base-DidoShip_Flama (92): -502207934
+      Base-DidoShip_Flama (28): 964866408
+      Base-DidoShip_Flama (49): -580502335
+      Base-DidoShip_Flama (54): 1081491348
+      Base-DidoShip_Flama (21): 1333913560
+      Base-DidoShip_Flama (79): 434192007
+      Base-DidoShip_Flama (86): 254903949
+      Base-DidoShip_Flama (2): 901425770
+      Base-DidoShip_Flama (26): 268254890
+      Base-DidoShip_Flama (16): -789086506
+      Base-DidoShip_Flama (58): 795537604
+      Base-DidoShip_Flama (106): -100521175
+      Base-DidoShip_Flama (46): 158694978
+      Base-DidoShip_Flama (33): -880137800
+      Base-DidoShip_Flama (73): -590300011
+      Base-DidoShip_Flama (93): -1344588959
+      Base-DidoShip_Flama (83): -224442572
+      Base-DidoShip_Flama (45): -2083774244
+      Base-DidoShip_Flama (80): 1722363241
+      Base-DidoShip_Flama (7): -1703844956
+      Base-DidoShip_Flama (99): -1364636515
+      Base-DidoShip_Flama (97): -798524266
+      Base-DidoShip_Flama (25): -271862292
+      Base-DidoShip_Flama (78): 706542512
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

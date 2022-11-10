@@ -1,0 +1,2774 @@
+fileFormatVersion: 2
+guid: 42e940baa3c8ff349983c4f52d3ddbcc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (1)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15314
+        width: 2000
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.4805, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9637a2a869a23b469366d118f2c0c49
+      internalID: -175489555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (10)
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 14243
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.49543148, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240462a0e1989ec4fa9864170056d499
+      internalID: 253800863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (100)
+      rect:
+        serializedVersion: 2
+        x: 5917
+        y: 2462
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.49543148, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a10cf40956533499c4cfe3d97e8f29
+      internalID: -638962522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (101)
+      rect:
+        serializedVersion: 2
+        x: 7889
+        y: 2462
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.49796954, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c410f1a41c08d42bd3361e9d743d04
+      internalID: -969792194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (102)
+      rect:
+        serializedVersion: 2
+        x: 9861
+        y: 2462
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5005076, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d569f26af96d94c86a9217b772be49
+      internalID: -2087227666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (103)
+      rect:
+        serializedVersion: 2
+        x: 11833
+        y: 2462
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5030457, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7cae47af9c1a54f841c0b2a234ec58
+      internalID: -191655241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (104)
+      rect:
+        serializedVersion: 2
+        x: 13805
+        y: 2462
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.50558376, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbf1841749e747478e75aaa9ff35c55
+      internalID: 148141699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (105)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1391
+        width: 1971
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.50786406, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b366adc3e6b0ce498313743fe55a5c2
+      internalID: -1446388983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (106)
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1391
+        width: 1969
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5104114, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55f7083fb2fc24409cf99a8b6376c24
+      internalID: 29794583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (107)
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 1391
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.51269037, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3447cd8294a9e344a2e1e11f7627362
+      internalID: -1037106689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (108)
+      rect:
+        serializedVersion: 2
+        x: 5917
+        y: 1391
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.51522845, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751464b7ee255a34ea8026aec5cddf30
+      internalID: -646560641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (109)
+      rect:
+        serializedVersion: 2
+        x: 7889
+        y: 1391
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5177665, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be7bfa3955e0a2438c8134ba66ea14b
+      internalID: 1577884408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (11)
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 14243
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.49796954, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4379645936d9b4d91618fd57e0e040
+      internalID: -419228552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (110)
+      rect:
+        serializedVersion: 2
+        x: 9861
+        y: 1391
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52030456, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3680576e2b28f5046b7347e579e0b8d2
+      internalID: -2145465908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (111)
+      rect:
+        serializedVersion: 2
+        x: 11833
+        y: 1391
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52284265, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1726afdb800767f4b846eaa5ac981331
+      internalID: -1320075592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (112)
+      rect:
+        serializedVersion: 2
+        x: 13805
+        y: 1391
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52538073, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1080fc3d604a54785c1a6e766ffb88
+      internalID: -1275933726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (113)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52791876, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af78e47e81b164c44b2c38be387d7562
+      internalID: 1421226909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (114)
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 320
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.53045684, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb5761f435fdab4ea797f90efb91aed
+      internalID: -1289896573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (115)
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 320
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5329949, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615999b71c21fbb4eb9d2b76698547a6
+      internalID: -1263754081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (116)
+      rect:
+        serializedVersion: 2
+        x: 5917
+        y: 320
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.535533, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eb4837ff2bf9248baaed3fd0aed70e
+      internalID: -578869481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (117)
+      rect:
+        serializedVersion: 2
+        x: 7889
+        y: 320
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.53807104, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5238e9c66407548a952b1d1f76a0bc
+      internalID: -1218355538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (118)
+      rect:
+        serializedVersion: 2
+        x: 9861
+        y: 320
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5406091, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abc79ddb6253374d868cba2aab3ded3
+      internalID: -726237528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (119)
+      rect:
+        serializedVersion: 2
+        x: 11833
+        y: 320
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5431472, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1449d201996e2419a91eb5474088b5
+      internalID: -1527727108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (12)
+      rect:
+        serializedVersion: 2
+        x: 5917
+        y: 14243
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5005076, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df61e860c2f3d4999a3f2b5d9fa8b0
+      internalID: -543630193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (120)
+      rect:
+        serializedVersion: 2
+        x: 13805
+        y: 320
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5456853, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15d87a24cb40a34f8595ba20de0a36b
+      internalID: -907231932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (13)
+      rect:
+        serializedVersion: 2
+        x: 7889
+        y: 14243
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5030457, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d05530d74a62e34b8bf7456c2ccc9e6
+      internalID: 670319670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (14)
+      rect:
+        serializedVersion: 2
+        x: 9861
+        y: 14243
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.50558376, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c421b733011cb6c4fb38965bf622df93
+      internalID: -602763416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (15)
+      rect:
+        serializedVersion: 2
+        x: 11833
+        y: 14243
+        width: 1971
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.50786406, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a81a01e5b8605d4b87f6c251215d46a
+      internalID: -1913411038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (16)
+      rect:
+        serializedVersion: 2
+        x: 13806
+        y: 14243
+        width: 1969
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5104114, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae8904dff1d83845826a539eae2d84c
+      internalID: -1276466474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (17)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13172
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.51269037, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe08bed0b0929e4b972de35fb24d680
+      internalID: -1586905429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (18)
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 13172
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.51522845, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f1381f3665e22449d6ccc8f129465a
+      internalID: -783488654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (19)
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 13172
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5177665, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc70862fc1db82d44a29451ed47139e5
+      internalID: 678992857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (2)
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 15314
+        width: 1995
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48170426, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb62874b01297943b1461f577f49807
+      internalID: -1589660457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (20)
+      rect:
+        serializedVersion: 2
+        x: 5917
+        y: 13172
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52030456, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022c9b315b5657041a210144e9d8947b
+      internalID: -1910107154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (21)
+      rect:
+        serializedVersion: 2
+        x: 7889
+        y: 13172
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52284265, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb28cdd5721bec54ea5396fdb1267e26
+      internalID: 513636886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (22)
+      rect:
+        serializedVersion: 2
+        x: 9861
+        y: 13172
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52538073, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4440f21160d6ee43ad832bcdca642c6
+      internalID: 314453832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (23)
+      rect:
+        serializedVersion: 2
+        x: 11833
+        y: 13172
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52791876, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8497415056c23af4ea20c77de3cdc667
+      internalID: -578304731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (24)
+      rect:
+        serializedVersion: 2
+        x: 13805
+        y: 13172
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.53045684, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92cd362e152c3e4abaa67acef5d34cb
+      internalID: -390084764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (25)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12101
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5329949, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca7891228ec98241b182b8e90915c24
+      internalID: 1607506046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (26)
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 12101
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.535533, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76077ff75d470747a3b7628cdba290e
+      internalID: -1522783548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (27)
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 12101
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.53807104, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dc32feb798f464eb869b81b316ef57
+      internalID: -510826015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (28)
+      rect:
+        serializedVersion: 2
+        x: 5917
+        y: 12101
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5406091, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5781f6e4f7f2e409a90f883a5fe0dc
+      internalID: 1161015718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (29)
+      rect:
+        serializedVersion: 2
+        x: 7889
+        y: 12101
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5431472, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f18536e9a389f46a5d38acbf6c631b
+      internalID: -1783808830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (3)
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 15314
+        width: 1990
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48291457, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bf46aa9e6f4fa479a2808279585ab0
+      internalID: 1894314305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (30)
+      rect:
+        serializedVersion: 2
+        x: 9861
+        y: 12101
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5456853, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739938e48bb11c8489f62f2851d944d8
+      internalID: -512245354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (31)
+      rect:
+        serializedVersion: 2
+        x: 11833
+        y: 12101
+        width: 2000
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.4805, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61afdd34f8dfce4ea07cb3231edbc43
+      internalID: 679377495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (32)
+      rect:
+        serializedVersion: 2
+        x: 13835
+        y: 12101
+        width: 1995
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48170426, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b929c6346c0108b4489491f5cbd07c01
+      internalID: -511716111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (33)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11030
+        width: 1990
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48291457, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1fa226856531e4e837a5b5ea014d8e
+      internalID: 1809694994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (34)
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 11030
+        width: 1985
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48413098, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677f66d6f52a7ee4c87a7fab72a3bab4
+      internalID: 599823370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (35)
+      rect:
+        serializedVersion: 2
+        x: 3980
+        y: 11030
+        width: 1980
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48535353, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f6d8fe4587b3242bdab63d5b252a64
+      internalID: -1330715344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (36)
+      rect:
+        serializedVersion: 2
+        x: 5962
+        y: 11030
+        width: 1975
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48658228, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfa860f262f3c8439d76b63a68c9625
+      internalID: -1152346998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (37)
+      rect:
+        serializedVersion: 2
+        x: 7939
+        y: 11030
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48781726, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3388cf6a2d4d6c64fb809a856a6599a6
+      internalID: 433358464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (38)
+      rect:
+        serializedVersion: 2
+        x: 9911
+        y: 11030
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.49035534, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28f28ad6bcdb3f44922f00e1489d40c
+      internalID: -160267739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (39)
+      rect:
+        serializedVersion: 2
+        x: 11883
+        y: 11030
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.4928934, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4bb3e7fa8eff348ba912d41d609da2
+      internalID: 1468046821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (4)
+      rect:
+        serializedVersion: 2
+        x: 5992
+        y: 15314
+        width: 1985
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48413098, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e283cad81f4b22a40a0b24abcb151fe8
+      internalID: 1849215907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (40)
+      rect:
+        serializedVersion: 2
+        x: 13855
+        y: 11030
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.49543148, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71ab00c5b2ccfc418cf59646eac7eec
+      internalID: 1495978431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (41)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9959
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.49796954, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c27b8e72375564888ab7fd2e2c36f3
+      internalID: 1612044608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (42)
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 9959
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5005076, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda923347f57df74783be151c2015443
+      internalID: -1719245157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (43)
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 9959
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5030457, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c0d662705e5fd4d911245a149363fa
+      internalID: 1646360224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (44)
+      rect:
+        serializedVersion: 2
+        x: 5917
+        y: 9959
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.50558376, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b43ea88d04d114086582611b3ae3f4
+      internalID: 1420968496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (45)
+      rect:
+        serializedVersion: 2
+        x: 7889
+        y: 9959
+        width: 1971
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.50786406, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fa1d48d643d5e40a5f383f6de3b328
+      internalID: 1368990124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (46)
+      rect:
+        serializedVersion: 2
+        x: 9862
+        y: 9959
+        width: 1969
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5104114, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b7d668308a6a54bad8f9b95e94c85d
+      internalID: 300666018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (47)
+      rect:
+        serializedVersion: 2
+        x: 11833
+        y: 9959
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.51269037, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bff110404de974bbcac7ef5907f104
+      internalID: 311332413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (48)
+      rect:
+        serializedVersion: 2
+        x: 13805
+        y: 9959
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.51522845, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beee567d7fce75644b8c3ba6ce204afd
+      internalID: -1182186128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (49)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8888
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5177665, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c793afbda9801e48ad6499c7b447844
+      internalID: 1918793754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (5)
+      rect:
+        serializedVersion: 2
+        x: 7979
+        y: 15314
+        width: 1980
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48535353, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbc015659436b84eb3296bdc6a4d05b
+      internalID: -1931743774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (50)
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 8888
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52030456, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e7cc43743ee1f43850944a2e3169ca
+      internalID: -583492602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (51)
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 8888
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52284265, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2526101cb23aaf45ad20e03d04edddb
+      internalID: 2116987081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (52)
+      rect:
+        serializedVersion: 2
+        x: 5917
+        y: 8888
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52538073, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302444c55e0f41f4b9b60e85b1c03aa9
+      internalID: 121576022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (53)
+      rect:
+        serializedVersion: 2
+        x: 7889
+        y: 8888
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52791876, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44441d5da56ce6e4eb5f756e94821eb0
+      internalID: 1791538817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (54)
+      rect:
+        serializedVersion: 2
+        x: 9861
+        y: 8888
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.53045684, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33b12261360db34396ab01971702205
+      internalID: -404685965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (55)
+      rect:
+        serializedVersion: 2
+        x: 11833
+        y: 8888
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5329949, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734bacd3ab6a0db4a94594db4ef9e81c
+      internalID: -1661061217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (56)
+      rect:
+        serializedVersion: 2
+        x: 13805
+        y: 8888
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.535533, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d42d0ff818537e4c8ed5eb2b5cf87aa
+      internalID: 1662048423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (57)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7817
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.53807104, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1c55f6c96c44949a0a41e88f5c510f
+      internalID: 1438515975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (58)
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 7817
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5406091, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b851f39b50679b04e97b96d1b61f34ed
+      internalID: -1085697657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (59)
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 7817
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5431472, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb15b06d56641448898c51bdb8e12ab
+      internalID: -1827984488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (6)
+      rect:
+        serializedVersion: 2
+        x: 9961
+        y: 15314
+        width: 1975
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48658228, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccd67e6a9e059742a69c115a47b31ee
+      internalID: -2143904513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (60)
+      rect:
+        serializedVersion: 2
+        x: 5917
+        y: 7817
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5456853, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dc6eae796a4cc498fc14048cd652dc
+      internalID: 1867474264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (61)
+      rect:
+        serializedVersion: 2
+        x: 7889
+        y: 7817
+        width: 2000
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.4805, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5088cd6a61764f4f8bd59c79e330b8d
+      internalID: 1938466831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (62)
+      rect:
+        serializedVersion: 2
+        x: 9891
+        y: 7817
+        width: 1995
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48170426, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76425a42dba171429c475e547d7df63
+      internalID: 1970277104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (63)
+      rect:
+        serializedVersion: 2
+        x: 11888
+        y: 7817
+        width: 1990
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48291457, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1979d324d974eca48a8b090437cf7112
+      internalID: -1504887109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (64)
+      rect:
+        serializedVersion: 2
+        x: 13880
+        y: 7817
+        width: 1985
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48413098, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce83329dfd192694da1a270a55ada96e
+      internalID: 2019513271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (65)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6746
+        width: 1980
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48535353, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395b1c082703f36448abac027bc0d0e6
+      internalID: -948968138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (66)
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 6746
+        width: 1975
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48658228, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e74dbaee67bbb4a8c58cf674a20eac
+      internalID: -367798470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (67)
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 6746
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48781726, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb347d0d8efb39f4287c18e25b7496b4
+      internalID: 1818465056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (68)
+      rect:
+        serializedVersion: 2
+        x: 5932
+        y: 6746
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.49035534, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323622544ccb6e44c8625057a7244f04
+      internalID: 116796757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (69)
+      rect:
+        serializedVersion: 2
+        x: 7904
+        y: 6746
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.4928934, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f13983134dc9a84e878e60ebbac7c4f
+      internalID: -2074064071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (7)
+      rect:
+        serializedVersion: 2
+        x: 11938
+        y: 15314
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48781726, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f9525d9c689c3489882533d38bc357
+      internalID: 1882830017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (70)
+      rect:
+        serializedVersion: 2
+        x: 9876
+        y: 6746
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.49543148, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d659df5ce6ce548ba9b79534393e4b
+      internalID: 773250789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (71)
+      rect:
+        serializedVersion: 2
+        x: 11848
+        y: 6746
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.49796954, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98d6eda9bcc2a54580e9fcd3c0814af
+      internalID: -264352771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (72)
+      rect:
+        serializedVersion: 2
+        x: 13820
+        y: 6746
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5005076, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75666868aeab7c49ade912bdc8a3a63
+      internalID: 963001714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (73)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5675
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5030457, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec047b1e87b8048b42b79f2dac986b
+      internalID: -2100493491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (74)
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 5675
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.50558376, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0568377daf935154d987b7d088942bc0
+      internalID: 1092608123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (75)
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 5675
+        width: 1971
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.50786406, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6110a412964d7e548aabeea5ed41549b
+      internalID: 710019993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (76)
+      rect:
+        serializedVersion: 2
+        x: 5918
+        y: 5675
+        width: 1969
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5104114, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064917dfa45f0ea4ba2f46c8acc88518
+      internalID: 1769442111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (77)
+      rect:
+        serializedVersion: 2
+        x: 7889
+        y: 5675
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.51269037, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2311421cfb8de48807bc254be8c024
+      internalID: -1168390751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (78)
+      rect:
+        serializedVersion: 2
+        x: 9861
+        y: 5675
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.51522845, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9ce85527e7fd2499c05c78262864cd
+      internalID: -891427579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (79)
+      rect:
+        serializedVersion: 2
+        x: 11833
+        y: 5675
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5177665, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f24b66ac2dd146a8782d0b4079fd2
+      internalID: 1243293838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (8)
+      rect:
+        serializedVersion: 2
+        x: 13910
+        y: 15314
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.49035534, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee83db85785766e449fd58144be9e408
+      internalID: -1397352831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (80)
+      rect:
+        serializedVersion: 2
+        x: 13805
+        y: 5675
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52030456, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7882d18759bfb4942bcff6b53bf1268b
+      internalID: -193138873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (81)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4604
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52284265, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6835e470f0434498711c34b170b6ad
+      internalID: -1911435408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (82)
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 4604
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52538073, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d398f44422f99f4d9800b2858a3e6ea
+      internalID: 684907385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (83)
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 4604
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.52791876, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b30537e58aa80a48a75126748b140b2
+      internalID: 137810988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (84)
+      rect:
+        serializedVersion: 2
+        x: 5917
+        y: 4604
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.53045684, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e20ef9a7dc357488931f5787762035
+      internalID: -1800936808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (85)
+      rect:
+        serializedVersion: 2
+        x: 7889
+        y: 4604
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5329949, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9966c02484a041b4aa796dd2af85d13e
+      internalID: -1073143331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (86)
+      rect:
+        serializedVersion: 2
+        x: 9861
+        y: 4604
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.535533, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb62b504fc8a25e4c80f4a99dda22a1c
+      internalID: 1117300125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (87)
+      rect:
+        serializedVersion: 2
+        x: 11833
+        y: 4604
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.53807104, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d52a068bb2e94ba83c380b2d35e7f
+      internalID: -1890931263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (88)
+      rect:
+        serializedVersion: 2
+        x: 13805
+        y: 4604
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5406091, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a2b3cac5a3254a920963e76b12b9e
+      internalID: 660500783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (89)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3533
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5431472, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a7bf33333c596478264962c04bc502
+      internalID: 911423613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (9)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14243
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.4928934, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f7bf5948962e7418da8fca7cab4884
+      internalID: -660589168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (90)
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 3533
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.5456853, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0977cf10045fea74a82f05414e8aae93
+      internalID: -1416546186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (91)
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 3533
+        width: 2000
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.4805, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb86fae7ebb2a54393b35ee6424489d
+      internalID: -622337752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (92)
+      rect:
+        serializedVersion: 2
+        x: 5947
+        y: 3533
+        width: 1995
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48170426, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e3f5d8c9dd28149aaff7a8c20fca77
+      internalID: 492065603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (93)
+      rect:
+        serializedVersion: 2
+        x: 7944
+        y: 3533
+        width: 1990
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48291457, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4d190d0dd552d42a153427e1b2393d
+      internalID: 11273238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (94)
+      rect:
+        serializedVersion: 2
+        x: 9936
+        y: 3533
+        width: 1985
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48413098, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5983bb2b5199ed478be9d221419cfae
+      internalID: 2077259234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (95)
+      rect:
+        serializedVersion: 2
+        x: 11923
+        y: 3533
+        width: 1980
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48535353, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38d5e2b30de268449a6fad0e5bda0a4
+      internalID: 412865845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (96)
+      rect:
+        serializedVersion: 2
+        x: 13905
+        y: 3533
+        width: 1975
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48658228, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96645dd4cc9898f46b33c03f79e812fd
+      internalID: 1688470720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (97)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2462
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.48781726, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec82b0d51f87f54aa5640956f911801
+      internalID: -2073817542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (98)
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 2462
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.49035534, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f8906a0c4a92f4b884479912a55724
+      internalID: -527804026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Arka_Mechanism (99)
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 2462
+        width: 1970
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.4928934, y: 0.49579045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d27f1c64554b34ea919858ac1f37de
+      internalID: -797353587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0ef0fb94c978452429b53dc26374dd53
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Menu_Arka_Mechanism (107): -1037106689
+      Menu_Arka_Mechanism (27): -510826015
+      Menu_Arka_Mechanism (115): -1263754081
+      Menu_Arka_Mechanism (72): 963001714
+      Menu_Arka_Mechanism (46): 300666018
+      Menu_Arka_Mechanism (97): -2073817542
+      Menu_Arka_Mechanism (10): 253800863
+      Menu_Arka_Mechanism (118): -726237528
+      Menu_Arka_Mechanism (9): -660589168
+      Menu_Arka_Mechanism (35): -1330715344
+      Menu_Arka_Mechanism (76): 1769442111
+      Menu_Arka_Mechanism (36): -1152346998
+      Menu_Arka_Mechanism (15): -1913411038
+      Menu_Arka_Mechanism (2): -1589660457
+      Menu_Arka_Mechanism (39): 1468046821
+      Menu_Arka_Mechanism (49): 1918793754
+      Menu_Arka_Mechanism (101): -969792194
+      Menu_Arka_Mechanism (119): -1527727108
+      Menu_Arka_Mechanism (89): 911423613
+      Menu_Arka_Mechanism (111): -1320075592
+      Menu_Arka_Mechanism (98): -527804026
+      Menu_Arka_Mechanism (64): 2019513271
+      Menu_Arka_Mechanism (59): -1827984488
+      Menu_Arka_Mechanism (90): -1416546186
+      Menu_Arka_Mechanism (116): -578869481
+      Menu_Arka_Mechanism (11): -419228552
+      Menu_Arka_Mechanism (42): -1719245157
+      Menu_Arka_Mechanism (91): -622337752
+      Menu_Arka_Mechanism (60): 1867474264
+      Menu_Arka_Mechanism (45): 1368990124
+      Menu_Arka_Mechanism (86): 1117300125
+      Menu_Arka_Mechanism (17): -1586905429
+      Menu_Arka_Mechanism (6): -2143904513
+      Menu_Arka_Mechanism (117): -1218355538
+      Menu_Arka_Mechanism (65): -948968138
+      Menu_Arka_Mechanism (24): -390084764
+      Menu_Arka_Mechanism (21): 513636886
+      Menu_Arka_Mechanism (5): -1931743774
+      Menu_Arka_Mechanism (48): -1182186128
+      Menu_Arka_Mechanism (38): -160267739
+      Menu_Arka_Mechanism (40): 1495978431
+      Menu_Arka_Mechanism (96): 1688470720
+      Menu_Arka_Mechanism (74): 1092608123
+      Menu_Arka_Mechanism (99): -797353587
+      Menu_Arka_Mechanism (93): 11273238
+      Menu_Arka_Mechanism (102): -2087227666
+      Menu_Arka_Mechanism (69): -2074064071
+      Menu_Arka_Mechanism (114): -1289896573
+      Menu_Arka_Mechanism (37): 433358464
+      Menu_Arka_Mechanism (8): -1397352831
+      Menu_Arka_Mechanism (85): -1073143331
+      Menu_Arka_Mechanism (78): -891427579
+      Menu_Arka_Mechanism (108): -646560641
+      Menu_Arka_Mechanism (84): -1800936808
+      Menu_Arka_Mechanism (58): -1085697657
+      Menu_Arka_Mechanism (4): 1849215907
+      Menu_Arka_Mechanism (113): 1421226909
+      Menu_Arka_Mechanism (63): -1504887109
+      Menu_Arka_Mechanism (53): 1791538817
+      Menu_Arka_Mechanism (12): -543630193
+      Menu_Arka_Mechanism (82): 684907385
+      Menu_Arka_Mechanism (1): -175489555
+      Menu_Arka_Mechanism (83): 137810988
+      Menu_Arka_Mechanism (56): 1662048423
+      Menu_Arka_Mechanism (81): -1911435408
+      Menu_Arka_Mechanism (120): -907231932
+      Menu_Arka_Mechanism (50): -583492602
+      Menu_Arka_Mechanism (7): 1882830017
+      Menu_Arka_Mechanism (105): -1446388983
+      Menu_Arka_Mechanism (80): -193138873
+      Menu_Arka_Mechanism (47): 311332413
+      Menu_Arka_Mechanism (44): 1420968496
+      Menu_Arka_Mechanism (88): 660500783
+      Menu_Arka_Mechanism (67): 1818465056
+      Menu_Arka_Mechanism (13): 670319670
+      Menu_Arka_Mechanism (95): 412865845
+      Menu_Arka_Mechanism (68): 116796757
+      Menu_Arka_Mechanism (94): 2077259234
+      Menu_Arka_Mechanism (32): -511716111
+      Menu_Arka_Mechanism (51): 2116987081
+      Menu_Arka_Mechanism (71): -264352771
+      Menu_Arka_Mechanism (25): 1607506046
+      Menu_Arka_Mechanism (110): -2145465908
+      Menu_Arka_Mechanism (29): -1783808830
+      Menu_Arka_Mechanism (77): -1168390751
+      Menu_Arka_Mechanism (43): 1646360224
+      Menu_Arka_Mechanism (20): -1910107154
+      Menu_Arka_Mechanism (26): -1522783548
+      Menu_Arka_Mechanism (52): 121576022
+      Menu_Arka_Mechanism (55): -1661061217
+      Menu_Arka_Mechanism (41): 1612044608
+      Menu_Arka_Mechanism (112): -1275933726
+      Menu_Arka_Mechanism (31): 679377495
+      Menu_Arka_Mechanism (23): -578304731
+      Menu_Arka_Mechanism (62): 1970277104
+      Menu_Arka_Mechanism (70): 773250789
+      Menu_Arka_Mechanism (103): -191655241
+      Menu_Arka_Mechanism (57): 1438515975
+      Menu_Arka_Mechanism (87): -1890931263
+      Menu_Arka_Mechanism (18): -783488654
+      Menu_Arka_Mechanism (34): 599823370
+      Menu_Arka_Mechanism (33): 1809694994
+      Menu_Arka_Mechanism (73): -2100493491
+      Menu_Arka_Mechanism (22): 314453832
+      Menu_Arka_Mechanism (106): 29794583
+      Menu_Arka_Mechanism (14): -602763416
+      Menu_Arka_Mechanism (3): 1894314305
+      Menu_Arka_Mechanism (16): -1276466474
+      Menu_Arka_Mechanism (92): 492065603
+      Menu_Arka_Mechanism (61): 1938466831
+      Menu_Arka_Mechanism (28): 1161015718
+      Menu_Arka_Mechanism (104): 148141699
+      Menu_Arka_Mechanism (100): -638962522
+      Menu_Arka_Mechanism (109): 1577884408
+      Menu_Arka_Mechanism (54): -404685965
+      Menu_Arka_Mechanism (79): 1243293838
+      Menu_Arka_Mechanism (30): -512245354
+      Menu_Arka_Mechanism (75): 710019993
+      Menu_Arka_Mechanism (66): -367798470
+      Menu_Arka_Mechanism (19): 678992857
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

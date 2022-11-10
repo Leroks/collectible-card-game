@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 2a1f779f380806a448bbe66f7c7c423d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bottom_Mechanism (1)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 782
+        width: 356
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16573034, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e68cfdd70ba1c34a9cf295ab7984cac
+      internalID: -1362030222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (10)
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 530
+        width: 355
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16619718, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938ec6abf719ab54599d12c3ebd8844a
+      internalID: -1548874459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (11)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 278
+        width: 355
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16619718, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef20fd519673a140ad1c9334186d802
+      internalID: 2096626738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (12)
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 279
+        width: 355
+        height: 231
+      alignment: 9
+      pivot: {x: -0.16619718, y: 4.2077923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d3f567fb2f6f04e9b430643f231456
+      internalID: -1450250894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (13)
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 278
+        width: 355
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16619718, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8951aa02f005c4f950046c60a31a57
+      internalID: -921532799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (14)
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 278
+        width: 354
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16666667, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedcaf5978410254ebb40280c970e05a
+      internalID: -467371532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (15)
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 278
+        width: 354
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16666667, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be905d582e155f84c901c44cc90efbe5
+      internalID: 1172571309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (16)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 26
+        width: 355
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16619718, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8931116b74faa4591da51ce2b74c4d
+      internalID: -1713932733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (17)
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 26
+        width: 355
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16619718, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d6c329e0ed0fc4a9c546f374a7a4c5
+      internalID: -980686771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (18)
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 26
+        width: 354
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16666667, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0225934177099ea4bad3104f9ae958fe
+      internalID: -640825239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (19)
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 26
+        width: 354
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16666667, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab78bcd086bc294d97cbb807603db8c
+      internalID: 74770775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (2)
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 782
+        width: 356
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16573034, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55369c7247debfa44b59c138c8b080d4
+      internalID: -600642211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (3)
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 782
+        width: 356
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16573034, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d895284cd2d744f951bf7602ca867c
+      internalID: 641819218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (4)
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 784
+        width: 356
+        height: 230
+      alignment: 9
+      pivot: {x: -0.16573034, y: 4.226087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63e62d8318359d4f9e95c09fead8177
+      internalID: -2061609140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (5)
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 782
+        width: 356
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16573034, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d599303680a57384980f90b11f270ee6
+      internalID: -2136544491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (6)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 530
+        width: 355
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16619718, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9aa151b9f268d4da5471195e88af89
+      internalID: -700575573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (7)
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 531
+        width: 356
+        height: 231
+      alignment: 9
+      pivot: {x: -0.16573034, y: 4.2077923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b43072d5d144364e8006bd9e196e104
+      internalID: 983541605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (8)
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 530
+        width: 355
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16619718, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214fe03c6bd985d4085075e5eed9a5be
+      internalID: 1142878418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottom_Mechanism (9)
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 530
+        width: 355
+        height: 232
+      alignment: 9
+      pivot: {x: -0.16619718, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f40d5ffb68d70c4797ebd4e4bc73688
+      internalID: 672067184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 65bf1d28b5393904aa749a3bc2f694d4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bottom_Mechanism (18): -640825239
+      Bottom_Mechanism (12): -1450250894
+      Bottom_Mechanism (7): 983541605
+      Bottom_Mechanism (3): 641819218
+      Bottom_Mechanism (6): -700575573
+      Bottom_Mechanism (9): 672067184
+      Bottom_Mechanism (14): -467371532
+      Bottom_Mechanism (1): -1362030222
+      Bottom_Mechanism (2): -600642211
+      Bottom_Mechanism (15): 1172571309
+      Bottom_Mechanism (11): 2096626738
+      Bottom_Mechanism (5): -2136544491
+      Bottom_Mechanism (19): 74770775
+      Bottom_Mechanism (17): -980686771
+      Bottom_Mechanism (4): -2061609140
+      Bottom_Mechanism (10): -1548874459
+      Bottom_Mechanism (13): -921532799
+      Bottom_Mechanism (8): 1142878418
+      Bottom_Mechanism (16): -1713932733
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

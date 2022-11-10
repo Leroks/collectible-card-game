@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Card
+  - Mixer
+  - BoardCard
+  - Opponent
+  - Weapon
+  - SpecialEffect
+  - WeaponCardHover
+  - WeaponAI
+  - WeaponCardHoverAI
+  - SpecialEffectAI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Animation
+  - Water
+  - UI
+  - Smoke
+  - BoardCard
+  - BaseCard
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: GameBackground
+    uniqueID: 3058570679
+    locked: 0
+  - name: Board
+    uniqueID: 3643236221
+    locked: 0
+  - name: CommandersBackground
+    uniqueID: 767892899
+    locked: 0
+  - name: BoardCardLayer
+    uniqueID: 1413353855
+    locked: 0
+  - name: CardLayer
+    uniqueID: 179225529
+    locked: 0
+  - name: CardCaseShadow
+    uniqueID: 3327274143
+    locked: 0
+  - name: CardTexture
+    uniqueID: 2356891373
+    locked: 0
+  - name: CardCaseBackGround
+    uniqueID: 3202457457
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Text
+    uniqueID: 1173730441
+    locked: 0
+  - name: CardCaseShadow
+    uniqueID: 569646453
+    locked: 0
+  - name: CardCaseForeGround
+    uniqueID: 2614217949
+    locked: 0
+  - name: GameCommanders
+    uniqueID: 2404836553
+    locked: 0
+  - name: CommandersForeground
+    uniqueID: 2674474271
+    locked: 0
+  - name: GameCommanderTextInfo
+    uniqueID: 638228797
+    locked: 0
+  - name: BoardHoverCardLayer
+    uniqueID: 66518831
+    locked: 0
+  - name: ATTACK
+    uniqueID: 3836623613
+    locked: 0
+  - name: CardDragging
+    uniqueID: 1513278729
+    locked: 0
+  - name: UI
+    uniqueID: 1519678607
+    locked: 0
+  - name: UICard
+    uniqueID: 1049176015
+    locked: 0
+  - name: Smoke
+    uniqueID: 1111930581
+    locked: 0

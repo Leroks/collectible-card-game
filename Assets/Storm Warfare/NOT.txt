@@ -1,0 +1,19 @@
+    
+    :P01_BASE_LOWER PREFAB'A UYUMLU MATERYALLER
+    -Player01_BaseLower_Damage01_Mtl
+    -Player01_BaseLower_Damage02_Mtl
+    -Player01_BaseLower_Damage03_Mtl
+    -Player01_BaseLower_Damage04_Mtl
+    -Player01_BaseLower_Mtl
+
+    :P02_BASE_LOWER PREFAB'A UYUMLU MATERYALLER
+    -Player02_BaseLower_Damage01_Mtl
+    -Player02_BaseLower_Damage02_Mtl
+    -Player02_BaseLower_Damage03_Mtl
+    -Player02_BaseLower_Damage04_Mtl
+    -Player02_BaseLower_Mtl
+
+    
+    :TURN_BUTTON PREFAB'A UYUMLU MATERYALLER
+    -FrameWall_Enemy_TurnButton_Mtl
+    -FrameWall_TurnButton_Mtl

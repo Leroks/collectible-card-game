@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: fe996f307e48f1c44a16ebb894decb07
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Campaigns_Rewards00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1745
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: -3.2112212, y: -0.32119206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb0d2f355b90d04fa5c48971d28cca1
+      internalID: -28283982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campaigns_Rewards01
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1745
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: -3.2112212, y: -0.32119206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd4873bc9369774298635cbd7557c6d
+      internalID: -2110418271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campaigns_Rewards02
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1745
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: -3.2112212, y: -0.32119206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ded916016ee8d429b25be5bff5c277
+      internalID: 1425089403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campaigns_Rewards03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1441
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: -3.2112212, y: -0.32119206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9448d5445cdc14180ba10524469106
+      internalID: 1770226441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campaigns_Rewards04
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1441
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: -3.2112212, y: -0.32119206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2cfcf82bdcf784bb85e24b483538a8
+      internalID: 75976318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campaigns_Rewards05
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1441
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: -3.2112212, y: -0.32119206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e65607fabbf7be41a023a27a07f70db
+      internalID: 1008573522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campaigns_Rewards06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1137
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: -3.2112212, y: -0.32119206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f302f9e8ad9c1d4d99615a3e8e8aac2
+      internalID: 138237635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campaigns_Rewards07
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1137
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: -3.2112212, y: -0.32119206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a65ec8328864845833f5a267044a35
+      internalID: 1143706878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campaigns_Rewards08
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1137
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: -3.2112212, y: -0.32119206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde0d090e8e52204ba3bef98383ca149
+      internalID: -763202333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campaigns_Rewards09
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 833
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: -3.2112212, y: -0.32119206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9c3ff660c14c44abf02610acf6eb44
+      internalID: -616692333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: be0c12921d7934b4f9e64c08104730c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Campaigns_Rewards05: 1008573522
+      Campaigns_Rewards00: -28283982
+      Campaigns_Rewards04: 75976318
+      Campaigns_Rewards09: -616692333
+      Campaigns_Rewards06: 138237635
+      Campaigns_Rewards08: -763202333
+      Campaigns_Rewards07: 1143706878
+      Campaigns_Rewards02: 1425089403
+      Campaigns_Rewards03: 1770226441
+      Campaigns_Rewards01: -2110418271
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

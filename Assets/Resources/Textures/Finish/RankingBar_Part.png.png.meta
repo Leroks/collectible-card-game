@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: f4bce6a00c653a44c8d25b2bbc972b52
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RankingBar_Anim0080
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1942
+        width: 702
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6396011, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072efbd685b75ff468f48c5cfc8f8912
+      internalID: 1982782521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0081
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1835
+        width: 686
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6311953, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7d8de9d94a8784d85c1929db48cdf5
+      internalID: 2043327234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0082
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1728
+        width: 685
+        height: 105
+      alignment: 9
+      pivot: {x: 0.63065696, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0c5e742d61e8342bd16408b0e7a614
+      internalID: 523092819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0083
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1621
+        width: 645
+        height: 105
+      alignment: 9
+      pivot: {x: 0.60775197, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5700816a5240943abcf4d46fb6c1be
+      internalID: -1724955128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0084
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1514
+        width: 615
+        height: 105
+      alignment: 9
+      pivot: {x: 0.58861786, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa4869e377e5304b9d24153f4ae3b28
+      internalID: 2024276934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0085
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1407
+        width: 582
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5652921, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ffc1e7aff114d468f27fdcca27d829
+      internalID: -1246984949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0086
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1300
+        width: 558
+        height: 105
+      alignment: 9
+      pivot: {x: 0.546595, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f38f65493331c4ebe12325c12e17ee
+      internalID: -362653253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0087
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1193
+        width: 534
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5262172, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05142702dbc947f4c8c51f3c9bf6e2bc
+      internalID: -1873817288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0088
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1086
+        width: 508
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5019685, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a14f5edbec7f164e858f59383370544
+      internalID: 148551474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0089
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1086
+        width: 508
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5019685, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021fc181157070d43a5214d37ab1b258
+      internalID: 475843105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0090
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 979
+        width: 508
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5019685, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764cfe16a375d3b47bade4b7252c0c8e
+      internalID: -137917408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0091
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 979
+        width: 508
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5019685, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbb198aaaee8074992a9223799ac59b
+      internalID: 523057837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0092
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 872
+        width: 516
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49418604, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03a07652d5b1d44dbf02c8b5c25e812
+      internalID: 784811249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0093
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 765
+        width: 544
+        height: 105
+      alignment: 9
+      pivot: {x: 0.46875, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edda5c5dfb1090241838a485e6e1f28d
+      internalID: -1852492486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0094
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 658
+        width: 570
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4473684, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55453afe5340684469842f45419319a9
+      internalID: 1578613262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0095
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 551
+        width: 597
+        height: 105
+      alignment: 9
+      pivot: {x: 0.42713568, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7afb2189d2bc648ab75d6e219b8d04
+      internalID: 227479639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0096
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 444
+        width: 624
+        height: 105
+      alignment: 9
+      pivot: {x: 0.40865386, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1159323907754694c863dc403aa3e85d
+      internalID: 1208507554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0097
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 337
+        width: 652
+        height: 105
+      alignment: 9
+      pivot: {x: 0.39110428, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4000d63f2aedc714b8ffd2cd1a9c4b31
+      internalID: 1359870512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0098
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 230
+        width: 701
+        height: 105
+      alignment: 9
+      pivot: {x: 0.36376604, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e5b1c5bcd33e54eae81596bc3c6864
+      internalID: 1983179029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0099
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 702
+        height: 105
+      alignment: 9
+      pivot: {x: 0.36324787, y: 5.8095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b699ae262d5f942bd0cb1764184e43
+      internalID: 2010077637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RankingBar_Anim0100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 709
+        height: 106
+      alignment: 9
+      pivot: {x: 0.3596615, y: 5.764151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f861111b7b1a3fa428ccd811fcd18b52
+      internalID: 1150160609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e39031b765588054dabb0a00e2dfd01e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RankingBar_Anim0084: 2024276934
+      RankingBar_Anim0095: 227479639
+      RankingBar_Anim0092: 784811249
+      RankingBar_Anim0088: 148551474
+      RankingBar_Anim0082: 523092819
+      RankingBar_Anim0081: 2043327234
+      RankingBar_Anim0098: 1983179029
+      RankingBar_Anim0094: 1578613262
+      RankingBar_Anim0093: -1852492486
+      RankingBar_Anim0080: 1982782521
+      RankingBar_Anim0097: 1359870512
+      RankingBar_Anim0086: -362653253
+      RankingBar_Anim0083: -1724955128
+      RankingBar_Anim0087: -1873817288
+      RankingBar_Anim0089: 475843105
+      RankingBar_Anim0096: 1208507554
+      RankingBar_Anim0091: 523057837
+      RankingBar_Anim0100: 1150160609
+      RankingBar_Anim0085: -1246984949
+      RankingBar_Anim0090: -137917408
+      RankingBar_Anim0099: 2010077637
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

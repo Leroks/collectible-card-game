@@ -1,0 +1,1112 @@
+fileFormatVersion: 2
+guid: 3fced97de585f4e46990a43b591d5bb3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-P02_CardRail (1)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1763
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd7a90bcd2f18943bd3627052cd45fa
+      internalID: 1287318963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (10)
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1477
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f850a2a08fd0404ba9198e9d27a00c3
+      internalID: -1315171278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (11)
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1477
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4fee5a2cd90cc498d36f0d1f3ecb41
+      internalID: -813020791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (12)
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1477
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164bda9aa2600a7488df2e01ab49b93b
+      internalID: 318974541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (13)
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1477
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d51fb62b6b204fa20272f3a4464a8
+      internalID: 2021214996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (14)
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1477
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe79b1169cfc5e498eeae65e2ab425d
+      internalID: 1391749150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (15)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1191
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a98e7382239944aae04b9c85902a77
+      internalID: -911195438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (16)
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1191
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877f4d7e0d296ef4fb6f83ceaa98c97e
+      internalID: -1283990399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (17)
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1191
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2871518822be544b9148d4e30ddca45
+      internalID: -907410234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (18)
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1191
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bc02bb99c2f9040a83790b1ecd8ac5
+      internalID: -1890962439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (19)
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1191
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a1821e989e27d4bb8d55658411963e
+      internalID: 1254283384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (2)
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1763
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f84229a62f0604a85bf0d2b3bf2b25
+      internalID: 10496285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (20)
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1191
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4813b9757b3f1a141922035fc7cffc2a
+      internalID: -747115582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (21)
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1191
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31640e574260d5b488a5bb2858bf052c
+      internalID: -463559882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (22)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 905
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7d206e6f5304e4ca3264f43eb9486f
+      internalID: -352906267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (23)
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 905
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efb66221f74ee3468e6809a699f6332
+      internalID: -772835998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (24)
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 905
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178b69f4884a8ce48add493e32f3cbf9
+      internalID: -1043824666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (25)
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 905
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0bffe90a6b0304c8c69ac1074c8a8b
+      internalID: -722596964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (26)
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 905
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5888e73bf1edb6044b8c7051ee2816c4
+      internalID: -954822876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (27)
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 905
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4671fab3cedb59d4791c43816c51a81b
+      internalID: -407017339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (28)
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 905
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeabab867b4e4f458424f12fa419b5d
+      internalID: 151486180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (29)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 619
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012220beefd6af445b9d7aa62fd0fbcc
+      internalID: 902966005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (3)
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1763
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63ccc05e2956254daae8e6ccbc0c8cb
+      internalID: 996889165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (30)
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 619
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bcd6260ba83d5468651f0c3dffaa30
+      internalID: 694434015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (31)
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 619
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ece1620cf81f9541a70ff02cad94115
+      internalID: -541935069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (32)
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 619
+        width: 290
+        height: 284
+      alignment: 9
+      pivot: {x: -4.3344827, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb493d1755689e4490cfdb18fee7042
+      internalID: -1431669537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (33)
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 619
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bef85e626d31414cb4fdf353055dbc6
+      internalID: -208013465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (34)
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 619
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b033c067485504f80d5e0edfa39624
+      internalID: 336730314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (35)
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 619
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae9873cddd25e3408d6164ce5caec70
+      internalID: 1130203297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (36)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 333
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94dc91fbe9abee4bb05fd3cb52a388d
+      internalID: 1499255505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (37)
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 333
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ae5c237f19d5b49b8dfa4fec904480
+      internalID: 464525529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (38)
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 333
+        width: 290
+        height: 284
+      alignment: 9
+      pivot: {x: -4.3344827, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69956c391e154594581c467b2323b066
+      internalID: -545349172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (39)
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 333
+        width: 290
+        height: 284
+      alignment: 9
+      pivot: {x: -4.3344827, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61783d6b64142af4784f0293e42ba9ac
+      internalID: 1374935357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (4)
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1763
+        width: 290
+        height: 284
+      alignment: 9
+      pivot: {x: -4.3344827, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93587185240f8c6409aa8f085e8e47e3
+      internalID: 258966410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (40)
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 333
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235afbc4840a05341a961c88ce4ec2b5
+      internalID: 1155410259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (41)
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 333
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52c748ac5108a94587ef2a4909c887e
+      internalID: 263486173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (42)
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 333
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51be19415daf370458c74759465e4973
+      internalID: -1230174503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (43)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748101a2ccc7fa240b80b5ad7bde114f
+      internalID: 2034225960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (44)
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 47
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee6e02046f39f242aac34dab18ab828
+      internalID: 1712667612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (45)
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 47
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3cc1eb6e793d344ac1249d42eb67b9
+      internalID: 2102755464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (46)
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 47
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8abe608912361643a7bffb1676b1616
+      internalID: 1127530636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (5)
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1763
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd7d83e846066e489f4ff495cedd3a3
+      internalID: -1944319015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (6)
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1763
+        width: 290
+        height: 284
+      alignment: 9
+      pivot: {x: -4.3344827, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dd1413af66f524298b44cdd3442a11
+      internalID: 1189103195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (7)
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1763
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9cdea3646fc1949addb18ed8ddfd87
+      internalID: -1521818929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (8)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1477
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826c6a80c818e1843989fb2ad7b8b83e
+      internalID: -281571834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CardRail (9)
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1477
+        width: 289
+        height: 284
+      alignment: 9
+      pivot: {x: -4.352941, y: -0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd35e962d568954292f0459c6efd0b7
+      internalID: -984617067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d3fb5ad7d2f8f65458433e9f15d594b6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 57f49bee34a6e0946a49391a9f6bca3b, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-P02_CardRail (28): 151486180
+      Base-P02_CardRail (33): -208013465
+      Base-P02_CardRail (30): 694434015
+      Base-P02_CardRail (21): -463559882
+      Base-P02_CardRail (45): 2102755464
+      Base-P02_CardRail (26): -954822876
+      Base-P02_CardRail (36): 1499255505
+      Base-P02_CardRail (19): 1254283384
+      Base-P02_CardRail (18): -1890962439
+      Base-P02_CardRail (46): 1127530636
+      Base-P02_CardRail (3): 996889165
+      Base-P02_CardRail (27): -407017339
+      Base-P02_CardRail (29): 902966005
+      Base-P02_CardRail (9): -984617067
+      Base-P02_CardRail (43): 2034225960
+      Base-P02_CardRail (6): 1189103195
+      Base-P02_CardRail (14): 1391749150
+      Base-P02_CardRail (13): 2021214996
+      Base-P02_CardRail (23): -772835998
+      Base-P02_CardRail (34): 336730314
+      Base-P02_CardRail (39): 1374935357
+      Base-P02_CardRail (4): 258966410
+      Base-P02_CardRail (25): -722596964
+      Base-P02_CardRail (20): -747115582
+      Base-P02_CardRail (37): 464525529
+      Base-P02_CardRail (35): 1130203297
+      Base-P02_CardRail (42): -1230174503
+      Base-P02_CardRail (40): 1155410259
+      Base-P02_CardRail (38): -545349172
+      Base-P02_CardRail (41): 263486173
+      Base-P02_CardRail (31): -541935069
+      Base-P02_CardRail (15): -911195438
+      Base-P02_CardRail (11): -813020791
+      Base-P02_CardRail (2): 10496285
+      Base-P02_CardRail (7): -1521818929
+      Base-P02_CardRail (32): -1431669537
+      Base-P02_CardRail (22): -352906267
+      Base-P02_CardRail (10): -1315171278
+      Base-P02_CardRail (44): 1712667612
+      Base-P02_CardRail (24): -1043824666
+      Base-P02_CardRail (8): -281571834
+      Base-P02_CardRail (16): -1283990399
+      Base-P02_CardRail (17): -907410234
+      Base-P02_CardRail (12): 318974541
+      Base-P02_CardRail (5): -1944319015
+      Base-P02_CardRail (1): 1287318963
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

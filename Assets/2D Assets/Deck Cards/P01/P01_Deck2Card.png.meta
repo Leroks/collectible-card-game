@@ -1,0 +1,1312 @@
+fileFormatVersion: 2
+guid: 3d8b8ad9fc274824081bae62c081c47b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (1)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3527
+        width: 366
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3852458, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34f019837d1ec141a3b8b10892e7e68
+      internalID: -1579397592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (10)
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 3527
+        width: 368
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3668478, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bea3e9d09a2b64886a3d77bec65c20
+      internalID: 266670512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (11)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2938
+        width: 364
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4038463, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22dee8977fec8d4882bb281da523e31
+      internalID: 1215917736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (12)
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2938
+        width: 366
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3852458, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876d11a9c4d4b9948a09fc553b74ca16
+      internalID: 1424233295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (13)
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2938
+        width: 369
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3577235, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2113ff0e370304e44b9eb33a1f49b63b
+      internalID: 1782936908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (14)
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2938
+        width: 366
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3852458, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c179db8ab46a124095b64e707a09ff2
+      internalID: -347996342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (15)
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 2938
+        width: 366
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3852458, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085f67babe1d9fb4cadbfd99a9a7d19e
+      internalID: 1205962621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (16)
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 2938
+        width: 360
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4416666, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50e30e573c034843809ee88545ed1aa
+      internalID: 386391231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (17)
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 2938
+        width: 369
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3577235, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54db919d7734fd347ae63676d13ac9d4
+      internalID: -1463837160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (18)
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2938
+        width: 364
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4038463, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58351a2554e2e140bd5b18bffdb1d25
+      internalID: -333885104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (19)
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2938
+        width: 364
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4038463, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc91c68ea9041714b927ff16103f6fc3
+      internalID: -2119220720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (2)
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3527
+        width: 362
+        height: 549
+      alignment: 9
+      pivot: {x: -3.422652, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b94840f1584e04b8c55b727441b700
+      internalID: 1156240612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (20)
+      rect:
+        serializedVersion: 2
+        x: 3668
+        y: 2938
+        width: 361
+        height: 549
+      alignment: 9
+      pivot: {x: -3.432133, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca89cbf538d27314fafcb015723f8f8e
+      internalID: 963316043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (21)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2349
+        width: 367
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3760219, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2cbda60a8ed2d48876831f1d6dde1b
+      internalID: -382956978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (22)
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2349
+        width: 364
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4038463, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466d3dd94559591429205b3b548a4156
+      internalID: 1306711791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (23)
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2349
+        width: 366
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3852458, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15f5043fb9b393408c2721c5216c9dc
+      internalID: 1146664400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (24)
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 2349
+        width: 370
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3486485, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb238853e319134f9470b0e74b2bead
+      internalID: -873712319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (25)
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 2349
+        width: 365
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3945205, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9888616f124203845a8af9c0d4ce1d40
+      internalID: -1635767648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (26)
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 2349
+        width: 368
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3668478, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7c4a7c72cac844aa8b7d0e3d3441b7
+      internalID: -1292287323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (27)
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2349
+        width: 369
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3577235, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c25f57bdfe6dc4aa52646993659b05
+      internalID: 993988829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (28)
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 2349
+        width: 350
+        height: 549
+      alignment: 9
+      pivot: {x: -3.54, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23103dbdb8f1bb4fba0a5dfee9b91af
+      internalID: 110882801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (29)
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 2349
+        width: 356
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4803371, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403b315d4c47bd64b8eaa14d34049ce4
+      internalID: 2129304764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (3)
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3527
+        width: 362
+        height: 549
+      alignment: 9
+      pivot: {x: -3.422652, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8f44a6bb607e24f93c30bd1148eec5
+      internalID: -1098095003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (30)
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 2349
+        width: 360
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4416666, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b9e5a75d1a3744aaccaa9611f0457b
+      internalID: -371577577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (31)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1760
+        width: 356
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4803371, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc58158c74cd44aa2d440dde3b97c7
+      internalID: -561741034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (32)
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1760
+        width: 365
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3945205, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c779269dbe94b0e4ba2ce4cd99b62b86
+      internalID: -1424684663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (33)
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1760
+        width: 368
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3668478, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691363e89b20b2f4c8975a124899abd0
+      internalID: -630215537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (34)
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1760
+        width: 366
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3852458, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81de780cf5e76ba48b33767ea5cde3aa
+      internalID: -2016563971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (35)
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1760
+        width: 364
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4038463, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf7947f75dba24781c7ba0e5a8e4b2
+      internalID: -1064546675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (36)
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1760
+        width: 360
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4416666, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6d1f01c09be984799b5bc81fb81bc1
+      internalID: 1342630574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (37)
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1760
+        width: 368
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3668478, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1611085adf4704da4f42a1c95632a0
+      internalID: -190380569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (38)
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1760
+        width: 368
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3668478, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b125aa94d4354d9ed65b56d2ec433
+      internalID: -1112057159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (39)
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1760
+        width: 362
+        height: 549
+      alignment: 9
+      pivot: {x: -3.422652, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe87c22d531abb40b21d089e093745e
+      internalID: -60601966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (4)
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3527
+        width: 369
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3577235, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30981aefd90487047a7e614331df5c1d
+      internalID: -1782811198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (40)
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 1760
+        width: 364
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4038463, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e0cd2ee50c334194b3e3e324233aa
+      internalID: 388826998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (41)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1171
+        width: 365
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3945205, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101bdf348c2615841bb3b49d71d861bf
+      internalID: 249266663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (42)
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1171
+        width: 360
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4416666, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b784b5e9135cd164ca2a60c4318fc773
+      internalID: -1726774335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (43)
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1171
+        width: 360
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4416666, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e02d9c077e8104492fa33ebba355d2
+      internalID: -1372524124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (44)
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1171
+        width: 361
+        height: 549
+      alignment: 9
+      pivot: {x: -3.432133, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc973f6b43f04f4ba80b4e872bf2cd7
+      internalID: -441644277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (45)
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1171
+        width: 360
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4416666, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bee2ed43b689548a28a23cd93ce9c0
+      internalID: 1513022592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (46)
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1171
+        width: 360
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4416666, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462c7b0b34377314a800c1d235e725ef
+      internalID: -1958009794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (47)
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 1171
+        width: 364
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4038463, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c7172a2f0d5a48a4620cb1034c8eb
+      internalID: 906352173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (48)
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1171
+        width: 364
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4038463, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be9079c0b324f84480c87b0c8522975
+      internalID: -1899189155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (49)
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 1171
+        width: 360
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4416666, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e79d63f855a7d4ead80cf3ea325500
+      internalID: 1445260808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (5)
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 3527
+        width: 364
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4038463, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd29b4b6f6fdff4c8fadb47ed1e3dca
+      internalID: 1961264454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (50)
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 1171
+        width: 360
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4416666, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7677d43c815914249850456b29b247bb
+      internalID: -106843804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (51)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 582
+        width: 361
+        height: 549
+      alignment: 9
+      pivot: {x: -3.432133, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70092e2f56019b4c975aeacd7634dcc
+      internalID: -88175086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (52)
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 582
+        width: 360
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4416666, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca4950c83ac9a340ab078d5d6d427e2
+      internalID: -1264383018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (53)
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 582
+        width: 364
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4038463, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d9fcaef9dd6a249b780dc8cc6138d6
+      internalID: 1977134315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (54)
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 582
+        width: 364
+        height: 549
+      alignment: 9
+      pivot: {x: -3.4038463, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9987a431b33fbc648a93dff7aa50fb25
+      internalID: -1086893348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (6)
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 3527
+        width: 362
+        height: 549
+      alignment: 9
+      pivot: {x: -3.422652, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8026512fadeb1745a06a7c0948c5b57
+      internalID: -715476020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (7)
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 3527
+        width: 368
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3668478, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ce61678f49494ea2dfaab47a94186
+      internalID: -1334346742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (8)
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 3527
+        width: 365
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3945205, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c26ecd4402769246b7399635b587d36
+      internalID: -801950342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P01_Deck2Card (9)
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 3527
+        width: 368
+        height: 549
+      alignment: 9
+      pivot: {x: -3.3668478, y: 0.84335154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ee1f1b7a1a8cc4ca8f19d04b2fb4a7
+      internalID: 415304255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c9967c74c0019404e91d7a8ccd3b48ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: db995018a7978424088378fc028769fb, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-P01_Deck2Card (27): 993988829
+      Base-P01_Deck2Card (9): 415304255
+      Base-P01_Deck2Card (29): 2129304764
+      Base-P01_Deck2Card (10): 266670512
+      Base-P01_Deck2Card (1): -1579397592
+      Base-P01_Deck2Card (34): -2016563971
+      Base-P01_Deck2Card (43): -1372524124
+      Base-P01_Deck2Card (48): -1899189155
+      Base-P01_Deck2Card (22): 1306711791
+      Base-P01_Deck2Card (19): -2119220720
+      Base-P01_Deck2Card (24): -873712319
+      Base-P01_Deck2Card (35): -1064546675
+      Base-P01_Deck2Card (47): 906352173
+      Base-P01_Deck2Card (46): -1958009794
+      Base-P01_Deck2Card (44): -441644277
+      Base-P01_Deck2Card (39): -60601966
+      Base-P01_Deck2Card (8): -801950342
+      Base-P01_Deck2Card (36): 1342630574
+      Base-P01_Deck2Card (51): -88175086
+      Base-P01_Deck2Card (53): 1977134315
+      Base-P01_Deck2Card (32): -1424684663
+      Base-P01_Deck2Card (13): 1782936908
+      Base-P01_Deck2Card (38): -1112057159
+      Base-P01_Deck2Card (33): -630215537
+      Base-P01_Deck2Card (25): -1635767648
+      Base-P01_Deck2Card (50): -106843804
+      Base-P01_Deck2Card (11): 1215917736
+      Base-P01_Deck2Card (14): -347996342
+      Base-P01_Deck2Card (30): -371577577
+      Base-P01_Deck2Card (41): 249266663
+      Base-P01_Deck2Card (20): 963316043
+      Base-P01_Deck2Card (12): 1424233295
+      Base-P01_Deck2Card (17): -1463837160
+      Base-P01_Deck2Card (31): -561741034
+      Base-P01_Deck2Card (37): -190380569
+      Base-P01_Deck2Card (6): -715476020
+      Base-P01_Deck2Card (3): -1098095003
+      Base-P01_Deck2Card (42): -1726774335
+      Base-P01_Deck2Card (26): -1292287323
+      Base-P01_Deck2Card (40): 388826998
+      Base-P01_Deck2Card (54): -1086893348
+      Base-P01_Deck2Card (2): 1156240612
+      Base-P01_Deck2Card (45): 1513022592
+      Base-P01_Deck2Card (16): 386391231
+      Base-P01_Deck2Card (52): -1264383018
+      Base-P01_Deck2Card (18): -333885104
+      Base-P01_Deck2Card (49): 1445260808
+      Base-P01_Deck2Card (7): -1334346742
+      Base-P01_Deck2Card (5): 1961264454
+      Base-P01_Deck2Card (4): -1782811198
+      Base-P01_Deck2Card (21): -382956978
+      Base-P01_Deck2Card (23): 1146664400
+      Base-P01_Deck2Card (28): 110882801
+      Base-P01_Deck2Card (15): 1205962621
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

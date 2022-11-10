@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: 97283c53134bb0e48b81423535a62972
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: P02_Germany00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f9b81871bc3f468a2a3d2f10e2bd5
+      internalID: -1675843266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fca4d28bb97a7945a845825198d8a3e
+      internalID: -1695650381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany02
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52c1f3a3b6e4de46ba71cce67c139ba
+      internalID: -1036940247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11ab7c5cbbe14447a66785764328856
+      internalID: 694016808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a9337d168fa8a4099c31862596dcd2
+      internalID: -1504367087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany05
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d8db34b5b624d4fa85a4a448fba6ad
+      internalID: 1525570525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany06
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669ff4625a19ea049bc4a040eee287fc
+      internalID: 740332112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany07
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205384556f37bf341b203606119e9979
+      internalID: -1997500296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany08
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c06452bb7f27344d983fa98c51ddc9e
+      internalID: 378379827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany09
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0557aa3bd6f604e90ee5293c0b5729
+      internalID: -1288247940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c305e1ede56770a4ea26f452128a64f0
+      internalID: -1627950955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef04eb47f36a4d499efbe539f86d0e0
+      internalID: 1441715254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d16affb3a6f7849b82b5a7a2fd4a3e
+      internalID: 709423868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d575e77ce695b63498cf63647a9ee72a
+      internalID: -1272198563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75c834024de52047b828e07473653bf
+      internalID: -2136324676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53767a83dfbb1ce40a7021b643145320
+      internalID: -1530716424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28843f0c12bbd24b8d92ab4c205f08a
+      internalID: -53558722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0becbe30d77663f4c8318b9826bb985a
+      internalID: 2014529027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.30303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab48d02703692b40827949339dcfae3
+      internalID: 1130413421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 221
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: -34.358974, y: -11.941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc141385e23e1d408e0196c2d245624
+      internalID: 1884996172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 222
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.358974, y: -12.333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9bc2cc06b14d147a54448f1a95b944
+      internalID: 1371550659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 221
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: -33.5, y: -11.970589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934ee2e9c08e1c945a97420376bfff4c
+      internalID: -1471157289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 221
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: -34.384617, y: -12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5140230328707704083041ad6a57528c
+      internalID: 2039783341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.410255, y: -12.424242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224a7b855b98da34fbea1353c0fa444d
+      internalID: -1700681792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 186
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.435898, y: -12.454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8808253b1fb89b347a5a0c3309434b2e
+      internalID: -1034258070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 185
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: -34.46154, y: -12.117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7528b0e9847b1a74d857d3345d93737b
+      internalID: -7166697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 186
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: -33.6, y: -12.545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27102a004221ea54988c480d58bbcc2e
+      internalID: 565074198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany27
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 185
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: -33.625, y: -12.205882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6305dcd4f0a8c4ead1b4ab5fc77737
+      internalID: 1008650511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 186
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: -33.65, y: -12.636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b2350fc136db24c82cd75c68d1ae18
+      internalID: 1547725049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 150
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.53846, y: -12.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5a51f53980efd439a85e46caf9b060
+      internalID: 1927060402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 150
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.564102, y: -12.69697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192e463c72a3241498b5927ca6bc46ad
+      internalID: 1471019029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 150
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.564102, y: -12.727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c7f3df75f407d44b437ae60c173515
+      internalID: -125886659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 149
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: -33.7, y: -12.3529415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a6c2dfdfc90474c9c962df69723cf6
+      internalID: 2137567504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 149
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: -34.589745, y: -12.3529415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b2b736ddcb9ca4293d052d30538ef5
+      internalID: -1714707038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 149
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: -33.7, y: -12.3529415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77193ade2c73535448d7bcfe82ea7b28
+      internalID: -808952235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: -33.7, y: -12.727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190e91d6492e544fa337ee4ca1711ad
+      internalID: 558562370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 114
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.564102, y: -12.727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef69098efe086164c96e3156ea00c27e
+      internalID: -1937655685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 113
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: -34.564102, y: -12.323529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb722302cd847d34db39baa9da0679b5
+      internalID: 282695723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany38
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 113
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: -34.564102, y: -12.323529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910d0af45eed33846b7fb5c33f98254c
+      internalID: -416296467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 114
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.564102, y: -12.727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2838f1f68401ec4ea65bdcddf43c24a
+      internalID: 881254363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 113
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: -33.7, y: -12.3529415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb8cce06f90f1d41a30f64ebcb46fd4
+      internalID: 432409152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.589745, y: -12.757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ada8928b5dd8d64d96d558c69467312
+      internalID: 481308025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 78
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.589745, y: -12.757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b0e454f54ce014d8ecb984154d3edf
+      internalID: -298546614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 78
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.589745, y: -12.757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444239cfcd841dd4e8f61c6c63b3e662
+      internalID: -686858120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 77
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: -34.589745, y: -12.3529415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f99e6ad6de817044a640995d7559b37
+      internalID: -436374486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 77
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: -33.7, y: -12.3529415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a9eb9a4d179a1459c46e617be68c51
+      internalID: 1802547958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 77
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: -33.7, y: -12.3529415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26c440f6e130364487a74b0418b025e
+      internalID: 627794672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 39
+        height: 34
+      alignment: 9
+      pivot: {x: -34.589745, y: -12.3529415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e84024f7615a564da39bd54269c4a0b
+      internalID: -1766784273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.589745, y: -12.757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360b2ee78d949444ca86d1e22051f0e7
+      internalID: -970121359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.589745, y: -12.757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f03182c8e41084793db7ff8e6e671e
+      internalID: 987849953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.589745, y: -12.757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e8abc588f9644fae7e117ca477426
+      internalID: 1053458912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.589745, y: -12.757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df40003535aed384cb5392e6f5e51537
+      internalID: 706709113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany52
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.589745, y: -12.757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6575be9a884b1ff41bd56c07bb770267
+      internalID: -168111720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P02_Germany53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 39
+        height: 33
+      alignment: 9
+      pivot: {x: -34.589745, y: -12.757576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac3deb1773aad646817cd963f5d40fd
+      internalID: 1287090209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 664ade689e3f75f46bf79d35700cde6f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      P02_Germany41: 481308025
+      P02_Germany12: 709423868
+      P02_Germany20: 1371550659
+      P02_Germany16: -53558722
+      P02_Germany10: -1627950955
+      P02_Germany40: 432409152
+      P02_Germany28: 1547725049
+      P02_Germany04: -1504367087
+      P02_Germany05: 1525570525
+      P02_Germany35: 558562370
+      P02_Germany14: -2136324676
+      P02_Germany47: -1766784273
+      P02_Germany23: -1700681792
+      P02_Germany36: -1937655685
+      P02_Germany34: -808952235
+      P02_Germany29: 1927060402
+      P02_Germany46: 627794672
+      P02_Germany24: -1034258070
+      P02_Germany27: 1008650511
+      P02_Germany48: -970121359
+      P02_Germany01: -1695650381
+      P02_Germany31: -125886659
+      P02_Germany30: 1471019029
+      P02_Germany13: -1272198563
+      P02_Germany42: -298546614
+      P02_Germany49: 987849953
+      P02_Germany08: 378379827
+      P02_Germany25: -7166697
+      P02_Germany32: 2137567504
+      P02_Germany22: 2039783341
+      P02_Germany53: 1287090209
+      P02_Germany45: 1802547958
+      P02_Germany07: -1997500296
+      P02_Germany39: 881254363
+      P02_Germany26: 565074198
+      P02_Germany33: -1714707038
+      P02_Germany19: 1884996172
+      P02_Germany21: -1471157289
+      P02_Germany51: 706709113
+      P02_Germany09: -1288247940
+      P02_Germany50: 1053458912
+      P02_Germany52: -168111720
+      P02_Germany03: 694016808
+      P02_Germany17: 2014529027
+      P02_Germany02: -1036940247
+      P02_Germany38: -416296467
+      P02_Germany37: 282695723
+      P02_Germany43: -686858120
+      P02_Germany44: -436374486
+      P02_Germany11: 1441715254
+      P02_Germany06: 740332112
+      P02_Germany15: -1530716424
+      P02_Germany00: -1675843266
+      P02_Germany18: 1130413421
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

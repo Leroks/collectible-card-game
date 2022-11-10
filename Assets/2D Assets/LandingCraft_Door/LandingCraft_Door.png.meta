@@ -1,0 +1,1288 @@
+fileFormatVersion: 2
+guid: de1a256b1a4aec74b85d1b9c4c5bc1cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-Landing_Door (1)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1829
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f7f68b2f3d42143848d57765465013
+      internalID: -2102864287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (10)
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1600
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdac6fb3c0173a40bdb1bfd9b22188f
+      internalID: 238537376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (11)
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1600
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf9f1c85fc85c944adf4ad7b3af3b42
+      internalID: 1259524899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (12)
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1600
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816a2d12d6b5934489c319ecc95d6577
+      internalID: -609138263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (13)
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1600
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae15fb7c52c1e140a3aae2c641072e0
+      internalID: 682216304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (14)
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1600
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7923f3c815904d749960d1f125b3e02a
+      internalID: -610770307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (15)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1371
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf327a74febc18418f77f20f0347126
+      internalID: 772832190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (16)
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1371
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f907e6ddb21a74bb0d5db131e913ba
+      internalID: -667544232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (17)
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1371
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb2b9102f494704f9646fbd52428768
+      internalID: -1192725995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (18)
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1371
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f805c8bd2886d0d42bfc8031bb3137be
+      internalID: -1235012280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (19)
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1371
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409b5b92a4df52848ae26622e7d472a7
+      internalID: 1645940488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (2)
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1829
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cab7708b67d0574285946d47629fdb1
+      internalID: 1588558445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (20)
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1371
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce71ab37c8dfe64fa119b8fa3cd81c9
+      internalID: -1485929869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (21)
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1371
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bb575c6cd2a8a4795976ca9b8e9f31
+      internalID: 1901445131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (22)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1142
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d55df1a19c00b5449232d04677bc0db
+      internalID: -1449161507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (23)
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1142
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c092aec4345206b48a6d2447f3601b23
+      internalID: -1992681088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (24)
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1142
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbac727c61e24f4db8795c8c42b55f4
+      internalID: -1061576572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (25)
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1142
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131b5e96af58c0947bca6d53fb42ff8f
+      internalID: -69640509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (26)
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1142
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fdadd7bf719e6439ba798a7ab5f337
+      internalID: -1338643646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (27)
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1142
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8379dc6cfd7b544889f63d655240c3
+      internalID: -1070413629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (28)
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1142
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b7a35c641625c45abf7b74c39b3450
+      internalID: 1656460421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (29)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 913
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa716ed082de114ab20d8ece1d6819f
+      internalID: 1001217709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (3)
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1829
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2423bf88dc0fe7a4798b8eacbba3b7a6
+      internalID: -1178503369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (30)
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 913
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f16e54c036cdc4428aa82e29d32fbd1
+      internalID: 622848553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (31)
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 913
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948d9d9a7f94eba44ae2dc85161e636e
+      internalID: 89316359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (32)
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 913
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1bcba3b189cab48a0b9eda9594efee
+      internalID: -764915080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (33)
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 913
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7179f1fff35a54d8f9907d96c67142
+      internalID: 816856609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (34)
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 913
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b3ea488fc779f4a805260098450e1e
+      internalID: -1336172639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (35)
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 913
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fb1c38932c57d438da6623f4998e0e
+      internalID: -1142508180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (36)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 684
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb849176a5d4bf439e805291e75b5b5
+      internalID: 1744472633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (37)
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 684
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f1dcbe2cf84964183221bc6b8a6c55
+      internalID: 1355440847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (38)
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 684
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144c4d67105c4d7469705120b90b70ed
+      internalID: -416943143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (39)
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 684
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dc8f6af54fa754788c2db348c13d9b
+      internalID: -1721325175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (4)
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1829
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85a22130f32a9c43a58554e450fa958
+      internalID: 375471873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (40)
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 684
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a14321276de3e4ea80ee07e6c55fd3
+      internalID: -1611191243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (41)
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 684
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f1120aeb18a2745869f8e4a03fe951
+      internalID: 1388260891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (42)
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 684
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a8cdf8b08f1c489f74a6ba7954548
+      internalID: -75076272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (43)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 455
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43c3d4057802c54abf7c7d85b291d31
+      internalID: -492087160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (44)
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 455
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d153cc07fb15a41afc394f3bb2e21b
+      internalID: -773226726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (45)
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 455
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234da90d4dbe6a84a8a482a491a8e37d
+      internalID: -1685987131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (46)
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 455
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7652f0977ad0c134abb5b7ab34b010b9
+      internalID: -2117368419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (47)
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 455
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f7f960e195a47449d9cb66d4fceaf1
+      internalID: -272124352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (48)
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 455
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cda82922f36e664489eb9ab1b0aa58b
+      internalID: -1674990214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (49)
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 455
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59a1828d219d124d862dcc2f85b0998
+      internalID: -966682656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (5)
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1829
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e83c354bedd254d8afe370f95b9fa2
+      internalID: -320479910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (50)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 226
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fac757becdc3334fa356be053579c7d
+      internalID: 1582428249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (51)
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 226
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ebe727b4fdec04ea9d461685d47890
+      internalID: 900149112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (52)
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 226
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40a071cc2421d44c8d583fba5c00c38
+      internalID: 298857608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (53)
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 226
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ef8a7ee6ea37d4db7a3ec4209e630b
+      internalID: -1098744980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (54)
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 226
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81218d565ace4944f997c7e64b193fad
+      internalID: -380954086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (6)
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1829
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775f57a48e6856b49932357b273d5d53
+      internalID: -463973644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (7)
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1829
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6663fe58e35a20b42bd304ac23b88efa
+      internalID: -1912660792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (8)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1600
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bfea1d27d04c3478d3876ea84ad603
+      internalID: 1782155340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Landing_Door (9)
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1600
+        width: 538
+        height: 209
+      alignment: 9
+      pivot: {x: -0.9907063, y: 2.7655501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20485189deda12744ad649ebef358e16
+      internalID: 402245789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e08b6c04d3d19884fb538bbf5d068d80
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 95d620e6f913ef043b6905a2360363c3, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-Landing_Door (20): -1485929869
+      Base-Landing_Door (10): 238537376
+      Base-Landing_Door (11): 1259524899
+      Base-Landing_Door (23): -1992681088
+      Base-Landing_Door (2): 1588558445
+      Base-Landing_Door (9): 402245789
+      Base-Landing_Door (33): 816856609
+      Base-Landing_Door (34): -1336172639
+      Base-Landing_Door (43): -492087160
+      Base-Landing_Door (15): 772832190
+      Base-Landing_Door (44): -773226726
+      Base-Landing_Door (48): -1674990214
+      Base-Landing_Door (54): -380954086
+      Base-Landing_Door (18): -1235012280
+      Base-Landing_Door (30): 622848553
+      Base-Landing_Door (6): -463973644
+      Base-Landing_Door (21): 1901445131
+      Base-Landing_Door (49): -966682656
+      Base-Landing_Door (16): -667544232
+      Base-Landing_Door (13): 682216304
+      Base-Landing_Door (3): -1178503369
+      Base-Landing_Door (5): -320479910
+      Base-Landing_Door (17): -1192725995
+      Base-Landing_Door (24): -1061576572
+      Base-Landing_Door (31): 89316359
+      Base-Landing_Door (22): -1449161507
+      Base-Landing_Door (41): 1388260891
+      Base-Landing_Door (25): -69640509
+      Base-Landing_Door (32): -764915080
+      Base-Landing_Door (42): -75076272
+      Base-Landing_Door (51): 900149112
+      Base-Landing_Door (40): -1611191243
+      Base-Landing_Door (4): 375471873
+      Base-Landing_Door (45): -1685987131
+      Base-Landing_Door (47): -272124352
+      Base-Landing_Door (38): -416943143
+      Base-Landing_Door (29): 1001217709
+      Base-Landing_Door (36): 1744472633
+      Base-Landing_Door (52): 298857608
+      Base-Landing_Door (53): -1098744980
+      Base-Landing_Door (19): 1645940488
+      Base-Landing_Door (46): -2117368419
+      Base-Landing_Door (8): 1782155340
+      Base-Landing_Door (39): -1721325175
+      Base-Landing_Door (14): -610770307
+      Base-Landing_Door (1): -2102864287
+      Base-Landing_Door (27): -1070413629
+      Base-Landing_Door (50): 1582428249
+      Base-Landing_Door (26): -1338643646
+      Base-Landing_Door (28): 1656460421
+      Base-Landing_Door (35): -1142508180
+      Base-Landing_Door (12): -609138263
+      Base-Landing_Door (37): 1355440847
+      Base-Landing_Door (7): -1912660792
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

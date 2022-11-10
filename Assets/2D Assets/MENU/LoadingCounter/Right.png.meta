@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: 63f1280ebb84187499bd54ca83adbcf4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Birler0000
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 793
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2067d9ca3037847897feef6b2c3b76
+      internalID: 1987919868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0001
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 793
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349eb217a711cf846b88697ba2ae37c4
+      internalID: 974163753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0002
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 793
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b776fb2741433b449b4f1d559aa43a7c
+      internalID: 1692859447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0003
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 793
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff06b47fea1ee94e842f5297fa18266
+      internalID: 2146059470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0004
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 793
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dbcb481140e164287393b8bb7f33ba
+      internalID: 505348461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0005
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 793
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5e827b1954dc5478eaccb1f63a8817
+      internalID: -657094681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0006
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 793
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b804505e1109a499e946ce58b18801
+      internalID: 206986533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0007
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 793
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e30b3bb29a978840a820693d3ea4704
+      internalID: -166838741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0008
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 793
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3434aa6818c4c34eaedfb51526bdf3a
+      internalID: 763019513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0009
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 552
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96a5fe57c7722740b2dbaf14d2c038b
+      internalID: 2009986236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0010
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 552
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6527a4c3331344f948eb0907a7f31f
+      internalID: -345354611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0011
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 552
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2c208d5d63d754eb8bc92f9df5e5b9
+      internalID: 2025918265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0012
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 552
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e522de398decb4caa3a61d94ecd044
+      internalID: -961876152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0013
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 552
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db260aaa03fe5354e9316d962f1aa4f6
+      internalID: 235207933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0014
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 552
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eb3930ba3e99744be4439f7b0563f2
+      internalID: -2036673814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0015
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 552
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c176ad0d6c844f8a7677e3d06db7e
+      internalID: 1007400169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0016
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 552
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccfaac7baa760d48a93703230a807a5
+      internalID: -1860901469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0017
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 552
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975182d0d8b22464abb6a3fb994eb7fd
+      internalID: 1266457235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0018
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 311
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403034f6ab4c09b44a4ed056ff8317e2
+      internalID: -1344894059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0019
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 311
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e253bda331b39344d8c02cf9de51d271
+      internalID: 1016171249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0020
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 311
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4eb28df3db085468a1728f4fee3a48
+      internalID: 675382764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0021
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 311
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b13312cecf77c44933d5bfc9364889
+      internalID: 982578797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0022
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 311
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ee150743c8ae14a8c8239c5f4d6361
+      internalID: -438107856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0023
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 311
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ccf5cccb8f0440b1c17870aebf1f1
+      internalID: 589544759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birler0024
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 311
+        width: 86
+        height: 221
+      alignment: 9
+      pivot: {x: -1.2093023, y: 1.882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc4f24822b48b94292f5fefb1fc647e
+      internalID: 1244659642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 513ae0c2ce9b276499ea3b81d0564034
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Birler0005: -657094681
+      Birler0006: 206986533
+      Birler0022: -438107856
+      Birler0013: 235207933
+      Birler0002: 1692859447
+      Birler0019: 1016171249
+      Birler0016: -1860901469
+      Birler0009: 2009986236
+      Birler0012: -961876152
+      Birler0021: 982578797
+      Birler0017: 1266457235
+      Birler0008: 763019513
+      Birler0020: 675382764
+      Birler0023: 589544759
+      Birler0018: -1344894059
+      Birler0004: 505348461
+      Birler0014: -2036673814
+      Birler0003: 2146059470
+      Birler0001: 974163753
+      Birler0000: 1987919868
+      Birler0010: -345354611
+      Birler0024: 1244659642
+      Birler0011: 2025918265
+      Birler0015: 1007400169
+      Birler0007: -166838741
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

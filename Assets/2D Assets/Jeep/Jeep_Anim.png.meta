@@ -1,0 +1,2410 @@
+fileFormatVersion: 2
+guid: cc1c39c4e28213f41bdb6bb357e04d6b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (1)
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1796
+        width: 117
+        height: 247
+      alignment: 9
+      pivot: {x: -4.675214, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72792f6f982eb9741ad881c79b1c34e3
+      internalID: -1070179114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (10)
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1796
+        width: 119
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5882354, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3f683eabcfc2b49852afc2805b9ad4
+      internalID: -1760731984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (100)
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69677cc6ac8bd744a493df58c098ac8
+      internalID: 848834776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (101)
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e8cf8ce08c8bc47a015855a3a3fd6d
+      internalID: -382576465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (102)
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b113bfe193c81e478d3f052ecaf17ec
+      internalID: 325557429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (103)
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 254
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd335174ae0b8554684b4093ff69b458
+      internalID: 125911284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (104)
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232773900088253458320fff8cf4e667
+      internalID: 1566760083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (105)
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffd8aa7502729046a09152466698858
+      internalID: -559934434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (11)
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1796
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5416665, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e95d0c36c841149bbcbd8a9a6fc018
+      internalID: -1287706422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (12)
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1796
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c5b90079107d24f899360516ae0e22
+      internalID: 1239382359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (13)
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1796
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5333333, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b204757bdd82a49a86b5569792ff15
+      internalID: -1251286288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (14)
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1796
+        width: 118
+        height: 247
+      alignment: 9
+      pivot: {x: -4.6271186, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2580f9efd04903418019f4b49a2d50f
+      internalID: 748313840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (15)
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1796
+        width: 119
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5882354, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26f625c31f062649adace8642c6f5c1
+      internalID: 1470654636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (16)
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1539
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5333333, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9667dae39de67a440b5c3a53c3f1b45d
+      internalID: -1963478528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (17)
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1539
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec312b18d8bf6e41a69c7d016433d4a
+      internalID: 306098646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (18)
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1539
+        width: 118
+        height: 247
+      alignment: 9
+      pivot: {x: -4.6271186, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25dd630279629246a8b9ae5eeb2d938
+      internalID: 2096670500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (19)
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1539
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e077493627bb44299ec2ec5dec9289
+      internalID: -1132150662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (2)
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1796
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5333333, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6fa16b0b6c46c48992dea57cac1c61
+      internalID: 680088204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (20)
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1539
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5333333, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd89ccf193c4164296151552066e41a
+      internalID: 1964849549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (21)
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1539
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9096a7f3f76dfb24796fac0da34f61ea
+      internalID: -1731528917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (22)
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1539
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5333333, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5039541225f58704684e0736383cd988
+      internalID: -691056450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (23)
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1539
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5333333, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091f52c580b8ef74eabbebb99d414b9e
+      internalID: 2132485895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (24)
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1539
+        width: 119
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5882354, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c659705765d6d094cb3b3f7ba0bc2bd8
+      internalID: -1754732276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (25)
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1539
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09433667cbf8e864b949c62789e39d85
+      internalID: -408738269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (26)
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1539
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5416665, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb3dc2af97c0a240ae76f38ac7263fe
+      internalID: -1525004573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (27)
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1539
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa881a840b7058f4da2d0497aeace8d4
+      internalID: 1802503480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (28)
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1539
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309397667b909b94e8f7f2bae1eb9ab4
+      internalID: 568677080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (29)
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1539
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a3230c51d5ccd428ba961f218a7f3d
+      internalID: 580340728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (3)
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1796
+        width: 119
+        height: 247
+      alignment: 9
+      pivot: {x: -4.579832, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b79aa96e51474f479e9cc1ca1da1e60
+      internalID: -1017340513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (30)
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1539
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eb959d8abc1954f943745db9c6cbcc
+      internalID: 1939733308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (31)
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1282
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5333333, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5188698c3f22944591d7659a7162997
+      internalID: 906345211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (32)
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1282
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5333333, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1136cb2fb5fd8c47aaabaff6a29f75e
+      internalID: 1111132912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (33)
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1282
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ddf75a853453d4fb5abe5d9f8a96f3
+      internalID: 993826845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (34)
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1282
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d1ca2c37759e24da6e67af75afaf03
+      internalID: 243843486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (35)
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1282
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae6700909ca4134f8e7943ef2e9436f
+      internalID: 227797029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (36)
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1282
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5333333, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca876f382abc804bb9147608325732c
+      internalID: -1799692872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (37)
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1282
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d91294fc601540b2d309cb389bcde
+      internalID: 111269703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (38)
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1282
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b218e6a62ff882e43930ced1876543f0
+      internalID: -985536294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (39)
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1282
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5333333, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5379fd71e55da9446a838113114105fd
+      internalID: -1248100784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (4)
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1796
+        width: 118
+        height: 247
+      alignment: 9
+      pivot: {x: -4.6271186, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccb1362636e2c542a05a835d5bd09eb
+      internalID: -1674493946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (40)
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1282
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc4e83203050542a81875551b4f336
+      internalID: 1972785927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (41)
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1282
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423167b3b18e1845ac865d28a4a3bab
+      internalID: -842442805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (42)
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1282
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a50bafc162e674438ac243753c5d6ba
+      internalID: 1682359976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (43)
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1282
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dce9ca88695f745b906a4c389b89f9
+      internalID: -114140011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (44)
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1282
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b760d48292ebe2d43b52d2d411b96685
+      internalID: -1404359720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (45)
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1282
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfa0c32cadc26b4bac5430f7fa12798
+      internalID: -34300013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (46)
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1a965d29b2a0341b46f2e4b40e2f8d
+      internalID: -821325419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (47)
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afc5dad319ec8d4085a17dbcb7065b4
+      internalID: 2041324370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (48)
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1025
+        width: 120
+        height: 247
+      alignment: 9
+      pivot: {x: -4.5333333, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0902bba366cf5cd4584a871809834ad8
+      internalID: -1729652241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (49)
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5027905b94d7f04db5be1c8252d2bd5
+      internalID: 954815399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (5)
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1796
+        width: 114
+        height: 247
+      alignment: 9
+      pivot: {x: -4.8245616, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5186a273c58f44695cc9440699765b
+      internalID: 324497204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (50)
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f41da63b6eb9d4cb34ac8a191f58c1
+      internalID: -2222215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (51)
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2b864df29f28d4c893c565d183804f
+      internalID: 1189698590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (52)
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44597d32ac2846c479199047d78fd2c1
+      internalID: 908777088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (53)
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c6ed1362d3f3f4589e1680828ed287
+      internalID: -109174033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (54)
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a887b114e26334fa0cb19f2e91a9c4
+      internalID: 1498651462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (55)
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c37d9a9c8a48b4792da2be8490396f
+      internalID: -2071491565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (56)
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c524e4235c4b2b9469697596a101879a
+      internalID: -1545515011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (57)
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487b1c8fc8b15b74ebfd0ee8b99b3ec8
+      internalID: -1211212107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (58)
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583ad6ace6bc2734c98ae8efcb993ba0
+      internalID: -601248945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (59)
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042be07fc763fea4f8bc72f1f0083641
+      internalID: -1749936600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (6)
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1796
+        width: 118
+        height: 247
+      alignment: 9
+      pivot: {x: -4.6355934, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a409e3bbd6f7184abd8d93a81b01b1c
+      internalID: 379217094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (60)
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1025
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b18c693197488439bd2ebff783b75c
+      internalID: 713320652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (61)
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a99824d19a614740889048a968da026
+      internalID: -1484200331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (62)
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9490efb442bb95d4bb20a39a68d3a3c9
+      internalID: 1344060456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (63)
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5fbb3917d76e640bb2b8ef2cb9c38e
+      internalID: -1653084292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (64)
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c4433ff93548b45b68e0fe855f68d7
+      internalID: 1332838014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (65)
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99225dc428868f741b5eb9e59fbc8b0e
+      internalID: -1813765925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (66)
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb3c4b684e66ae428df83f1c53dd731
+      internalID: 603478741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (67)
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9953a334e80fc7649bce8cc62af4d84a
+      internalID: 230296924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (68)
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf2418a7d65c749ad25646bf143043
+      internalID: -883550373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (69)
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218f96d7bdc73da44b0e931da66a969e
+      internalID: -727326369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (7)
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1796
+        width: 118
+        height: 247
+      alignment: 9
+      pivot: {x: -4.6355934, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fffbc629fb800d4ea93ef9ba85201b9
+      internalID: -1926558123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (70)
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6757107cc9eef2488f9992ca616ae90
+      internalID: -306627387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (71)
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999802d1837f2de44a7a4c09e50a2021
+      internalID: -844721529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (72)
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc614e31789c34349a1486e021a8a035
+      internalID: 1584248993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (73)
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e920e47615a04a42ae1b738be1a2827
+      internalID: 69637805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (74)
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5746ecf2c701a14e806721ed2645e56
+      internalID: 916502367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (75)
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 768
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae4a98e873211a4eb68e251ae4d72e6
+      internalID: 911517575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (76)
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 511
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceca5cbd9a2cade41a19751937d8f6e9
+      internalID: -1661617725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (77)
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 511
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e0031ba39ab6441846bf871e75f36b
+      internalID: 67563201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (78)
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 512
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc2ef0a0ee880d42bae036a69ece651
+      internalID: 1469806221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (79)
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 512
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72145e402514e6e4eb0835b05ce78db1
+      internalID: 1382777706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (8)
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1796
+        width: 118
+        height: 247
+      alignment: 9
+      pivot: {x: -4.6355934, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25e132ba6ca9e64fbc99146f989ad17
+      internalID: 450777140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (80)
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 511
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef62c1e1ccec6434695a6dab65711f02
+      internalID: -1910363790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (81)
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 512
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceacb64f86edd714fa4d0c740e4f4d49
+      internalID: 1844786255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (82)
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 512
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c22952ce5172664f9a9cd07f2379b4e
+      internalID: 221519210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (83)
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 511
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de221b57a3499d942b0150b7c6691617
+      internalID: -1234646771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (84)
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 511
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf39ae17f761d6343b4e25f2855033b2
+      internalID: -2012638580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (85)
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 511
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fc1c84ed10e3745a998ef123da2185
+      internalID: -329902842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (86)
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 512
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034ef7d0406db5e478b0bf6d232dac72
+      internalID: -729629771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (87)
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 512
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c78e200b24254b90c53a6d6c6923a
+      internalID: 75387900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (88)
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 512
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e3cebdb63893140a174dec7ec09a63
+      internalID: 1647810733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (89)
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 512
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a821378e340616641ac7819ae5334c3f
+      internalID: 1643580450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (9)
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1796
+        width: 119
+        height: 247
+      alignment: 9
+      pivot: {x: -4.579832, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf10ed17eb56e0548b18f18c80d331cc
+      internalID: 807513794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (90)
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 511
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4467ef1111ec849ae9803332444997
+      internalID: -1902602603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (91)
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9ae9b7a538dad45810861df29078bf
+      internalID: -352537833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (92)
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2209a60fc5b8bbe41ad9f95c3d4cb25d
+      internalID: 704695696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (93)
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b28feb7e65f25a43bd0aee592c5d99c
+      internalID: -1015454263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (94)
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5e299f05f5c374fbc18da281736a26
+      internalID: -31335185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (95)
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 254
+        width: 121
+        height: 247
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9190283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0cbe4897cc7514c91801aadbb95058
+      internalID: 1033605187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (96)
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9a10ea3a2823a4bbf43be269c44e4e
+      internalID: -789120492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (97)
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65db63f3682fb644fba7b95e77ae9301
+      internalID: 1964618860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (98)
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def0b9f6e44de994aa353c5e96183432
+      internalID: -120272492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Jeep_Anim (99)
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 255
+        width: 121
+        height: 246
+      alignment: 9
+      pivot: {x: -4.4958677, y: 2.9308944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6bace05d891f74999463fb3f481d42
+      internalID: -2127953263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b47128dbefc5afc47887d07270f3672c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 60a045311c9ab704c9d693ba9b543c11, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-Jeep_Anim (10): -1760731984
+      Base-Jeep_Anim (82): 221519210
+      Base-Jeep_Anim (25): -408738269
+      Base-Jeep_Anim (92): 704695696
+      Base-Jeep_Anim (38): -985536294
+      Base-Jeep_Anim (86): -729629771
+      Base-Jeep_Anim (45): -34300013
+      Base-Jeep_Anim (40): 1972785927
+      Base-Jeep_Anim (11): -1287706422
+      Base-Jeep_Anim (43): -114140011
+      Base-Jeep_Anim (93): -1015454263
+      Base-Jeep_Anim (28): 568677080
+      Base-Jeep_Anim (53): -109174033
+      Base-Jeep_Anim (32): 1111132912
+      Base-Jeep_Anim (52): 908777088
+      Base-Jeep_Anim (55): -2071491565
+      Base-Jeep_Anim (57): -1211212107
+      Base-Jeep_Anim (65): -1813765925
+      Base-Jeep_Anim (70): -306627387
+      Base-Jeep_Anim (7): -1926558123
+      Base-Jeep_Anim (71): -844721529
+      Base-Jeep_Anim (1): -1070179114
+      Base-Jeep_Anim (101): -382576465
+      Base-Jeep_Anim (80): -1910363790
+      Base-Jeep_Anim (69): -727326369
+      Base-Jeep_Anim (100): 848834776
+      Base-Jeep_Anim (34): 243843486
+      Base-Jeep_Anim (50): -2222215
+      Base-Jeep_Anim (59): -1749936600
+      Base-Jeep_Anim (99): -2127953263
+      Base-Jeep_Anim (24): -1754732276
+      Base-Jeep_Anim (81): 1844786255
+      Base-Jeep_Anim (19): -1132150662
+      Base-Jeep_Anim (6): 379217094
+      Base-Jeep_Anim (5): 324497204
+      Base-Jeep_Anim (56): -1545515011
+      Base-Jeep_Anim (9): 807513794
+      Base-Jeep_Anim (54): 1498651462
+      Base-Jeep_Anim (42): 1682359976
+      Base-Jeep_Anim (103): 125911284
+      Base-Jeep_Anim (61): -1484200331
+      Base-Jeep_Anim (23): 2132485895
+      Base-Jeep_Anim (26): -1525004573
+      Base-Jeep_Anim (14): 748313840
+      Base-Jeep_Anim (44): -1404359720
+      Base-Jeep_Anim (18): 2096670500
+      Base-Jeep_Anim (76): -1661617725
+      Base-Jeep_Anim (75): 911517575
+      Base-Jeep_Anim (58): -601248945
+      Base-Jeep_Anim (21): -1731528917
+      Base-Jeep_Anim (78): 1469806221
+      Base-Jeep_Anim (68): -883550373
+      Base-Jeep_Anim (66): 603478741
+      Base-Jeep_Anim (48): -1729652241
+      Base-Jeep_Anim (67): 230296924
+      Base-Jeep_Anim (96): -789120492
+      Base-Jeep_Anim (72): 1584248993
+      Base-Jeep_Anim (64): 1332838014
+      Base-Jeep_Anim (47): 2041324370
+      Base-Jeep_Anim (8): 450777140
+      Base-Jeep_Anim (89): 1643580450
+      Base-Jeep_Anim (90): -1902602603
+      Base-Jeep_Anim (88): 1647810733
+      Base-Jeep_Anim (3): -1017340513
+      Base-Jeep_Anim (97): 1964618860
+      Base-Jeep_Anim (16): -1963478528
+      Base-Jeep_Anim (60): 713320652
+      Base-Jeep_Anim (17): 306098646
+      Base-Jeep_Anim (2): 680088204
+      Base-Jeep_Anim (22): -691056450
+      Base-Jeep_Anim (62): 1344060456
+      Base-Jeep_Anim (73): 69637805
+      Base-Jeep_Anim (87): 75387900
+      Base-Jeep_Anim (84): -2012638580
+      Base-Jeep_Anim (29): 580340728
+      Base-Jeep_Anim (15): 1470654636
+      Base-Jeep_Anim (4): -1674493946
+      Base-Jeep_Anim (27): 1802503480
+      Base-Jeep_Anim (85): -329902842
+      Base-Jeep_Anim (41): -842442805
+      Base-Jeep_Anim (46): -821325419
+      Base-Jeep_Anim (51): 1189698590
+      Base-Jeep_Anim (91): -352537833
+      Base-Jeep_Anim (30): 1939733308
+      Base-Jeep_Anim (94): -31335185
+      Base-Jeep_Anim (12): 1239382359
+      Base-Jeep_Anim (63): -1653084292
+      Base-Jeep_Anim (31): 906345211
+      Base-Jeep_Anim (35): 227797029
+      Base-Jeep_Anim (95): 1033605187
+      Base-Jeep_Anim (102): 325557429
+      Base-Jeep_Anim (20): 1964849549
+      Base-Jeep_Anim (37): 111269703
+      Base-Jeep_Anim (98): -120272492
+      Base-Jeep_Anim (83): -1234646771
+      Base-Jeep_Anim (33): 993826845
+      Base-Jeep_Anim (74): 916502367
+      Base-Jeep_Anim (105): -559934434
+      Base-Jeep_Anim (77): 67563201
+      Base-Jeep_Anim (49): 954815399
+      Base-Jeep_Anim (79): 1382777706
+      Base-Jeep_Anim (36): -1799692872
+      Base-Jeep_Anim (13): -1251286288
+      Base-Jeep_Anim (104): 1566760083
+      Base-Jeep_Anim (39): -1248100784
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

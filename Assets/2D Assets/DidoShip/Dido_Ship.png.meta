@@ -1,0 +1,1486 @@
+fileFormatVersion: 2
+guid: 2860df264bc92dd479811703f23d4c5d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (1)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3796
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc16d57b5398fc40aa49886d1efc660
+      internalID: 816734133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (10)
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 3796
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a57df321b11faa479eeaa32518280ed
+      internalID: 456246061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (11)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3476
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaabf2f7fb78e60499e83d5ba99a31c5
+      internalID: 1840654714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (12)
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3476
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5370cf0397348c4d8c5d7801efd4b48
+      internalID: 1534224865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (13)
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 3476
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ee1a63b7a8e844099091437cde0c6d
+      internalID: 117160110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (14)
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 3476
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de0c863619d9584390026c488566426
+      internalID: -142526031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (15)
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3476
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939c784cced65dd46b51255c46689b93
+      internalID: 747527427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (16)
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 3476
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23600359d9088934dbcff7889b24d7a8
+      internalID: 296700583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (17)
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 3476
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1203e510b59fec44ca13efbb874f1b94
+      internalID: -381038510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (18)
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3476
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2489b1d9f1506549aae07d30969a2f3
+      internalID: -660637797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (19)
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3476
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c75e698b5441e44817543d4987a1af
+      internalID: -471445579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (2)
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3796
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337bc3780913f9546ad428386471d5e5
+      internalID: -1761188321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (20)
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 3476
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6c2e6a2b6e8724a8fa38fab674c3d3
+      internalID: -417332698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (21)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3156
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1b16d72841c114d852f7a25ab5baac
+      internalID: -1111958768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (22)
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3156
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dbd7978d1d37949b6ee95ef74f7705
+      internalID: -1497105793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (23)
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 3156
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd700a31e4b2e84418164855ecc16ebf
+      internalID: 564845260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (24)
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 3156
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9182e756b7a4bfb49b2f5f7f7ba7440f
+      internalID: -959700316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (25)
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3156
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446ef3b7e91a99c4e9a1e29721b5aaab
+      internalID: 1120440670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (26)
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 3156
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fe4f8095fbae74bb48f8bac7771ac9
+      internalID: 1530315947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (27)
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 3156
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bb583490d71b24fac67120c597f000
+      internalID: 1781565583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (28)
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3156
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852c76b3c1182784886db1c5a35f97ba
+      internalID: 808460502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (29)
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3156
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c08eacf5e618594893c55ddce461d0b
+      internalID: 410046192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (3)
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 3796
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e892ad9bd4a7642a0d61fa53cf7cb9
+      internalID: 772820708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (30)
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 3156
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f557d3d282fca52498f42e81529b43b1
+      internalID: -1128819557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (31)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2836
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554f0cb1eac39594798ca3a13cd30609
+      internalID: 748091351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (32)
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2836
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cac45ecf03f7f48ac615f26a8b266a
+      internalID: 1543206138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (33)
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2836
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66624fcb2df6c1045a086a591cc48096
+      internalID: 593659668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (34)
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2836
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5bc3d4801f3c04e9f44eb0447e4c7c
+      internalID: -2136859543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (35)
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2836
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece10edb475c4e64fb03c53d9572a31b
+      internalID: 1356673464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (36)
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2836
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12de0c5142fc6ef4f8fb07a8c0d3e72d
+      internalID: -1216257730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (37)
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 2836
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd00fcf9289d1e04ea9c854784df2627
+      internalID: 1974156451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (38)
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 2836
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d8182d9747184b8a4bafbdf8a83d1
+      internalID: -560877388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (39)
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2836
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408808c653aba2d498c7d440b2359135
+      internalID: 1658468383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (4)
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 3796
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385619c8362b2c544af6f660a67328b9
+      internalID: -1854130694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (40)
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 2836
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07885c4b56b3640b6900eba6d1998f
+      internalID: 289183332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (41)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2516
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aac87c63402654993117de9ed42627
+      internalID: -981565910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (42)
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2516
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace7825c5e84e0049a5855dae8544375
+      internalID: 141886116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (43)
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2516
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d6c9e15d2a0144b71ca80122b144b
+      internalID: -2081941448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (44)
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2516
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ed4f72219f7d14fa9e7b82a0cf420c
+      internalID: -450405483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (45)
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2516
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9af8141aacab184e887f6b65285c4f6
+      internalID: 1507648175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (46)
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2516
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82998c76b3372944eb0b7b50443f8a27
+      internalID: 1056111185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (47)
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 2516
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b17b9da4bc28794fb82a75c615f13a3
+      internalID: -1735569010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (48)
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 2516
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91664647dbc3e464e9ff79ed68141435
+      internalID: 1592748360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (49)
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2516
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d824760c0ed017449cc201739e42f2a
+      internalID: 60249269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (5)
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3796
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e6f2922c559dd45baf11f808574ad4
+      internalID: 1062774957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (50)
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 2516
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce281cb1ff9b26545aa596945389af39
+      internalID: 898345775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (51)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2196
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f133503d7121940887663d094e388e
+      internalID: -390534612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (52)
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2196
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4614badaba6cfc42b192be071bb62b3
+      internalID: -226575632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (53)
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2196
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae52790e9347894b9a729261de08a3d
+      internalID: -44266783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (54)
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2196
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8181ce9236e3f7418aa068dccafb9fe
+      internalID: -2092615286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (55)
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2196
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5fe3c7391bf3f45b474d2efa8c6648
+      internalID: 1236350277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (56)
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2196
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669e68adddee21d41ae8574adf87c6bc
+      internalID: 2136101123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (57)
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 2196
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f158b2682101f94aa7f4aefa88478d0
+      internalID: -2047899031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (58)
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 2196
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312e57c079e8c354381b0ca39bbee4e7
+      internalID: 1507579582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (59)
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2196
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6b8bda2c065484ca9f1b8e758495fb
+      internalID: -352201485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (6)
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 3796
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62998e897f43f3a479f23d9b00032ef2
+      internalID: 579805482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (60)
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 2196
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526dfacc2d5eab643ab0cfbf83b329d8
+      internalID: 585215900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (61)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1876
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc001418cd1cb5642a2976585e6934c5
+      internalID: -390179148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (62)
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1876
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174f0edec1be66342bfd85cfbc842fa8
+      internalID: -107040168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (63)
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1876
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65b4cf2a2134c94095e6119f71c4227
+      internalID: -1588667938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (7)
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 3796
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aabc6049ce5bad48b642164f81225e4
+      internalID: 933966184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (8)
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3796
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe59e31948081f49b9c5f4097e69658
+      internalID: 1344268792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Dido_Twin_Anim (9)
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3796
+        width: 348
+        height: 280
+      alignment: 9
+      pivot: {x: 3.8706896, y: 3.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeb687123ad6424da2be86816035601
+      internalID: -378962547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f9feb1a90ac7a864ebfda07eccf6f636
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 8524130a1b672bd49ae3cd7d47a6be67, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-Dido_Twin_Anim (8): 1344268792
+      Base-Dido_Twin_Anim (7): 933966184
+      Base-Dido_Twin_Anim (16): 296700583
+      Base-Dido_Twin_Anim (45): 1507648175
+      Base-Dido_Twin_Anim (31): 748091351
+      Base-Dido_Twin_Anim (41): -981565910
+      Base-Dido_Twin_Anim (26): 1530315947
+      Base-Dido_Twin_Anim (32): 1543206138
+      Base-Dido_Twin_Anim (36): -1216257730
+      Base-Dido_Twin_Anim (43): -2081941448
+      Base-Dido_Twin_Anim (6): 579805482
+      Base-Dido_Twin_Anim (5): 1062774957
+      Base-Dido_Twin_Anim (48): 1592748360
+      Base-Dido_Twin_Anim (30): -1128819557
+      Base-Dido_Twin_Anim (28): 808460502
+      Base-Dido_Twin_Anim (23): 564845260
+      Base-Dido_Twin_Anim (40): 289183332
+      Base-Dido_Twin_Anim (62): -107040168
+      Base-Dido_Twin_Anim (10): 456246061
+      Base-Dido_Twin_Anim (19): -471445579
+      Base-Dido_Twin_Anim (25): 1120440670
+      Base-Dido_Twin_Anim (44): -450405483
+      Base-Dido_Twin_Anim (2): -1761188321
+      Base-Dido_Twin_Anim (58): 1507579582
+      Base-Dido_Twin_Anim (60): 585215900
+      Base-Dido_Twin_Anim (24): -959700316
+      Base-Dido_Twin_Anim (29): 410046192
+      Base-Dido_Twin_Anim (47): -1735569010
+      Base-Dido_Twin_Anim (53): -44266783
+      Base-Dido_Twin_Anim (57): -2047899031
+      Base-Dido_Twin_Anim (12): 1534224865
+      Base-Dido_Twin_Anim (39): 1658468383
+      Base-Dido_Twin_Anim (4): -1854130694
+      Base-Dido_Twin_Anim (59): -352201485
+      Base-Dido_Twin_Anim (37): 1974156451
+      Base-Dido_Twin_Anim (18): -660637797
+      Base-Dido_Twin_Anim (13): 117160110
+      Base-Dido_Twin_Anim (27): 1781565583
+      Base-Dido_Twin_Anim (3): 772820708
+      Base-Dido_Twin_Anim (51): -390534612
+      Base-Dido_Twin_Anim (35): 1356673464
+      Base-Dido_Twin_Anim (50): 898345775
+      Base-Dido_Twin_Anim (52): -226575632
+      Base-Dido_Twin_Anim (49): 60249269
+      Base-Dido_Twin_Anim (61): -390179148
+      Base-Dido_Twin_Anim (14): -142526031
+      Base-Dido_Twin_Anim (21): -1111958768
+      Base-Dido_Twin_Anim (15): 747527427
+      Base-Dido_Twin_Anim (38): -560877388
+      Base-Dido_Twin_Anim (54): -2092615286
+      Base-Dido_Twin_Anim (20): -417332698
+      Base-Dido_Twin_Anim (9): -378962547
+      Base-Dido_Twin_Anim (11): 1840654714
+      Base-Dido_Twin_Anim (22): -1497105793
+      Base-Dido_Twin_Anim (1): 816734133
+      Base-Dido_Twin_Anim (34): -2136859543
+      Base-Dido_Twin_Anim (42): 141886116
+      Base-Dido_Twin_Anim (55): 1236350277
+      Base-Dido_Twin_Anim (33): 593659668
+      Base-Dido_Twin_Anim (46): 1056111185
+      Base-Dido_Twin_Anim (56): 2136101123
+      Base-Dido_Twin_Anim (63): -1588667938
+      Base-Dido_Twin_Anim (17): -381038510
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

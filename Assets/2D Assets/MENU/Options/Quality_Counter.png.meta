@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 77e7a844d18b9c043a6dafd4c8e485f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Quality0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 411
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7952c4bff73375e43a6f34af57c146d1
+      internalID: -336003506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0001
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 411
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7c98ba90c72854e8acf0d8d34ae0cd
+      internalID: 732279108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0002
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 411
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a070e39fd3f62e46a5b561951ae75fa
+      internalID: 1228816789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0003
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 411
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feb840a9e4477049ac2d739665f8db2
+      internalID: 1367499247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0004
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 411
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d3aa9910e91e48986d2475301931c
+      internalID: 483582601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 309
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b300c8bf2c29ad4795e32089fece519
+      internalID: -1968497884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0006
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 309
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f39d98fcd785044ca12291a781cc944
+      internalID: -1894165184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0007
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 309
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b2f33242b3bc741831b4bdbaa1b7c7
+      internalID: -272955762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0008
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 309
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ba3eab90c9da64e9bcc6ac351be070
+      internalID: -511619847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0009
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 309
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6da68793b7b994da9afe6babe9d760
+      internalID: -1129977197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df46ddde59cc0040866deaf38d55052
+      internalID: -1572596994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0011
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 207
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5c5b8ff043f1647aa0bd5397485005
+      internalID: 1916330797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0012
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 207
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9fb909ee198474e9c3b1174cf73067
+      internalID: 1834966284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0013
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 207
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae87b4fc7e6ab48bc0f61bec5421f3
+      internalID: 201489465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0014
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 207
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d93cd2efc79da479f5d4e8f1a5ea82
+      internalID: -234382439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfed78cc609cb9049814668d88a2b0dd
+      internalID: -63365222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0016
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 105
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb362f51f7041a04eb69fe428af3e180
+      internalID: 1764094546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0017
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 105
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02384c6beb86d6345b8e3120d923bcf9
+      internalID: -1657176182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0018
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 105
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ec6d0738e967d49839a9c823215f42
+      internalID: 592330581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0019
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 105
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06ab80ee7d3e294ca631a77342b482b
+      internalID: 815407518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quality0020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 362
+        height: 100
+      alignment: 9
+      pivot: {x: 1.9281768, y: 2.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f25fdc96f452047a9088c507c72d50
+      internalID: 795196257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 962c203c102eb2e44b3d2257f5f2876b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Quality0015: -63365222
+      Quality0009: -1129977197
+      Quality0000: -336003506
+      Quality0001: 732279108
+      Quality0012: 1834966284
+      Quality0013: 201489465
+      Quality0018: 592330581
+      Quality0017: -1657176182
+      Quality0019: 815407518
+      Quality0005: -1968497884
+      Quality0010: -1572596994
+      Quality0008: -511619847
+      Quality0014: -234382439
+      Quality0016: 1764094546
+      Quality0011: 1916330797
+      Quality0004: 483582601
+      Quality0002: 1228816789
+      Quality0007: -272955762
+      Quality0003: 1367499247
+      Quality0020: 795196257
+      Quality0006: -1894165184
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4634 @@
+fileFormatVersion: 2
+guid: 45679cb923447c54cafbb7784c1066ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-History_Mechanism (1)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3822
+        width: 106
+        height: 264
+      alignment: 9
+      pivot: {x: 13.54717, y: -1.2310606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c3db4cd0275b4a9297091b2a03805
+      internalID: -180049752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (10)
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3840
+        width: 117
+        height: 246
+      alignment: 9
+      pivot: {x: 12.316239, y: -1.0487804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6795f1df87ee6f147b4a56d8910cef04
+      internalID: 1239035836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (100)
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2354
+        width: 99
+        height: 280
+      alignment: 9
+      pivot: {x: 14.959596, y: 1.1535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04b72810ad6b19468e9c9c6f9e3ced5
+      internalID: -1633895129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (101)
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 2353
+        width: 98
+        height: 281
+      alignment: 9
+      pivot: {x: 15.112245, y: 1.1494662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74519a3560bc5e4abd79fa233a20ea0
+      internalID: -1435108633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (102)
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2353
+        width: 98
+        height: 281
+      alignment: 9
+      pivot: {x: 15.112245, y: 1.1494662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54900c41d47ad154c8649cb12438381d
+      internalID: 1592088914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (103)
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2353
+        width: 143
+        height: 281
+      alignment: 9
+      pivot: {x: 10.356644, y: 1.1494662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e9a463ebdc7134bb21ca32028ab3fd
+      internalID: -1763092499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (104)
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 2353
+        width: 98
+        height: 281
+      alignment: 9
+      pivot: {x: 15.112245, y: 1.1494662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c668eb4e6db6f45856984049f0a531
+      internalID: -675734412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (105)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2051
+        width: 98
+        height: 281
+      alignment: 9
+      pivot: {x: 15.112245, y: 1.1494662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bccd7e0d67c8f64f92578d053c9c7a6
+      internalID: 1098593251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (106)
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2051
+        width: 98
+        height: 281
+      alignment: 9
+      pivot: {x: 15.112245, y: 1.1494662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997fcadd3f6b54d4ca87b2d291556cdb
+      internalID: -1263042701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (107)
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2051
+        width: 98
+        height: 281
+      alignment: 9
+      pivot: {x: 15.112245, y: 1.1494662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8ded94d5039ac4fad2d5b88a6d6a99
+      internalID: -2094202045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (108)
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2051
+        width: 98
+        height: 281
+      alignment: 9
+      pivot: {x: 15.112245, y: 1.1494662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2578cc1f832c149bb22e289f372224
+      internalID: -945279295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (109)
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2051
+        width: 98
+        height: 281
+      alignment: 9
+      pivot: {x: 15.112245, y: 1.1494662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde64d1bc1cf3a342afccaac565b5e3e
+      internalID: -203132892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (11)
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 3830
+        width: 90
+        height: 256
+      alignment: 9
+      pivot: {x: 16.01111, y: -0.96484375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c60ecff28ee17944bccbe27d4fba81b
+      internalID: -924517776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (110)
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2071
+        width: 97
+        height: 261
+      alignment: 9
+      pivot: {x: 15.268042, y: 1.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dc564d141fd814c87dac0575431f85
+      internalID: -1218109063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (111)
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2062
+        width: 109
+        height: 270
+      alignment: 9
+      pivot: {x: 13.587156, y: 1.3888888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d162794e0c9a32b469756c1d9bb9eab9
+      internalID: -2080355474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (112)
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 2048
+        width: 97
+        height: 284
+      alignment: 9
+      pivot: {x: 15.298969, y: 1.4788733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75710b8e1b8703a4ea2d3c39654d20cc
+      internalID: -1746365606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (113)
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2055
+        width: 115
+        height: 277
+      alignment: 9
+      pivot: {x: 12.878261, y: 1.5198556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f1c0dac5c0da341ba263ed04863d1c
+      internalID: 584793207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (114)
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 2046
+        width: 94
+        height: 286
+      alignment: 9
+      pivot: {x: 15.75532, y: 1.4685315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c933182ec52c4a44699d1661c756b80a
+      internalID: 1534412882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (115)
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2048
+        width: 95
+        height: 284
+      alignment: 9
+      pivot: {x: 15.589474, y: 1.4788733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80621515e6ffcbe419396d2f361816bf
+      internalID: -364191824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (116)
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2048
+        width: 98
+        height: 284
+      alignment: 9
+      pivot: {x: 15.142858, y: 1.4788733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235b6ed469800684d97ec65003ce2ae0
+      internalID: 746030989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (117)
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 2057
+        width: 98
+        height: 275
+      alignment: 9
+      pivot: {x: 15.142858, y: 1.4945455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1b4e97930e6cf4ab42f7de5ffd9275
+      internalID: -230261857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (118)
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2052
+        width: 95
+        height: 280
+      alignment: 9
+      pivot: {x: 15.589474, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced258f659c4164ab4a85b62d8ec759
+      internalID: 1080287242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (119)
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 2051
+        width: 99
+        height: 281
+      alignment: 9
+      pivot: {x: 15, y: 1.4946619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab366789c788dc5479c2b28ecc91d2e6
+      internalID: 721415905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (12)
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 3840
+        width: 90
+        height: 246
+      alignment: 9
+      pivot: {x: 16.01111, y: -1.0487804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4254219b50af6bf4e87ba085b8a310c8
+      internalID: 699974268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (120)
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2048
+        width: 95
+        height: 284
+      alignment: 9
+      pivot: {x: 15.589474, y: 1.4788733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8e056632d614e41b2d28b15de22b91
+      internalID: -1483174834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (121)
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 2054
+        width: 98
+        height: 278
+      alignment: 9
+      pivot: {x: 15.142858, y: 1.5107914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fc3273d677fa54395fbd40f7dd1034
+      internalID: -558571218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (122)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1753
+        width: 142
+        height: 273
+      alignment: 9
+      pivot: {x: 10.450705, y: 1.4981685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f9d481a202780418052c485dfd1483
+      internalID: 1899342773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (123)
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1745
+        width: 98
+        height: 281
+      alignment: 9
+      pivot: {x: 15.142858, y: 1.4946619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dc67500f33a3645b985d7569096200
+      internalID: -939077727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (124)
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1749
+        width: 98
+        height: 277
+      alignment: 9
+      pivot: {x: 15.142858, y: 1.4909748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4098c28e1422a47a42c489c1d86d06
+      internalID: -781167390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (125)
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1752
+        width: 95
+        height: 274
+      alignment: 9
+      pivot: {x: 15.631579, y: 1.580292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a5bd5954fbe742bce638bc09e0eec
+      internalID: 1501695174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (126)
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1759
+        width: 96
+        height: 267
+      alignment: 9
+      pivot: {x: 15.489583, y: 1.730337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ccc1b1a031914da2ab1be5f56d991
+      internalID: -1275922540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (127)
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1774
+        width: 94
+        height: 252
+      alignment: 9
+      pivot: {x: 15.829787, y: 1.9166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcc75eb06f25294fb1a0c3e074f6d5d
+      internalID: 275602185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (128)
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1779
+        width: 94
+        height: 247
+      alignment: 9
+      pivot: {x: 15.829787, y: 1.9554656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a004d488f3721f14d8060f00cf1abfeb
+      internalID: -450908296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (129)
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1755
+        width: 94
+        height: 271
+      alignment: 9
+      pivot: {x: 15.829787, y: 1.8560885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f427ec2b6702773489002cc22f566d96
+      internalID: -1918762969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (13)
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 3840
+        width: 89
+        height: 246
+      alignment: 9
+      pivot: {x: 16.191011, y: -1.0487804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6d1804fa59e1b4684192ae02305510
+      internalID: 632457802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (130)
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1768
+        width: 94
+        height: 258
+      alignment: 9
+      pivot: {x: 15.829787, y: 1.8953488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d807d9397f25f03488abff5320d06c48
+      internalID: -904822028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (131)
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1776
+        width: 95
+        height: 250
+      alignment: 9
+      pivot: {x: 15.663157, y: 1.924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31005908012cc0848a61da77ab6015ae
+      internalID: 1389377485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (132)
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1768
+        width: 94
+        height: 258
+      alignment: 9
+      pivot: {x: 15.829787, y: 1.8953488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed05d0dd2ba7dfe4196bb68d93cbab75
+      internalID: 1401461192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (133)
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1768
+        width: 94
+        height: 258
+      alignment: 9
+      pivot: {x: 15.829787, y: 1.8953488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473d486ef0cf9214e8076490f56fbd5a
+      internalID: 1523579058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (134)
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1768
+        width: 118
+        height: 258
+      alignment: 9
+      pivot: {x: 12.610169, y: 1.8953488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1045cc8764d3849998129e5a534fe6
+      internalID: -1821871097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (135)
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1774
+        width: 97
+        height: 252
+      alignment: 9
+      pivot: {x: 15.371134, y: 1.9166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afe77e12dc2f5c4983fa7b9156297d4
+      internalID: 1058799203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (136)
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1774
+        width: 146
+        height: 252
+      alignment: 9
+      pivot: {x: 10.191781, y: 1.9166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f376cfcd9ab1d2f44b639a9d60a037be
+      internalID: -270295128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (137)
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1774
+        width: 163
+        height: 252
+      alignment: 9
+      pivot: {x: 9.14724, y: 1.9166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b99972c99c33614c9b0438cb4d5d324
+      internalID: 2005755120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (138)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1468
+        width: 94
+        height: 257
+      alignment: 9
+      pivot: {x: 15.829787, y: 1.9027238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a71fd842aa1c343b9dcd87e4000c1f
+      internalID: 1564692756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (139)
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1473
+        width: 94
+        height: 252
+      alignment: 9
+      pivot: {x: 15.829787, y: 1.9166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610adfde288add54ba392c9db8419fd0
+      internalID: -627197296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (14)
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 3829
+        width: 89
+        height: 257
+      alignment: 9
+      pivot: {x: 16.191011, y: -0.9610895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ee2221771c18b458edabd43445eead
+      internalID: 1882035538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (140)
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1466
+        width: 113
+        height: 259
+      alignment: 9
+      pivot: {x: 13.176991, y: 1.988417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5a086e9cdcf2d4bb92b3efb2a1afe8
+      internalID: 80810181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (141)
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1468
+        width: 94
+        height: 257
+      alignment: 9
+      pivot: {x: 15.861702, y: 2.1439688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b1424749500f4dab629753176ebf3
+      internalID: -2065032052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (142)
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1474
+        width: 95
+        height: 251
+      alignment: 9
+      pivot: {x: 15.7263155, y: 2.318725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e338b620d8a0636449ef121f059052b1
+      internalID: -1317931857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (143)
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1461
+        width: 93
+        height: 264
+      alignment: 9
+      pivot: {x: 16.053764, y: 2.253788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e210c96466ecd49a01841e120fca24
+      internalID: 704253218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (144)
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1462
+        width: 94
+        height: 263
+      alignment: 9
+      pivot: {x: 15.893617, y: 2.231939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a088cd4e0afc68b4ca0d57b1cf91e1ad
+      internalID: 381245410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (145)
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1453
+        width: 93
+        height: 272
+      alignment: 9
+      pivot: {x: 16.04301, y: 2.1911764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54554912c49e3f747892bbbe992f7564
+      internalID: 1035971727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (146)
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1453
+        width: 95
+        height: 272
+      alignment: 9
+      pivot: {x: 15.736842, y: 2.1911764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126ab67b6c5a025409cfd8cf492429b4
+      internalID: 829453799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (147)
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1460
+        width: 94
+        height: 265
+      alignment: 9
+      pivot: {x: 15.87234, y: 2.2226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cf165e43a2b1c4f96baae03e32290b
+      internalID: 617862482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (148)
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1467
+        width: 94
+        height: 258
+      alignment: 9
+      pivot: {x: 15.882978, y: 2.2558138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37d46a4f5add284dbff9815434a944e
+      internalID: 1979444473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (149)
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1460
+        width: 97
+        height: 265
+      alignment: 9
+      pivot: {x: 15.412371, y: 2.2226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae9f36e2128f6f409e7000ab867405a
+      internalID: -941288545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (15)
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 3840
+        width: 90
+        height: 246
+      alignment: 9
+      pivot: {x: 16.01111, y: -1.0487804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230c0952a3e04cd449fe36ff270cba08
+      internalID: 1327158118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (150)
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1460
+        width: 96
+        height: 265
+      alignment: 9
+      pivot: {x: 15.5625, y: 2.2226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a5487a1892699498fa1f5b03c6d5ec
+      internalID: -1889810823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (151)
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1454
+        width: 93
+        height: 271
+      alignment: 9
+      pivot: {x: 16.04301, y: 2.195572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d651cb74d32af9845911f8b91f45ae9e
+      internalID: 78005260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (152)
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1454
+        width: 101
+        height: 271
+      alignment: 9
+      pivot: {x: 14.782178, y: 2.195572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf0757e55aed5342abac8cd400123d6
+      internalID: 1655933843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (153)
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1462
+        width: 95
+        height: 263
+      alignment: 9
+      pivot: {x: 15.7263155, y: 2.2395437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaeda97b18e7b546ab36887bc0f79c1
+      internalID: 1692953348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (154)
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1469
+        width: 94
+        height: 256
+      alignment: 9
+      pivot: {x: 15.882978, y: 2.2734375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f128292aa42792a4cbd05cb61ba26940
+      internalID: -125572268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (155)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1168
+        width: 98
+        height: 265
+      alignment: 9
+      pivot: {x: 15.265306, y: 2.2226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a1e62d520d61c43a2cfd151bd8e3fc
+      internalID: 1787723373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (156)
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1171
+        width: 94
+        height: 262
+      alignment: 9
+      pivot: {x: 15.893617, y: 2.3206108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68c585672237704f84c47783ab782e1
+      internalID: -2081216218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (157)
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1172
+        width: 96
+        height: 261
+      alignment: 9
+      pivot: {x: 15.614583, y: 2.4789271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb14773e3c2bf64280ef671787e8542
+      internalID: 392509473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (158)
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1170
+        width: 96
+        height: 263
+      alignment: 9
+      pivot: {x: 15.614583, y: 2.5893536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98c54ac7a4d33040bf2ac1a4e2ee49d
+      internalID: -420357408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (159)
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1169
+        width: 96
+        height: 264
+      alignment: 9
+      pivot: {x: 15.614583, y: 2.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4e2473f0ecb3346af9dca685a86672
+      internalID: -1026896925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (16)
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 3826
+        width: 91
+        height: 260
+      alignment: 9
+      pivot: {x: 15.846154, y: -0.93846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8bdad10643c374494e90e6490face7
+      internalID: 1871024089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (160)
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1169
+        width: 95
+        height: 264
+      alignment: 9
+      pivot: {x: 15.768421, y: 2.5795455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3a0bfce0544a64b995ed39adccb41c
+      internalID: -1432353419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (161)
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1170
+        width: 97
+        height: 263
+      alignment: 9
+      pivot: {x: 15.463918, y: 2.5893536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fae341bf9b28714ab41a9b2a275f878
+      internalID: 685940748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (162)
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1171
+        width: 95
+        height: 262
+      alignment: 9
+      pivot: {x: 15.768421, y: 2.591603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d118b1ee5527c4445aec20dbf2d2025e
+      internalID: -1145537302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (163)
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1170
+        width: 115
+        height: 263
+      alignment: 9
+      pivot: {x: 13.034782, y: 2.5893536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7dc9f047e82744d867aec6a6ea5d9e
+      internalID: -1458578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (164)
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1169
+        width: 96
+        height: 264
+      alignment: 9
+      pivot: {x: 15.614583, y: 2.5795455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9aa6d66fcae7b469201ad5fefc4b2d
+      internalID: -1868782376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (165)
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1169
+        width: 115
+        height: 264
+      alignment: 9
+      pivot: {x: 13.034782, y: 2.5795455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d61fd9b9d77bb34e93e6334625c4405
+      internalID: -1072511843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (166)
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1169
+        width: 96
+        height: 264
+      alignment: 9
+      pivot: {x: 15.614583, y: 2.5795455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa04c8f01a3fd1419f6987297031a63
+      internalID: -665694828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (167)
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1169
+        width: 96
+        height: 264
+      alignment: 9
+      pivot: {x: 15.614583, y: 2.5795455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a02080966a505c4182a571c00190306
+      internalID: 742884504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (168)
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1159
+        width: 96
+        height: 274
+      alignment: 9
+      pivot: {x: 15.614583, y: 2.5218978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88768e52105e46b4ba33872dbd9611f0
+      internalID: 1867008573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (169)
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1169
+        width: 97
+        height: 264
+      alignment: 9
+      pivot: {x: 15.463918, y: 2.5795455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ed7af10ffd8e440ba44b45a535fccc
+      internalID: -714992155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (17)
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3840
+        width: 89
+        height: 246
+      alignment: 9
+      pivot: {x: 16.191011, y: -1.0487804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40de28bbf8729f8449539e639a7bfbc9
+      internalID: 664872518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (170)
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1169
+        width: 96
+        height: 264
+      alignment: 9
+      pivot: {x: 15.614583, y: 2.5795455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fe02225b851924085363b0b14bcc06
+      internalID: -1580303269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (171)
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1163
+        width: 130
+        height: 270
+      alignment: 9
+      pivot: {x: 11.553846, y: 2.6185186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a0672b9bc226d4c90a3f3a93e4b6d5
+      internalID: -1555366300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (172)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 879
+        width: 96
+        height: 260
+      alignment: 9
+      pivot: {x: 15.677083, y: 2.7192307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f52dd092772ff44b3d3c95a0a5010e
+      internalID: -1456438886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (173)
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 875
+        width: 95
+        height: 264
+      alignment: 9
+      pivot: {x: 15.842105, y: 2.8068182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5bc783e21db3c42b4132a2baab9707
+      internalID: -620197222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (174)
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 882
+        width: 95
+        height: 257
+      alignment: 9
+      pivot: {x: 15.831579, y: 2.8832686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035ade3e9c03dd04db254c53fd81349d
+      internalID: 2045965223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (175)
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 874
+        width: 131
+        height: 265
+      alignment: 9
+      pivot: {x: 11.473283, y: 2.8113208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50593dffe9ec0ff43914bed136d0cd5b
+      internalID: 370971811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (176)
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 871
+        width: 93
+        height: 268
+      alignment: 9
+      pivot: {x: 16.161291, y: 2.7798507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf84265d4d7533e409c1c8ac12c642b7
+      internalID: 1813596498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (177)
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 865
+        width: 95
+        height: 274
+      alignment: 9
+      pivot: {x: 15.842105, y: 2.740876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c133fb5f7f1c3bb489a9a5d79adbf85e
+      internalID: 375218226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (178)
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 868
+        width: 93
+        height: 271
+      alignment: 9
+      pivot: {x: 16.161291, y: 2.7712178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84985b9fbb1e051408ce9f807af06800
+      internalID: 712640172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (179)
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 865
+        width: 95
+        height: 274
+      alignment: 9
+      pivot: {x: 15.842105, y: 2.740876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b424ca3d22e649a4d8643717e5ad68b9
+      internalID: 777606634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (18)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3553
+        width: 89
+        height: 246
+      alignment: 9
+      pivot: {x: 16.191011, y: -1.0487804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669296c0e8902e7408721941b76bc515
+      internalID: -201435301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (180)
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 861
+        width: 94
+        height: 278
+      alignment: 9
+      pivot: {x: 16, y: 2.7158272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e4ed7df01b8f4abcb45192fd01d5d
+      internalID: -841621471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (181)
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 869
+        width: 144
+        height: 270
+      alignment: 9
+      pivot: {x: 10.458333, y: 2.9148147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb35205fdb5c184c93acccbe0492796
+      internalID: -547679912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (182)
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 867
+        width: 92
+        height: 272
+      alignment: 9
+      pivot: {x: 16.391304, y: 3.0551472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b1ef8b5bb286544868a5506afeded0
+      internalID: -4165509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (183)
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 865
+        width: 94
+        height: 274
+      alignment: 9
+      pivot: {x: 16.074469, y: 3.1131387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123504c6bfcdf9e41ba9999af623629d
+      internalID: 147296588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (184)
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 869
+        width: 93
+        height: 270
+      alignment: 9
+      pivot: {x: 16.236559, y: 3.1444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdff0099f5653a94c8325ad80206d88b
+      internalID: -1825085444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (185)
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 861
+        width: 96
+        height: 278
+      alignment: 9
+      pivot: {x: 15.729167, y: 3.0755396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b20ebd25797ec41bfb5f36b788f7e2
+      internalID: -1500243223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (186)
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 870
+        width: 121
+        height: 269
+      alignment: 9
+      pivot: {x: 12.471074, y: 3.156134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b727d6f1dd31134d91605ad47eb7059
+      internalID: 1442361710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (187)
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 869
+        width: 93
+        height: 270
+      alignment: 9
+      pivot: {x: 16.236559, y: 3.1444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f50147519552418b52d559cb9b94d
+      internalID: 519197583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (188)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 572
+        width: 93
+        height: 269
+      alignment: 9
+      pivot: {x: 16.236559, y: 3.156134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d62c389a7f67b4eb733422b0ff8495
+      internalID: 1503666780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (189)
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 572
+        width: 93
+        height: 269
+      alignment: 9
+      pivot: {x: 16.236559, y: 3.156134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8afa470dfc195147b8a833e7da788d1
+      internalID: -201987058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (19)
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3553
+        width: 89
+        height: 246
+      alignment: 9
+      pivot: {x: 16.191011, y: -1.0487804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d082c9a789c48e64f9b2092dfaf2f1dc
+      internalID: -390759211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (190)
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 572
+        width: 94
+        height: 269
+      alignment: 9
+      pivot: {x: 16.074469, y: 3.156134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af21850acd1016a4dbd54a55e991c982
+      internalID: 232462385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (191)
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 572
+        width: 94
+        height: 269
+      alignment: 9
+      pivot: {x: 16.074469, y: 3.156134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69adf0fce217624c8fc48f78642f1e9
+      internalID: 1966913569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (192)
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 571
+        width: 93
+        height: 270
+      alignment: 9
+      pivot: {x: 16.236559, y: 3.1444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4df567008c5e484280e423ff410eeea
+      internalID: 98365955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (193)
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 572
+        width: 93
+        height: 269
+      alignment: 9
+      pivot: {x: 16.236559, y: 3.156134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec124154e5f3c45b494baa38d49d01
+      internalID: -911750795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (194)
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 572
+        width: 149
+        height: 269
+      alignment: 9
+      pivot: {x: 10.134228, y: 3.156134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b0b8d48f182d499ccc4dfd7ae57d5
+      internalID: 1570593748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (195)
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 559
+        width: 95
+        height: 282
+      alignment: 9
+      pivot: {x: 15.905263, y: 3.0531914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e400ebe667d954fb4d954f59894bd9
+      internalID: 1537806154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (196)
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 542
+        width: 93
+        height: 299
+      alignment: 9
+      pivot: {x: 16.258064, y: 3.020067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424e001ed17397f43b3fbaf0372a910e
+      internalID: 863673149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (197)
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 560
+        width: 100
+        height: 281
+      alignment: 9
+      pivot: {x: 15.2, y: 3.3238435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85f2511ea42f754fabca531c336d936
+      internalID: 966468178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (198)
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 577
+        width: 100
+        height: 264
+      alignment: 9
+      pivot: {x: 15.19, y: 3.5378788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941b3eb50a89e8841a707264b0b58e24
+      internalID: 872993275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (199)
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 577
+        width: 102
+        height: 264
+      alignment: 9
+      pivot: {x: 14.911765, y: 3.5378788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb051cd2b560d0e4ca6102f6434540c6
+      internalID: 1709189792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (2)
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3838
+        width: 94
+        height: 248
+      alignment: 9
+      pivot: {x: 15.308511, y: -1.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9367112495700f54ea864dafbff4afc2
+      internalID: 379464385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (20)
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3553
+        width: 90
+        height: 246
+      alignment: 9
+      pivot: {x: 16.01111, y: -1.0487804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def5b94a2d2e8234dbdf6b5ea7cbd467
+      internalID: 431175488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (200)
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 577
+        width: 101
+        height: 264
+      alignment: 9
+      pivot: {x: 15.059406, y: 3.5378788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9a644fdf0847c4d99c9d6906f55d13
+      internalID: -1417151120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (201)
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 577
+        width: 102
+        height: 264
+      alignment: 9
+      pivot: {x: 14.911765, y: 3.5378788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ae322d109ca34b9eb4123c3b95f42
+      internalID: 380313972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (202)
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 577
+        width: 102
+        height: 264
+      alignment: 9
+      pivot: {x: 14.911765, y: 3.5378788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99849302feb111741b42418fa53a6103
+      internalID: -1598996179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (203)
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 577
+        width: 102
+        height: 264
+      alignment: 9
+      pivot: {x: 14.911765, y: 3.5378788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645f26bf3f72b4743963db94c05e968c
+      internalID: -1530325298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (204)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 258
+        width: 106
+        height: 264
+      alignment: 9
+      pivot: {x: 14.386792, y: 3.5378788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afe7fbae69d9174fbbe29b11bb84caa
+      internalID: 1654667650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (205)
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 258
+        width: 102
+        height: 264
+      alignment: 9
+      pivot: {x: 14.911765, y: 3.5378788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8d7091367b97e44bbf5bba32032de6
+      internalID: 1818591322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (21)
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3553
+        width: 89
+        height: 246
+      alignment: 9
+      pivot: {x: 16.191011, y: -1.0243902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a95494aaf3544085893eb1ab9a61c
+      internalID: -1606641539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (22)
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3529
+        width: 93
+        height: 270
+      alignment: 9
+      pivot: {x: 15.55914, y: -0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eee743297633742983311d646b6dbf
+      internalID: 497015712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (23)
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3532
+        width: 92
+        height: 267
+      alignment: 9
+      pivot: {x: 15.728261, y: -0.60299623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3661cd62697e0dc4db38d8affc3f6589
+      internalID: 1780253615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (24)
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3533
+        width: 90
+        height: 266
+      alignment: 9
+      pivot: {x: 16.077778, y: -0.5338346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771ae6b90eee19b43915c5b90995e3d0
+      internalID: -1875101476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (25)
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 3533
+        width: 90
+        height: 266
+      alignment: 9
+      pivot: {x: 16.077778, y: -0.556391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088cc213cb0a2094996dcddaef365473
+      internalID: 2072333295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (26)
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 3530
+        width: 91
+        height: 269
+      alignment: 9
+      pivot: {x: 15.901099, y: -0.55018586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f242499fefa72d64e83741939c52ce00
+      internalID: -687052734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (27)
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 3524
+        width: 111
+        height: 275
+      alignment: 9
+      pivot: {x: 13.0360365, y: -0.5163636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e178058f606834ea52d24628c16210
+      internalID: -961765736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (28)
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 3533
+        width: 91
+        height: 266
+      alignment: 9
+      pivot: {x: 15.901099, y: -0.556391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ba0c87d974aa140a57739cd9582f13
+      internalID: -1783075233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (29)
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 3532
+        width: 141
+        height: 267
+      alignment: 9
+      pivot: {x: 10.262411, y: -0.5543071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f9cedeefba9d74a814070516fe74f9
+      internalID: -1242511362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (3)
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3838
+        width: 91
+        height: 248
+      alignment: 9
+      pivot: {x: 15.78022, y: -1.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b43e447958b8574aae044fdf135f4f5
+      internalID: -393970637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (30)
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 3532
+        width: 90
+        height: 267
+      alignment: 9
+      pivot: {x: 16.077778, y: -0.5543071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e338c2c714952d740871e4d4c79a5414
+      internalID: 989268995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (31)
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 3533
+        width: 91
+        height: 266
+      alignment: 9
+      pivot: {x: 15.901099, y: -0.556391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24748a711374204081e76fbc4267843
+      internalID: 249977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (32)
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 3532
+        width: 119
+        height: 267
+      alignment: 9
+      pivot: {x: 12.159664, y: -0.5543071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91301f22b3923454caf8e435249527da
+      internalID: -1542748800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (33)
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3532
+        width: 90
+        height: 267
+      alignment: 9
+      pivot: {x: 16.077778, y: -0.5543071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417dc5237f918f54c8f02d4c71b282ef
+      internalID: -1533196792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (34)
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3532
+        width: 90
+        height: 267
+      alignment: 9
+      pivot: {x: 16.077778, y: -0.5543071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd57c0bb24f865744a7409e56803530c
+      internalID: 132342489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (35)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3237
+        width: 119
+        height: 267
+      alignment: 9
+      pivot: {x: 12.159664, y: -0.5543071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f611a70553fce46bf7adc59cef0811
+      internalID: -519182066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (36)
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3251
+        width: 90
+        height: 253
+      alignment: 9
+      pivot: {x: 16.077778, y: -0.58498025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e726e66ade4df46a10476fcac2bdf2
+      internalID: 192020707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (37)
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3254
+        width: 92
+        height: 250
+      alignment: 9
+      pivot: {x: 15.76087, y: -0.476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3384231c0dfaa7441b90fd2dac64d9c3
+      internalID: 683566312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (38)
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3244
+        width: 93
+        height: 260
+      alignment: 9
+      pivot: {x: 15.612904, y: -0.28076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ffc9c97e862b3449674b891d0d8e0a
+      internalID: -1156456792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (39)
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 3251
+        width: 91
+        height: 253
+      alignment: 9
+      pivot: {x: 15.978022, y: -0.23320158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82100f69d72380b4c8dec84290cd503b
+      internalID: 1799360336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (4)
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3828
+        width: 91
+        height: 258
+      alignment: 9
+      pivot: {x: 15.78022, y: -1.2829458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b3469dcc27bc64c8118cd3779210a4
+      internalID: -1827495253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (40)
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 3246
+        width: 92
+        height: 258
+      alignment: 9
+      pivot: {x: 15.804348, y: -0.24031007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddef43c38dad85499fa9673c3b97b34
+      internalID: 551578017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (41)
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3248
+        width: 95
+        height: 256
+      alignment: 9
+      pivot: {x: 15.336843, y: -0.26171875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22800e76b2be144e898c44c29b95d1f
+      internalID: 24306574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (42)
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3244
+        width: 92
+        height: 260
+      alignment: 9
+      pivot: {x: 15.804348, y: -0.22692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef7b9ba7e0f4d748ba05b8b11aac947
+      internalID: 1095034804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (43)
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 3244
+        width: 92
+        height: 260
+      alignment: 9
+      pivot: {x: 15.804348, y: -0.21923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aca399595d19ec4c92c58a63e322941
+      internalID: -482064617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (44)
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 3249
+        width: 92
+        height: 255
+      alignment: 9
+      pivot: {x: 15.804348, y: -0.24313726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eff157e2996f54abbb74ebe06f3c7b
+      internalID: 1599395749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (45)
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 3254
+        width: 90
+        height: 250
+      alignment: 9
+      pivot: {x: 16.133333, y: -0.268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f23dd1d32813a49a9f32ddc5cc8aff
+      internalID: 469001057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (46)
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3249
+        width: 92
+        height: 255
+      alignment: 9
+      pivot: {x: 15.804348, y: -0.24313726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1563e4c846ba6489f14a5d26040f5b
+      internalID: -2139593819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (47)
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3249
+        width: 92
+        height: 255
+      alignment: 9
+      pivot: {x: 15.804348, y: -0.24313726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e2352e5cab8b42bc0ad1806d6f96d
+      internalID: 1752404607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (48)
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 3249
+        width: 92
+        height: 255
+      alignment: 9
+      pivot: {x: 15.804348, y: -0.24313726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de354ab710d2140a0067dc1498f038
+      internalID: 293999701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (49)
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 3249
+        width: 94
+        height: 255
+      alignment: 9
+      pivot: {x: 15.489362, y: -0.24313726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99b16234ad706d48a261c2ff6ffcdfc
+      internalID: 1507586664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (5)
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3846
+        width: 130
+        height: 240
+      alignment: 9
+      pivot: {x: 11.046154, y: -1.4416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c86145e932962b46a957f90d5ab5c60
+      internalID: -1184539971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (50)
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 3249
+        width: 92
+        height: 255
+      alignment: 9
+      pivot: {x: 15.804348, y: -0.24313726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb47e97873d0f974cbdc29d346b5c72b
+      internalID: -111358199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (51)
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 3254
+        width: 92
+        height: 250
+      alignment: 9
+      pivot: {x: 15.804348, y: -0.248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b308f793f9ec3ff44a08b4c9d47cebbc
+      internalID: 59665593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (52)
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 3258
+        width: 91
+        height: 246
+      alignment: 9
+      pivot: {x: 15.989011, y: -0.13414635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3b290900c81df4182f4d36e332e12e
+      internalID: 780418204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (53)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2964
+        width: 90
+        height: 253
+      alignment: 9
+      pivot: {x: 16.188889, y: 0.04347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f024be29ef8014f8605a4228a291eb
+      internalID: 1051980209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (54)
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2970
+        width: 92
+        height: 247
+      alignment: 9
+      pivot: {x: 15.847826, y: 0.10121457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d126a407d1655844af94e65768ffc87
+      internalID: 2075973500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (55)
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2964
+        width: 92
+        height: 253
+      alignment: 9
+      pivot: {x: 15.858696, y: 0.08300395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a6e1c36ab00e4198a77c3a77db50f
+      internalID: 295107767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (56)
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2962
+        width: 97
+        height: 255
+      alignment: 9
+      pivot: {x: 15.082474, y: 0.09803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81089118955b7c44b87fbc63699db25f
+      internalID: 757307448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (57)
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2960
+        width: 90
+        height: 257
+      alignment: 9
+      pivot: {x: 16.188889, y: 0.09727626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bdd5e04fdac704d8c2b4bd10863b78
+      internalID: 1772977540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (58)
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2966
+        width: 89
+        height: 251
+      alignment: 9
+      pivot: {x: 16.370787, y: 0.08366534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6128547d123b84344b51054ef724db93
+      internalID: -1170029148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (59)
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2962
+        width: 89
+        height: 255
+      alignment: 9
+      pivot: {x: 16.370787, y: 0.09803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a186cb16816b8640bb2393dde17b595
+      internalID: 4418868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (6)
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3819
+        width: 90
+        height: 267
+      alignment: 9
+      pivot: {x: 15.966666, y: -1.1011236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3cdeeffb751514094d19a4592216a3
+      internalID: -773872871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (60)
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2954
+        width: 89
+        height: 263
+      alignment: 9
+      pivot: {x: 16.370787, y: 0.12547529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3166df54fefa5984c911292c196d4ab5
+      internalID: 1334057797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (61)
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2962
+        width: 89
+        height: 255
+      alignment: 9
+      pivot: {x: 16.370787, y: 0.09803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae7a8c60c89b17488c81e3852df48d3
+      internalID: -2055876393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (62)
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2962
+        width: 89
+        height: 255
+      alignment: 9
+      pivot: {x: 16.370787, y: 0.09803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d9020dc888adb47bbdfcc028386e50
+      internalID: -2095221948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (63)
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2962
+        width: 90
+        height: 255
+      alignment: 9
+      pivot: {x: 16.188889, y: 0.09803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aec6e77b6d42fe44aa71e1e320f77b9
+      internalID: 870855554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (64)
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 2970
+        width: 91
+        height: 247
+      alignment: 9
+      pivot: {x: 16.021978, y: 0.06882591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a288c78515f40468cb9aa65b0681d1
+      internalID: -612541144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (65)
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 2962
+        width: 107
+        height: 255
+      alignment: 9
+      pivot: {x: 13.616822, y: 0.09803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957c533b1de80f041a2b1abeb305d34e
+      internalID: 186273178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (66)
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2954
+        width: 91
+        height: 263
+      alignment: 9
+      pivot: {x: 16.021978, y: 0.12547529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18663845376a5664e9cfce1b1cf78a38
+      internalID: 441588825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (67)
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2961
+        width: 91
+        height: 256
+      alignment: 9
+      pivot: {x: 16.021978, y: 0.1328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca123a79f43fb44c8ccba4553468575
+      internalID: 1769574612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (68)
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2979
+        width: 89
+        height: 238
+      alignment: 9
+      pivot: {x: 16.39326, y: 0.197479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de7195646d543f4c936d5eb77f2fa68
+      internalID: -324231275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (69)
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 2957
+        width: 93
+        height: 260
+      alignment: 9
+      pivot: {x: 15.731183, y: 0.41538462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229d26b98091ac6429214638571669e7
+      internalID: 1034074317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (7)
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3829
+        width: 90
+        height: 257
+      alignment: 9
+      pivot: {x: 16, y: -1.0233463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6154b77a8efd394bbe0d1c138c6c9b5
+      internalID: 1997494996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (70)
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2953
+        width: 93
+        height: 264
+      alignment: 9
+      pivot: {x: 15.741936, y: 0.50757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979514bfc2c27a944ab1f16e00c6d9b6
+      internalID: 1792311069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (71)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2659
+        width: 93
+        height: 274
+      alignment: 9
+      pivot: {x: 15.741936, y: 0.4890511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab87a481370df240bedd56a9c9a8fd2
+      internalID: -707835328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (72)
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2659
+        width: 93
+        height: 274
+      alignment: 9
+      pivot: {x: 15.741936, y: 0.4890511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63249cc355ba6d34cb5d874a9499189a
+      internalID: -843189378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (73)
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2659
+        width: 91
+        height: 274
+      alignment: 9
+      pivot: {x: 16.087912, y: 0.4890511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dbdec8698d0224ca7467c26000d61e
+      internalID: 1792841383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (74)
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2658
+        width: 91
+        height: 275
+      alignment: 9
+      pivot: {x: 16.087912, y: 0.4909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b93663901ae5e4781c0a857e21552d
+      internalID: -635772558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (75)
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2658
+        width: 91
+        height: 275
+      alignment: 9
+      pivot: {x: 16.087912, y: 0.4909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acea1f63e2b96045861155a3b10f7d1
+      internalID: 892215598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (76)
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 2658
+        width: 91
+        height: 275
+      alignment: 9
+      pivot: {x: 16.087912, y: 0.4909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdbd183432ce854fb3fe6c1f32f7622
+      internalID: 785688562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (77)
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2658
+        width: 114
+        height: 275
+      alignment: 9
+      pivot: {x: 12.842105, y: 0.4909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbf6d9debd2707439ddefcf7e9dad37
+      internalID: 183560314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (78)
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2659
+        width: 91
+        height: 274
+      alignment: 9
+      pivot: {x: 16.087912, y: 0.4890511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e978536123ed7a4bb1abee700d37200
+      internalID: 1073871490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (79)
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2658
+        width: 91
+        height: 275
+      alignment: 9
+      pivot: {x: 16.087912, y: 0.4909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a5bc86426dfc442a51006d51cb1720
+      internalID: -1498970670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (8)
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 3846
+        width: 89
+        height: 240
+      alignment: 9
+      pivot: {x: 16.191011, y: -1.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53ca4ddecbee8047b25598d973fe427
+      internalID: 1282161627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (80)
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 2658
+        width: 91
+        height: 275
+      alignment: 9
+      pivot: {x: 16.087912, y: 0.4909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e986a191f4bbd4c95fb4723b2740ee
+      internalID: 1030607578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (81)
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 2658
+        width: 91
+        height: 275
+      alignment: 9
+      pivot: {x: 16.087912, y: 0.4909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882fb75245ce92a40945b5711ee3ba95
+      internalID: -1266665331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (82)
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2662
+        width: 144
+        height: 271
+      alignment: 9
+      pivot: {x: 10.166667, y: 0.49815497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afed0d836cdb584890ca51e6cb49b00
+      internalID: 921966321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (83)
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2661
+        width: 91
+        height: 272
+      alignment: 9
+      pivot: {x: 16.098902, y: 0.6213235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df024c2a1dcc843aa77ad9b436aefe
+      internalID: -736365689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (84)
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2665
+        width: 91
+        height: 268
+      alignment: 9
+      pivot: {x: 16.120878, y: 0.74626863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4dd9b4e1ad3084d98e396fac37e261
+      internalID: -1144426574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (85)
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 2654
+        width: 96
+        height: 279
+      alignment: 9
+      pivot: {x: 15.34375, y: 0.83154124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed475da22d4294d98eb6f2e8b0c2a3
+      internalID: 255807193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (86)
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2658
+        width: 91
+        height: 275
+      alignment: 9
+      pivot: {x: 16.142857, y: 0.8109091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c21c37212ecfd74487078b9add8b407
+      internalID: 534824356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (87)
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 2656
+        width: 95
+        height: 277
+      alignment: 9
+      pivot: {x: 15.505263, y: 0.8122744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed34d3a726647c4a8555237c0e4c832
+      internalID: -785047037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (88)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2357
+        width: 95
+        height: 277
+      alignment: 9
+      pivot: {x: 15.505263, y: 0.8122744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74640d68c88d44747a76ab0ed1b9a049
+      internalID: -1636186879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (89)
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2357
+        width: 93
+        height: 277
+      alignment: 9
+      pivot: {x: 15.817204, y: 0.8122744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f236adaa4dea429bb1faf1be002a4
+      internalID: 1170711345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (9)
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 3840
+        width: 109
+        height: 246
+      alignment: 9
+      pivot: {x: 13.220183, y: -1.0487804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c108afa5eff7b42b3e9cc8a8320ee8
+      internalID: 1367164399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (90)
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2357
+        width: 95
+        height: 277
+      alignment: 9
+      pivot: {x: 15.505263, y: 0.8122744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c80b8c027ef2e4c9034012606c3828
+      internalID: -1128363069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (91)
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2378
+        width: 91
+        height: 256
+      alignment: 9
+      pivot: {x: 16.142857, y: 0.796875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f78d72f7208e4ea0bee19e6d47dd1
+      internalID: 1238486919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (92)
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2357
+        width: 95
+        height: 277
+      alignment: 9
+      pivot: {x: 15.505263, y: 0.8122744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419c09d15e5f2f5498fa14019f1ea60e
+      internalID: 1051027693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (93)
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2357
+        width: 95
+        height: 277
+      alignment: 9
+      pivot: {x: 15.505263, y: 0.8122744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1daa6e58131cc4bba9056a58bbb472
+      internalID: -1575404039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (94)
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2363
+        width: 94
+        height: 271
+      alignment: 9
+      pivot: {x: 15.6595745, y: 0.8892989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc8913c24866bf4c982981b7e192b32
+      internalID: -2104986671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (95)
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2368
+        width: 94
+        height: 266
+      alignment: 9
+      pivot: {x: 15.691489, y: 1.0338346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829f1c3d4dd240944912e5a71e21cf95
+      internalID: -961778247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (96)
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2364
+        width: 93
+        height: 270
+      alignment: 9
+      pivot: {x: 15.870968, y: 1.1592592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a7c95396793dd4a8d97183de825383
+      internalID: 364465620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (97)
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2359
+        width: 97
+        height: 275
+      alignment: 9
+      pivot: {x: 15.268042, y: 1.1745454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b842fcc8240a94c8938870d309d31f
+      internalID: 412488111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (98)
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2352
+        width: 98
+        height: 282
+      alignment: 9
+      pivot: {x: 15.112245, y: 1.14539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6ab3581391a8c41a1fc1bb4c52d93c
+      internalID: -595696347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-History_Mechanism (99)
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 2354
+        width: 98
+        height: 280
+      alignment: 9
+      pivot: {x: 15.112245, y: 1.1535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892f086bde4a8ed4093a4476b5258a87
+      internalID: -1816684138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 026e9eeac70c2fd49a1fb62eb56bd1af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 0fd2c37e8028df3498c9bebbf948937b, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-History_Mechanism (83): -736365689
+      Base-History_Mechanism (73): 1792841383
+      Base-History_Mechanism (148): 1979444473
+      Base-History_Mechanism (7): 1997494996
+      Base-History_Mechanism (157): 392509473
+      Base-History_Mechanism (111): -2080355474
+      Base-History_Mechanism (49): 1507586664
+      Base-History_Mechanism (106): -1263042701
+      Base-History_Mechanism (11): -924517776
+      Base-History_Mechanism (177): 375218226
+      Base-History_Mechanism (2): 379464385
+      Base-History_Mechanism (68): -324231275
+      Base-History_Mechanism (95): -961778247
+      Base-History_Mechanism (114): 1534412882
+      Base-History_Mechanism (10): 1239035836
+      Base-History_Mechanism (100): -1633895129
+      Base-History_Mechanism (184): -1825085444
+      Base-History_Mechanism (72): -843189378
+      Base-History_Mechanism (47): 1752404607
+      Base-History_Mechanism (77): 183560314
+      Base-History_Mechanism (97): 412488111
+      Base-History_Mechanism (87): -785047037
+      Base-History_Mechanism (98): -595696347
+      Base-History_Mechanism (129): -1918762969
+      Base-History_Mechanism (201): 380313972
+      Base-History_Mechanism (190): 232462385
+      Base-History_Mechanism (176): 1813596498
+      Base-History_Mechanism (103): -1763092499
+      Base-History_Mechanism (172): -1456438886
+      Base-History_Mechanism (84): -1144426574
+      Base-History_Mechanism (44): 1599395749
+      Base-History_Mechanism (67): 1769574612
+      Base-History_Mechanism (63): 870855554
+      Base-History_Mechanism (59): 4418868
+      Base-History_Mechanism (13): 632457802
+      Base-History_Mechanism (159): -1026896925
+      Base-History_Mechanism (130): -904822028
+      Base-History_Mechanism (61): -2055876393
+      Base-History_Mechanism (90): -1128363069
+      Base-History_Mechanism (22): 497015712
+      Base-History_Mechanism (39): 1799360336
+      Base-History_Mechanism (174): 2045965223
+      Base-History_Mechanism (180): -841621471
+      Base-History_Mechanism (146): 829453799
+      Base-History_Mechanism (93): -1575404039
+      Base-History_Mechanism (156): -2081216218
+      Base-History_Mechanism (147): 617862482
+      Base-History_Mechanism (155): 1787723373
+      Base-History_Mechanism (5): -1184539971
+      Base-History_Mechanism (8): 1282161627
+      Base-History_Mechanism (191): 1966913569
+      Base-History_Mechanism (91): 1238486919
+      Base-History_Mechanism (12): 699974268
+      Base-History_Mechanism (33): -1533196792
+      Base-History_Mechanism (203): -1530325298
+      Base-History_Mechanism (35): -519182066
+      Base-History_Mechanism (205): 1818591322
+      Base-History_Mechanism (69): 1034074317
+      Base-History_Mechanism (32): -1542748800
+      Base-History_Mechanism (112): -1746365606
+      Base-History_Mechanism (187): 519197583
+      Base-History_Mechanism (195): 1537806154
+      Base-History_Mechanism (94): -2104986671
+      Base-History_Mechanism (167): 742884504
+      Base-History_Mechanism (89): 1170711345
+      Base-History_Mechanism (192): 98365955
+      Base-History_Mechanism (54): 2075973500
+      Base-History_Mechanism (139): -627197296
+      Base-History_Mechanism (162): -1145537302
+      Base-History_Mechanism (1): -180049752
+      Base-History_Mechanism (92): 1051027693
+      Base-History_Mechanism (66): 441588825
+      Base-History_Mechanism (170): -1580303269
+      Base-History_Mechanism (70): 1792311069
+      Base-History_Mechanism (56): 757307448
+      Base-History_Mechanism (78): 1073871490
+      Base-History_Mechanism (145): 1035971727
+      Base-History_Mechanism (107): -2094202045
+      Base-History_Mechanism (102): 1592088914
+      Base-History_Mechanism (124): -781167390
+      Base-History_Mechanism (31): 249977
+      Base-History_Mechanism (9): 1367164399
+      Base-History_Mechanism (4): -1827495253
+      Base-History_Mechanism (169): -714992155
+      Base-History_Mechanism (117): -230261857
+      Base-History_Mechanism (144): 381245410
+      Base-History_Mechanism (40): 551578017
+      Base-History_Mechanism (142): -1317931857
+      Base-History_Mechanism (18): -201435301
+      Base-History_Mechanism (120): -1483174834
+      Base-History_Mechanism (88): -1636186879
+      Base-History_Mechanism (115): -364191824
+      Base-History_Mechanism (179): 777606634
+      Base-History_Mechanism (189): -201987058
+      Base-History_Mechanism (38): -1156456792
+      Base-History_Mechanism (166): -665694828
+      Base-History_Mechanism (81): -1266665331
+      Base-History_Mechanism (53): 1051980209
+      Base-History_Mechanism (137): 2005755120
+      Base-History_Mechanism (26): -687052734
+      Base-History_Mechanism (134): -1821871097
+      Base-History_Mechanism (52): 780418204
+      Base-History_Mechanism (165): -1072511843
+      Base-History_Mechanism (108): -945279295
+      Base-History_Mechanism (160): -1432353419
+      Base-History_Mechanism (23): 1780253615
+      Base-History_Mechanism (99): -1816684138
+      Base-History_Mechanism (183): 147296588
+      Base-History_Mechanism (136): -270295128
+      Base-History_Mechanism (60): 1334057797
+      Base-History_Mechanism (116): 746030989
+      Base-History_Mechanism (175): 370971811
+      Base-History_Mechanism (186): 1442361710
+      Base-History_Mechanism (48): 293999701
+      Base-History_Mechanism (128): -450908296
+      Base-History_Mechanism (131): 1389377485
+      Base-History_Mechanism (55): 295107767
+      Base-History_Mechanism (36): 192020707
+      Base-History_Mechanism (45): 469001057
+      Base-History_Mechanism (43): -482064617
+      Base-History_Mechanism (75): 892215598
+      Base-History_Mechanism (194): 1570593748
+      Base-History_Mechanism (123): -939077727
+      Base-History_Mechanism (20): 431175488
+      Base-History_Mechanism (113): 584793207
+      Base-History_Mechanism (71): -707835328
+      Base-History_Mechanism (178): 712640172
+      Base-History_Mechanism (138): 1564692756
+      Base-History_Mechanism (141): -2065032052
+      Base-History_Mechanism (199): 1709189792
+      Base-History_Mechanism (46): -2139593819
+      Base-History_Mechanism (110): -1218109063
+      Base-History_Mechanism (168): 1867008573
+      Base-History_Mechanism (202): -1598996179
+      Base-History_Mechanism (86): 534824356
+      Base-History_Mechanism (164): -1868782376
+      Base-History_Mechanism (121): -558571218
+      Base-History_Mechanism (125): 1501695174
+      Base-History_Mechanism (76): 785688562
+      Base-History_Mechanism (132): 1401461192
+      Base-History_Mechanism (51): 59665593
+      Base-History_Mechanism (109): -203132892
+      Base-History_Mechanism (126): -1275922540
+      Base-History_Mechanism (101): -1435108633
+      Base-History_Mechanism (30): 989268995
+      Base-History_Mechanism (143): 704253218
+      Base-History_Mechanism (82): 921966321
+      Base-History_Mechanism (50): -111358199
+      Base-History_Mechanism (15): 1327158118
+      Base-History_Mechanism (24): -1875101476
+      Base-History_Mechanism (58): -1170029148
+      Base-History_Mechanism (181): -547679912
+      Base-History_Mechanism (127): 275602185
+      Base-History_Mechanism (150): -1889810823
+      Base-History_Mechanism (16): 1871024089
+      Base-History_Mechanism (163): -1458578
+      Base-History_Mechanism (173): -620197222
+      Base-History_Mechanism (198): 872993275
+      Base-History_Mechanism (29): -1242511362
+      Base-History_Mechanism (65): 186273178
+      Base-History_Mechanism (133): 1523579058
+      Base-History_Mechanism (171): -1555366300
+      Base-History_Mechanism (34): 132342489
+      Base-History_Mechanism (122): 1899342773
+      Base-History_Mechanism (3): -393970637
+      Base-History_Mechanism (80): 1030607578
+      Base-History_Mechanism (21): -1606641539
+      Base-History_Mechanism (27): -961765736
+      Base-History_Mechanism (135): 1058799203
+      Base-History_Mechanism (140): 80810181
+      Base-History_Mechanism (185): -1500243223
+      Base-History_Mechanism (19): -390759211
+      Base-History_Mechanism (25): 2072333295
+      Base-History_Mechanism (17): 664872518
+      Base-History_Mechanism (57): 1772977540
+      Base-History_Mechanism (200): -1417151120
+      Base-History_Mechanism (151): 78005260
+      Base-History_Mechanism (96): 364465620
+      Base-History_Mechanism (154): -125572268
+      Base-History_Mechanism (104): -675734412
+      Base-History_Mechanism (119): 721415905
+      Base-History_Mechanism (64): -612541144
+      Base-History_Mechanism (6): -773872871
+      Base-History_Mechanism (74): -635772558
+      Base-History_Mechanism (42): 1095034804
+      Base-History_Mechanism (28): -1783075233
+      Base-History_Mechanism (14): 1882035538
+      Base-History_Mechanism (37): 683566312
+      Base-History_Mechanism (62): -2095221948
+      Base-History_Mechanism (85): 255807193
+      Base-History_Mechanism (204): 1654667650
+      Base-History_Mechanism (149): -941288545
+      Base-History_Mechanism (188): 1503666780
+      Base-History_Mechanism (158): -420357408
+      Base-History_Mechanism (153): 1692953348
+      Base-History_Mechanism (182): -4165509
+      Base-History_Mechanism (105): 1098593251
+      Base-History_Mechanism (152): 1655933843
+      Base-History_Mechanism (193): -911750795
+      Base-History_Mechanism (197): 966468178
+      Base-History_Mechanism (41): 24306574
+      Base-History_Mechanism (79): -1498970670
+      Base-History_Mechanism (196): 863673149
+      Base-History_Mechanism (161): 685940748
+      Base-History_Mechanism (118): 1080287242
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

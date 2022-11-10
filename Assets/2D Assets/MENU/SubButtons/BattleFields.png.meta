@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: aba1bdb5986a4364d884d4ef37f13e88
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battlefields.png0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3090
+        width: 993
+        height: 1005
+      alignment: 9
+      pivot: {x: 0.51762336, y: 0.35024875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca69b0b41a14e143abf6799efa0d16d
+      internalID: 726565273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0001
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3084
+        width: 990
+        height: 1011
+      alignment: 9
+      pivot: {x: 0.5191919, y: 0.34817013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0945399f9a576ea458a400fd0d30acbb
+      internalID: 1142462960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0002
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3093
+        width: 1001
+        height: 1002
+      alignment: 9
+      pivot: {x: 0.52147853, y: 0.3522954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156fcc17159ddb4448dc63d850886957
+      internalID: -723958275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0003
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 3098
+        width: 1005
+        height: 997
+      alignment: 9
+      pivot: {x: 0.519403, y: 0.35305917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32bbe2cd4198944594ae3384499560c
+      internalID: -184381636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0004
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 3080
+        width: 1014
+        height: 1015
+      alignment: 9
+      pivot: {x: 0.5147929, y: 0.34187192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ec1f28faa46b74fb343b0cb34a581f
+      internalID: 1221475657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0005
+      rect:
+        serializedVersion: 2
+        x: 5014
+        y: 3097
+        width: 1005
+        height: 998
+      alignment: 9
+      pivot: {x: 0.519403, y: 0.3496994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5421201d6503a8448e718ef7f4f56f7
+      internalID: -196272639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0006
+      rect:
+        serializedVersion: 2
+        x: 6021
+        y: 3093
+        width: 1005
+        height: 1002
+      alignment: 9
+      pivot: {x: 0.519403, y: 0.3502994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab9549f3e858ee44b3312308ef29157
+      internalID: 1486542112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0007
+      rect:
+        serializedVersion: 2
+        x: 7028
+        y: 3091
+        width: 1005
+        height: 1004
+      alignment: 9
+      pivot: {x: 0.519403, y: 0.3515936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4878c5d46b72eb4fa42ed39e6a24d05
+      internalID: 547094382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2066
+        width: 997
+        height: 1012
+      alignment: 9
+      pivot: {x: 0.5175527, y: 0.3547431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71955bd505a63f4f8bf961d3026fd87
+      internalID: 187809220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0009
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2080
+        width: 1003
+        height: 998
+      alignment: 9
+      pivot: {x: 0.51744765, y: 0.3537074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d236cd2542ca4374897140cbcf9267fd
+      internalID: 235256737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0010
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2076
+        width: 998
+        height: 1002
+      alignment: 9
+      pivot: {x: 0.51803607, y: 0.3463074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffee3c711d9bf0b4382c4c993fd22228
+      internalID: -1726679530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0011
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 2077
+        width: 1005
+        height: 1001
+      alignment: 9
+      pivot: {x: 0.519403, y: 0.35364637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d1994ddc4f33240b7366089adbfaac
+      internalID: 1707721630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0012
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 2072
+        width: 998
+        height: 1006
+      alignment: 9
+      pivot: {x: 0.51703405, y: 0.35089463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb1249010ca014a85c37332271933c
+      internalID: 885244816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0013
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 2072
+        width: 1008
+        height: 1006
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.35089463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f5f09a7d744f6449086e7834004976
+      internalID: -16496310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0014
+      rect:
+        serializedVersion: 2
+        x: 6022
+        y: 2084
+        width: 1000
+        height: 994
+      alignment: 9
+      pivot: {x: 0.517, y: 0.34909457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b3b59add082244780850d814ded8e7
+      internalID: -1368458534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0015
+      rect:
+        serializedVersion: 2
+        x: 7024
+        y: 2078
+        width: 995
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.51859295, y: 0.345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d117094499f4f4184fc967603bdb53
+      internalID: -2024756844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1071
+        width: 1006
+        height: 993
+      alignment: 9
+      pivot: {x: 0.5188867, y: 0.35045317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0722aa2ea8eee47b455399e2c7e35f
+      internalID: -601151313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0017
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1058
+        width: 1005
+        height: 1006
+      alignment: 9
+      pivot: {x: 0.519403, y: 0.35089463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb2e6b981427c7429d6a56d74207a7f
+      internalID: 672344200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0018
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1064
+        width: 1001
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.5174825, y: 0.353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3294063eb4f618f4a88c90d60814ee82
+      internalID: -746514018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0019
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 1064
+        width: 1001
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.5174825, y: 0.353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2e6c20a238a0745b49f2a65bb1f867
+      internalID: -170485557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0020
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 1064
+        width: 1001
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.5174825, y: 0.353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e39a687b3cfa984fa6fc137be02422f
+      internalID: 1766070414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0021
+      rect:
+        serializedVersion: 2
+        x: 5025
+        y: 1056
+        width: 1001
+        height: 1008
+      alignment: 9
+      pivot: {x: 0.5174825, y: 0.35019842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c69d962ad48ac44ba77e05ea850332
+      internalID: 154858022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0022
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 1062
+        width: 997
+        height: 1002
+      alignment: 9
+      pivot: {x: 0.5175527, y: 0.3463074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2702ef18aab29f3439796e39bd586f1d
+      internalID: -1409014900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0023
+      rect:
+        serializedVersion: 2
+        x: 7027
+        y: 1070
+        width: 977
+        height: 994
+      alignment: 9
+      pivot: {x: 0.517912, y: 0.33501005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f49c009120170440a26e824e66c8330
+      internalID: -1040489698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 898
+        height: 988
+      alignment: 9
+      pivot: {x: 0.5178174, y: 0.3097166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eb56e34e9eb684cae26a738d1b1508
+      internalID: -917373932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0025
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 89
+        width: 847
+        height: 965
+      alignment: 9
+      pivot: {x: 0.5182999, y: 0.28911918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5580d0cb22acaad4bab74a760895c0ff
+      internalID: 770465740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battlefields.png0026
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 78
+        width: 847
+        height: 976
+      alignment: 9
+      pivot: {x: 0.5182999, y: 0.29405737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2492e5ad063733746af559e7238ed05b
+      internalID: -764485514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c18aaf08c0f4fa14390447cba137a8d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      battlefields.png0001: 1142462960
+      battlefields.png0012: 885244816
+      battlefields.png0025: 770465740
+      battlefields.png0016: -601151313
+      battlefields.png0003: -184381636
+      battlefields.png0005: -196272639
+      battlefields.png0014: -1368458534
+      battlefields.png0019: -170485557
+      battlefields.png0022: -1409014900
+      battlefields.png0017: 672344200
+      battlefields.png0008: 187809220
+      battlefields.png0013: -16496310
+      battlefields.png0021: 154858022
+      battlefields.png0011: 1707721630
+      battlefields.png0000: 726565273
+      battlefields.png0015: -2024756844
+      battlefields.png0020: 1766070414
+      battlefields.png0009: 235256737
+      battlefields.png0004: 1221475657
+      battlefields.png0018: -746514018
+      battlefields.png0006: 1486542112
+      battlefields.png0002: -723958275
+      battlefields.png0010: -1726679530
+      battlefields.png0023: -1040489698
+      battlefields.png0024: -917373932
+      battlefields.png0007: 547094382
+      battlefields.png0026: -764485514
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

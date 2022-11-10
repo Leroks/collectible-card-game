@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: 46749acd569aeee4f9192f2ac3d1cfe1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: P01_America00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818c37392f9678749b4e311b4a416111
+      internalID: -1947939173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55072362d5c81b442973957b481eb8ee
+      internalID: 679262898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89209cd5c8364c458810b43841164bd
+      internalID: -923901817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41808527006220046b18ef137d7d3d54
+      internalID: -1570732979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a155bab40f3e58c40b0f60f3d1d7bced
+      internalID: 19173919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dea36a54a0cfb4e9420b368a66cdd2
+      internalID: -172424853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0132d25a56d914099d5e8bedba5264
+      internalID: 1870630943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5944609afb266459082b06c3fbffde
+      internalID: -1775006080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3ea3ccf2f87ff44bcdd7b51391f067
+      internalID: -1458061289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America09
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adde3f2d65e49ca46bb30bee7008fbfe
+      internalID: 1779530205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a4cf63a051b624280e523529a58f2d
+      internalID: -314495942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f5df62c957fa34cbd8b8f3d47df710
+      internalID: -441449348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b0ce460ca81d429481ee610d16d1b
+      internalID: 1631617239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e1f152dc91ce646ac1e8bdccfcec0b
+      internalID: 423958685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fd14dd8a41d76469dc454f694d0e78
+      internalID: -450220056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e90eabfa67a9484eac8e8c9b9c67267
+      internalID: 1022074877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4990a45a3274146ae69ef3db17ac37
+      internalID: -390028347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9854244ccfa72c742a77a1ffe810d360
+      internalID: -1289974555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.4, y: 4.8378377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e36256ae34f12642b74c6c67397951d
+      internalID: -518913325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 217
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: -34.4, y: 4.7105265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54975cfd42fffa94eac2bd09b0ad0f86
+      internalID: -2019513592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 218
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.560974, y: 4.810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376d9edaaae76e40970b94959538497
+      internalID: 62161801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 218
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.425, y: 4.810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15148d289df41014588a2c634b89d0e4
+      internalID: 432314121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 218
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.585365, y: 4.783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f06ab1a619de45b8ca6cf9b6dbb5f
+      internalID: 2138176951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 218
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.609756, y: 4.756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738ea2815b903b94f828c4a6c1210ac2
+      internalID: -731056183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.634148, y: 4.7297297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d5e0825288c4a43929d63001211b8c
+      internalID: 1456845654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 178
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.658535, y: 4.7027025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d6a4bbeae9f704194a5c9bfb935d47
+      internalID: 1081356855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 178
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.525, y: 4.675676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1294d387575911b41948bd76aab29d02
+      internalID: 351478271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 178
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.55, y: 4.6486487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5a3877ab6e5844192d875401364c8a
+      internalID: 264714483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America28
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 178
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.575, y: 4.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a76e7637a003e4a9b6e66b0b96949a
+      internalID: 1431929834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 178
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.73171, y: 4.5945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1164b9b778f3df4691ad9f854947514
+      internalID: 1884860528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.756096, y: 4.5675673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e90f1e7807ee24eb59da91e882ae95
+      internalID: -1080950693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 138
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: -34.625, y: 4.4473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3f330e3eb52584d9d4abfd78bf904d
+      internalID: 349885130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 139
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.625, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a87df42ae477749bd96b0dc6feffdb
+      internalID: 2027169459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 139
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8184eecc4e75b84dadc5b1dd0a8bc4b
+      internalID: -640618479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 139
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdd64dcd8390304ca9776f19f43d019
+      internalID: -466610812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 139
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.625, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfe7642480960840b737f989d81e600
+      internalID: -2031071078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: -34.625, y: 4.4473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f44019506139c6458c5ba9f9e29e5bf
+      internalID: 602724114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 98
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: -34.625, y: 4.4473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dcc8ecffc1ed14a92312aebf4684ce
+      internalID: -593128591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 98
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: -34.625, y: 4.4473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd40a46d773103d449f239b4ac1c8ba3
+      internalID: 674385072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: -34.625, y: 4.4473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e75f76f2c3039c4786db3fa3f0f8399
+      internalID: -1585005379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: -34.625, y: 4.4473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291f7dded0159e94f9e73fdb3c3c74d4
+      internalID: 780330263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 139
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f692add5fe6c494da43ae7e253da2ce
+      internalID: 1024098451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America42
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 99
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ac504fd6e1c1c4cafeaf4a00198692
+      internalID: -1879562649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 99
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7c5610831694348bec55750a1f0367
+      internalID: 1295531071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America44
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 139
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f198b4e580f8c024c979ed6aa0018bc0
+      internalID: 566199277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America45
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 99
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: -34.625, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f515c57e2bf57347b5fc654b51c0eb3
+      internalID: 395249710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649d61512609f19419a11885307851ee
+      internalID: 2062478858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America47
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 59
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32b392760d0e444cb9cea0e7614d06c
+      internalID: -1037960895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 99
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6835baf8606874459ec5bf4fff8ad7d
+      internalID: -2087322487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 99
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a415249d6d661ed49820965757c707e7
+      internalID: -932961060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 99
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff883f1b0a18d5e4aa564d4192bdde18
+      internalID: -1848079280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America51
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 99
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcc6e741f1d32646a245a8bbe8f439a
+      internalID: 365317926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America52
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 99
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a32519cdb66d004482a32b7af059cc4
+      internalID: -1668442003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P01_America53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 99
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -33.780487, y: 4.5405407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1e60c8f6c40314494b3e0659f9cbd5
+      internalID: 951654412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3cfbf29508464434c9821f176e3eeb3c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      P01_America45: 395249710
+      P01_America24: 1456845654
+      P01_America41: 1024098451
+      P01_America12: 1631617239
+      P01_America51: 365317926
+      P01_America27: 264714483
+      P01_America02: -923901817
+      P01_America43: 1295531071
+      P01_America18: -518913325
+      P01_America11: -441449348
+      P01_America33: -640618479
+      P01_America13: 423958685
+      P01_America46: 2062478858
+      P01_America31: 349885130
+      P01_America48: -2087322487
+      P01_America15: 1022074877
+      P01_America04: 19173919
+      P01_America53: 951654412
+      P01_America52: -1668442003
+      P01_America32: 2027169459
+      P01_America36: 602724114
+      P01_America17: -1289974555
+      P01_America40: 780330263
+      P01_America26: 351478271
+      P01_America38: 674385072
+      P01_America47: -1037960895
+      P01_America10: -314495942
+      P01_America00: -1947939173
+      P01_America21: 432314121
+      P01_America03: -1570732979
+      P01_America42: -1879562649
+      P01_America16: -390028347
+      P01_America44: 566199277
+      P01_America50: -1848079280
+      P01_America08: -1458061289
+      P01_America29: 1884860528
+      P01_America09: 1779530205
+      P01_America01: 679262898
+      P01_America14: -450220056
+      P01_America37: -593128591
+      P01_America23: -731056183
+      P01_America19: -2019513592
+      P01_America20: 62161801
+      P01_America28: 1431929834
+      P01_America06: 1870630943
+      P01_America22: 2138176951
+      P01_America07: -1775006080
+      P01_America49: -932961060
+      P01_America35: -2031071078
+      P01_America25: 1081356855
+      P01_America39: -1585005379
+      P01_America30: -1080950693
+      P01_America34: -466610812
+      P01_America05: -172424853
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 2bd6420e2e41bd2458a4c32c18b6971f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Left_Spiral00
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1926
+        width: 49
+        height: 2160
+      alignment: 9
+      pivot: {x: 17.081633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352efc58ab957d64a88b942787a45774
+      internalID: -1887123009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Spiral01
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1926
+        width: 49
+        height: 2160
+      alignment: 9
+      pivot: {x: 17.081633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a515bd0d466ce274c92f8c9fd9ff3e37
+      internalID: 143078631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Spiral02
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1926
+        width: 49
+        height: 2160
+      alignment: 9
+      pivot: {x: 17.081633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e25350ef2f4e144bd6fde23217cb0f
+      internalID: 1158400487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Spiral03
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1926
+        width: 49
+        height: 2160
+      alignment: 9
+      pivot: {x: 17.081633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0caff60a5de914dbae1ddb8eebbbf0
+      internalID: -1701984326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Spiral04
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1926
+        width: 49
+        height: 2160
+      alignment: 9
+      pivot: {x: 17.081633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eee841dde483d44ea9c48274cd705b7
+      internalID: 1822185713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Spiral05
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1926
+        width: 49
+        height: 2160
+      alignment: 9
+      pivot: {x: 17.081633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c727f69ca2d488c479494d4e276431c4
+      internalID: -1825758825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Spiral06
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1926
+        width: 49
+        height: 2160
+      alignment: 9
+      pivot: {x: 17.081633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7188979f39b16428e64f8605418489
+      internalID: 1365485974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Spiral07
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1926
+        width: 49
+        height: 2160
+      alignment: 9
+      pivot: {x: 17.081633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ede6740783c0bb4ab2a25ce683e9da0
+      internalID: -1973621137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Spiral08
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1926
+        width: 49
+        height: 2160
+      alignment: 9
+      pivot: {x: 17.081633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a8c37adc018274f8c50bc554a719bc
+      internalID: -338898969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Spiral09
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1926
+        width: 49
+        height: 2160
+      alignment: 9
+      pivot: {x: 17.081633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e345997de95e05a449ee142e810ddaa7
+      internalID: 2022285380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Spiral10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1926
+        width: 49
+        height: 2160
+      alignment: 9
+      pivot: {x: 17.081633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a54e46a9ace8042a3c9a1d0896c274
+      internalID: 1012761760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Spiral11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1926
+        width: 49
+        height: 2160
+      alignment: 9
+      pivot: {x: 17.081633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac6dba1045f4964c9825a4d5dad07ef
+      internalID: -343829893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 21530b5f86959b54fbc3c9293612ff46
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Left_Spiral09: 2022285380
+      Left_Spiral00: -1887123009
+      Left_Spiral03: -1701984326
+      Left_Spiral04: 1822185713
+      Left_Spiral10: 1012761760
+      Left_Spiral07: -1973621137
+      Left_Spiral06: 1365485974
+      Left_Spiral01: 143078631
+      Left_Spiral08: -338898969
+      Left_Spiral05: -1825758825
+      Left_Spiral02: 1158400487
+      Left_Spiral11: -343829893
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

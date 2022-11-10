@@ -1,0 +1,918 @@
+fileFormatVersion: 2
+guid: de67038ee2c7b1144a2153a3741828e1
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl1
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl10
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl11
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl12
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl13
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl14
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl15
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl16
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl17
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl18
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl19
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl2
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl20
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl21
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl22
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl23
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl24
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl25
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl26
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl27
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl3
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl4
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl5
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl6
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl7
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl8
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlas_Glass_Mtl9
+    second: {fileID: 2100000, guid: 074be708da2565e4bbd759b16c61dc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl1
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl10
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl11
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl12
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl13
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl14
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl15
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl16
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl17
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl18
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl19
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl2
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl20
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl21
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl22
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl23
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl24
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl25
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl26
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl27
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl3
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl4
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl5
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl6
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl7
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl8
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Atlass_Mtl9
+    second: {fileID: 2100000, guid: 897ef830e665890418bdb4378f553b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl
+    second: {fileID: 2100000, guid: 80020d8361bdf264eb81c9f27bde2d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl1
+    second: {fileID: 2100000, guid: 1b4eca5bebdfeed4c8692a6b63a7c159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl10
+    second: {fileID: 2100000, guid: 5fb0903fcb4abf3479501e516cc120dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl11
+    second: {fileID: 2100000, guid: 040cb6082d7b23a41b677161284e2da4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl12
+    second: {fileID: 2100000, guid: 55202632d399741408cab81068c66110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl13
+    second: {fileID: 2100000, guid: 70290ab281741df47bcbea2fffdeac53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl14
+    second: {fileID: 2100000, guid: 80020d8361bdf264eb81c9f27bde2d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl15
+    second: {fileID: 2100000, guid: bd23eb53a0ab90d4b9500c7fa758f68f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl16
+    second: {fileID: 2100000, guid: 80020d8361bdf264eb81c9f27bde2d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl17
+    second: {fileID: 2100000, guid: 62e22b83051289941832b76c21114d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl18
+    second: {fileID: 2100000, guid: 55202632d399741408cab81068c66110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl19
+    second: {fileID: 2100000, guid: 5fb0903fcb4abf3479501e516cc120dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl2
+    second: {fileID: 2100000, guid: 55202632d399741408cab81068c66110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl20
+    second: {fileID: 2100000, guid: 80020d8361bdf264eb81c9f27bde2d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl21
+    second: {fileID: 2100000, guid: 040cb6082d7b23a41b677161284e2da4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl22
+    second: {fileID: 2100000, guid: f0702cee20df6044991967198109a7d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl23
+    second: {fileID: 2100000, guid: 80020d8361bdf264eb81c9f27bde2d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl24
+    second: {fileID: 2100000, guid: 1b4eca5bebdfeed4c8692a6b63a7c159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl25
+    second: {fileID: 2100000, guid: 80020d8361bdf264eb81c9f27bde2d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl26
+    second: {fileID: 2100000, guid: 5fb0903fcb4abf3479501e516cc120dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl27
+    second: {fileID: 2100000, guid: 55202632d399741408cab81068c66110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl3
+    second: {fileID: 2100000, guid: bd23eb53a0ab90d4b9500c7fa758f68f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl4
+    second: {fileID: 2100000, guid: 1b4eca5bebdfeed4c8692a6b63a7c159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl5
+    second: {fileID: 2100000, guid: 040cb6082d7b23a41b677161284e2da4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl6
+    second: {fileID: 2100000, guid: 1b4eca5bebdfeed4c8692a6b63a7c159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl7
+    second: {fileID: 2100000, guid: 1b4eca5bebdfeed4c8692a6b63a7c159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl8
+    second: {fileID: 2100000, guid: 9028925c4b4e41644ab513de80fe6cd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Images_Mtl9
+    second: {fileID: 2100000, guid: 4c76777e49ba2ad448bf2cde9ca66992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl1
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl10
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl11
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl12
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl13
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl2
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl3
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl4
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl5
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl6
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl7
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl8
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Glass_Mtl9
+    second: {fileID: 2100000, guid: d268c542d0d75ba4bac116b2cd179927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl1
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl10
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl11
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl12
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl13
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl2
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl3
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl4
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl5
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl6
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl7
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl8
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Case_Mtl9
+    second: {fileID: 2100000, guid: 45290827bda6ca84c88a352334aea50d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl
+    second: {fileID: 2100000, guid: 6d3003007f98d11468e0bea5b1f0b48d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl1
+    second: {fileID: 2100000, guid: 14f57ef47dea82a4e94e8d80cbe07d3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl10
+    second: {fileID: 2100000, guid: 6d3003007f98d11468e0bea5b1f0b48d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl11
+    second: {fileID: 2100000, guid: 14f57ef47dea82a4e94e8d80cbe07d3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl12
+    second: {fileID: 2100000, guid: b63e2696d5ab7fb428d8893917a591de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl13
+    second: {fileID: 2100000, guid: bbf8f7b8e91397647a5966c9b41688ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl2
+    second: {fileID: 2100000, guid: 323039b6da633394b84f0d484cc83548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl3
+    second: {fileID: 2100000, guid: 5397698c83979b04385cc3d7a295fc53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl4
+    second: {fileID: 2100000, guid: 134b444280465ab48906d4241b48e583, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl5
+    second: {fileID: 2100000, guid: cc7755e79a260d847b482ca49406fb73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl6
+    second: {fileID: 2100000, guid: bbf8f7b8e91397647a5966c9b41688ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl7
+    second: {fileID: 2100000, guid: 323039b6da633394b84f0d484cc83548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl8
+    second: {fileID: 2100000, guid: 323039b6da633394b84f0d484cc83548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_OnboardCard_Image_Mtl9
+    second: {fileID: 2100000, guid: f2290cebc4b515846bbce8ac701f73d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl1
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl10
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl11
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl12
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl13
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl2
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl3
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl4
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl5
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl6
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl7
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl8
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Attack_Number_Mtl9
+    second: {fileID: 2100000, guid: 37309656a870a564b80ec8876fc74b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl1
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl10
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl11
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl12
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl13
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl2
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl3
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl4
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl5
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl6
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl7
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl8
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardJOE_Onboard_Healt_Number_Mtl9
+    second: {fileID: 2100000, guid: a22db6ac1d25258478e30fbabdd84d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SW_HistoryCard_Case_Mtl1
+    second: {fileID: 2100000, guid: bc31b8912499be94ebb2c91a99d06fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SW_HistoryCard_Case_Mtl2
+    second: {fileID: 2100000, guid: bc31b8912499be94ebb2c91a99d06fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SW_HistoryCard_Case_Mtl3
+    second: {fileID: 2100000, guid: bc31b8912499be94ebb2c91a99d06fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SW_HistoryCard_Case_Mtl4
+    second: {fileID: 2100000, guid: bc31b8912499be94ebb2c91a99d06fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SW_HistoryCard_Image_Mtl1
+    second: {fileID: 2100000, guid: 557164d053399034e8754ca5b50d16d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SW_HistoryCard_Image_Mtl2
+    second: {fileID: 2100000, guid: 557164d053399034e8754ca5b50d16d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SW_HistoryCard_Image_Mtl3
+    second: {fileID: 2100000, guid: 557164d053399034e8754ca5b50d16d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SW_HistoryCard_Image_Mtl4
+    second: {fileID: 2100000, guid: 557164d053399034e8754ca5b50d16d4, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1000
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 10
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

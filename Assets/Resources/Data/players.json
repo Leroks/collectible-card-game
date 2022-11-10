@@ -1,0 +1,86 @@
+[
+    {
+        "name" : "General Patton",
+        "texture" : "commander",
+        "level" : 1,
+        "healthPoint": 30,
+        "attackPoint": 0,
+        "commandingPoint": 1,
+        "commanderAbility" : 
+        [
+            
+        ],
+        "faction" : 0,
+        "abilitycard" : 
+        {
+            "name" : "Encourage a Unit",
+            "faction" : 0,
+            "description" : "Gives +2 Attack to a friendly unit.",
+            "commandingPoint" : 2,
+            "specialEffects" : 
+            [
+                {
+                    "type" : 2,
+                    "target" : 0,
+                    "count" : 2
+                }
+            ]
+        },
+        "weapon" : 
+        {
+            "type": 3,
+            "id": 1,
+            "level": 0,
+            "rarity": 0,
+            "faction": 0,
+            "name" : "Colt M1911",
+            "texture" : "Colt-M1911",
+            "description" : "Deal 1 damage to an enemy unit or commander. Can be used 3 times.",
+            "attackPoint" : 1,
+            "ammunationPoint" : 3,
+            "commandingPoint" : 1
+        }
+    },
+    {
+        "name" : "Erwin Rommel",
+        "texture" : "commander",
+        "level" : 1,
+        "healthPoint": 30,
+        "attackPoint": 0,
+        "commandingPoint": 1,
+        "commanderAbility" : 
+        [
+            
+        ],
+        "faction" : 1,
+        "abilitycard" : 
+        {
+            "name" : "Encourage a Unit",
+            "faction" : 1,
+            "description" : "Gives +2 Attack to a friendly unit.",
+            "commandingPoint" : 2,
+            "specialEffects" : 
+            [
+                {
+                    "type" : 2,
+                    "target" : 0,
+                    "count" : 2
+                }
+            ]
+        },
+        "weapon" : 
+        {
+            "type": 3,
+            "id": 1,
+            "level": 0,
+            "rarity": 0,
+            "faction": 1,
+            "name" : "Walther P-38",
+            "texture" : "Walther-P-38",
+            "description" : "Deal 1 damage to an enemy unit or commander. Can be used 3 times.",
+            "attackPoint" : 1,
+            "ammunationPoint" : 3,
+            "commandingPoint" : 1
+        }
+    }
+]

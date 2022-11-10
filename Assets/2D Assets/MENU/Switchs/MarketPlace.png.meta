@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: 4a2a43404839516479f3e9ddf7af75e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarketPlace00
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1741
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: 4.3333335, y: 1.3509934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed3ec8b02c492240930e7fd9ee135dd
+      internalID: 1267713950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketPlace01
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1741
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: 4.3333335, y: 1.3509934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47be38a1cb3df4d46a013cf0a09c04f6
+      internalID: -1675370420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketPlace02
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1741
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: 4.3333335, y: 1.3509934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf495a150c7b30d4996afc43ea0d3cf1
+      internalID: -721402548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketPlace03
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1429
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: 4.3333335, y: 1.3509934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be453eb545ab4bc4492d3971250268b1
+      internalID: -100626627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketPlace04
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1429
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: 4.3333335, y: 1.3509934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3816d3fb5ec45ab488bc523f40850c98
+      internalID: 2107328046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketPlace05
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1429
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: 4.3333335, y: 1.3509934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fded89b062efd4690fe02985e4c072
+      internalID: -1195843135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketPlace06
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1117
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: 4.3333335, y: 1.3509934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c6575e7cd17194ea0e5ab364120541
+      internalID: -1991377795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketPlace07
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1117
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: 4.3333335, y: 1.3509934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb3ed0a5e899cc4c97b2bd5e4635231
+      internalID: 152693984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketPlace08
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1117
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: 4.3333335, y: 1.3509934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721f734eac412d949878b7f0e560523c
+      internalID: 1635573818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarketPlace09
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 805
+        width: 303
+        height: 302
+      alignment: 9
+      pivot: {x: 4.3333335, y: 1.3509934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f3e8dd4838dd14aa49fd0ff87c21d4
+      internalID: 1484285152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ef86f974e9d7c2244b2a736ce9e3d21e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MarketPlace08: 1635573818
+      MarketPlace03: -100626627
+      MarketPlace02: -721402548
+      MarketPlace06: -1991377795
+      MarketPlace00: 1267713950
+      MarketPlace01: -1675370420
+      MarketPlace05: -1195843135
+      MarketPlace07: 152693984
+      MarketPlace09: 1484285152
+      MarketPlace04: 2107328046
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

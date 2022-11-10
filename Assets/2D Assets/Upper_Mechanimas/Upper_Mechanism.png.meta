@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: e134d2387eeba7a4897fcac782704410
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Upper_Mechanis (1)
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 828
+        width: 334
+        height: 166
+      alignment: 9
+      pivot: {x: 0.002994012, y: -4.3915663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03906a593fda254fb4a1f023cc0b30f
+      internalID: 882536835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (10)
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 603
+        width: 333
+        height: 165
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.4242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6260a3fa31e7854eb7c336ffe863440
+      internalID: -1349585670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (11)
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 377
+        width: 333
+        height: 165
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.4242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf72169fcd5d4e4dbab0864f3b5d529
+      internalID: -155266862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (12)
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 377
+        width: 333
+        height: 165
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.4242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd7bb3e220ba8c4ba11eae85a0caa2e
+      internalID: 286716066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (13)
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 377
+        width: 333
+        height: 165
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.4242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505120d5e0f22314bbf9134865e9b798
+      internalID: -1686992370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (14)
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 377
+        width: 333
+        height: 165
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.4242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb28491096e1f994b81c21ab03f215dd
+      internalID: 1697864082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (15)
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 376
+        width: 333
+        height: 166
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.3915663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deddea0829fe6c41a7d5d727d44576e
+      internalID: 1154875783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (16)
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 151
+        width: 333
+        height: 165
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.4242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4900be094628c5418633edcbe04d08e
+      internalID: 2060317672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (17)
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 151
+        width: 333
+        height: 165
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.4242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a03f24798035de46be2bac807d39e2d
+      internalID: -923979337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (18)
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 150
+        width: 333
+        height: 166
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.3915663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f5c8758d80f9d45b60cf50e846a615
+      internalID: -1464074104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (19)
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 150
+        width: 333
+        height: 166
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.3915663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472c7b31daf62744a847e291525d312a
+      internalID: 989752854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (2)
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 828
+        width: 334
+        height: 166
+      alignment: 9
+      pivot: {x: 0.002994012, y: -4.3915663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbc60048c6571c4ead1b4e5f3574a7e
+      internalID: 7779864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (20)
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 150
+        width: 333
+        height: 166
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.3915663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83def2160755e7468cadcdb7217a0a8
+      internalID: 67113222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (3)
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 828
+        width: 334
+        height: 166
+      alignment: 9
+      pivot: {x: 0.002994012, y: -4.3915663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30079b8cf6cedfa4189aa8ca2a056970
+      internalID: -663768649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (4)
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 828
+        width: 334
+        height: 166
+      alignment: 9
+      pivot: {x: 0.002994012, y: -4.3915663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be03bcf9833c3594ca33116c1fa024a6
+      internalID: 1554914026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (5)
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 828
+        width: 333
+        height: 166
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.3915663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b87b2ce5a9448459a9d6d365f5f51c
+      internalID: -1057581155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (6)
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 602
+        width: 333
+        height: 166
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.3915663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e190cf66edb39d43b53eb3606d5569d
+      internalID: 1330169907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (7)
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 602
+        width: 334
+        height: 166
+      alignment: 9
+      pivot: {x: 0.002994012, y: -4.3915663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ea5c64e9865ca43b6c6498dd536eef
+      internalID: 381876402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (8)
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 602
+        width: 333
+        height: 166
+      alignment: 9
+      pivot: {x: 0.003003003, y: -4.3915663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b536fb0b1d74bb4bb7bde440d954956
+      internalID: -513557015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upper_Mechanis (9)
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 603
+        width: 334
+        height: 165
+      alignment: 9
+      pivot: {x: 0.002994012, y: -4.4242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c38ce72ad31ed42b11e2929e11a2bc
+      internalID: -1901317194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2a2c4778a57a7a84fbd8dfeeb435275e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Upper_Mechanis (17): -923979337
+      Upper_Mechanis (4): 1554914026
+      Upper_Mechanis (12): 286716066
+      Upper_Mechanis (8): -513557015
+      Upper_Mechanis (14): 1697864082
+      Upper_Mechanis (11): -155266862
+      Upper_Mechanis (7): 381876402
+      Upper_Mechanis (6): 1330169907
+      Upper_Mechanis (20): 67113222
+      Upper_Mechanis (9): -1901317194
+      Upper_Mechanis (5): -1057581155
+      Upper_Mechanis (15): 1154875783
+      Upper_Mechanis (10): -1349585670
+      Upper_Mechanis (13): -1686992370
+      Upper_Mechanis (19): 989752854
+      Upper_Mechanis (16): 2060317672
+      Upper_Mechanis (18): -1464074104
+      Upper_Mechanis (3): -663768649
+      Upper_Mechanis (1): 882536835
+      Upper_Mechanis (2): 7779864
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5292 @@
+fileFormatVersion: 2
+guid: c4ed7e8bd422af9419ca82c3f16867e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (1)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4016
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ebc147039d19445820958f49f86114
+      internalID: 1550206705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (10)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3926
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3b902e6a8d95d488697d2598794e79
+      internalID: 940638894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (100)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2756
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edca1cf9b19a4494393729d11f8acf36
+      internalID: 882094419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (101)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2756
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de75716c5b983314fa152977dee0a434
+      internalID: 1841918762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (102)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2756
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e949a2aac05b948908cdcc46115184
+      internalID: 62641135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (103)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2756
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29bc8cf8349a3948ad35489563f9c96
+      internalID: 1672601667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (104)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2756
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373b682854693934a91cf40184437190
+      internalID: -965761800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (105)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2756
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915dd8f653064f04480fa5deb7795895
+      internalID: 1619012959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (106)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2666
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bfb5beaa0ccd04593dfb0c0f35e278
+      internalID: -1619897909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (107)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2666
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd8461cf23e0324db2775612a2c2f0e
+      internalID: 745005940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (108)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2666
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c89abc7885775f4e8b03333446eceeb
+      internalID: 1026404705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (109)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2666
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86fb0d09ebbe7e48aa2408e628b7ae2
+      internalID: 863399400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (11)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3926
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaf24f3894adbb46a3ca796af73ff82
+      internalID: -1400369862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (110)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2666
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d91ccaa8d92f54e953f49a051c546a
+      internalID: -322001626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (111)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2666
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071f1c407de77a4288cd6b916b9be4a
+      internalID: 1955577835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (112)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2666
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eff4aa2fadf3e44b444447228172dd
+      internalID: 1214737751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (113)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2576
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d70134019d6554997c0334486e7e1b
+      internalID: 437104722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (114)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2576
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8680d5580762984283741300f9ad382
+      internalID: 1038803317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (115)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2576
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81ec7575814a2e4ebe37feb6eb8f935
+      internalID: 2008629398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (116)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2576
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2005331599cc91d43bba1e915a7a856f
+      internalID: 1748283681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (117)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2576
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59db3d4341bdf154cb0c278bc7fa89b5
+      internalID: 367607973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (118)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2576
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57df4ba8f39d30045acc8a0ad0e74f83
+      internalID: 1546395066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (119)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2576
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afc965af50b4ba4cb09416d22549250
+      internalID: 102738198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (12)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3926
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e13ca509d573964db7cfe49cb7e4574
+      internalID: 61522705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (120)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2486
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834a895e12cec5747a7a539c6cd555b9
+      internalID: -1427584676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (121)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2486
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac06921dfe630ee42a6d41e4a059e7c2
+      internalID: -225754011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (122)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2486
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495ec1c274ae6c3419b3993c15db2bdb
+      internalID: -1045600465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (123)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2486
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c93a6d9b23e534d8218c256d4064a1
+      internalID: 821943002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (124)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2486
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbbf1694b325a549b4f090cb9c3cb73
+      internalID: 1921465584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (125)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2486
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f343b19391bde647800fef1d36ec778
+      internalID: -98477682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (126)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2486
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c007b3dccb5e141a8f832ce08dcd5a
+      internalID: -1559331603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (127)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2396
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b1e45936410684d9f23a00f8cd749c
+      internalID: -317603473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (128)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2396
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52edba2bde9023f4a83791b64d7e3a72
+      internalID: 1084218186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (129)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2396
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389be0df83821ec4e8e7195c4d25f032
+      internalID: 1264632749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (13)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3926
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34332aae57519e6489889235b58c6c75
+      internalID: 1562948625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (130)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2396
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57be7e8ca28484a47bdacf1e00d964bf
+      internalID: 2082850184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (131)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2396
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e70f80a12bd49642a79ec65b619791e
+      internalID: 246094053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (132)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2396
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b594e1019b5e05d47a1d7c8ee9e13bfa
+      internalID: -114057685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (133)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2396
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf47e371a18d650438e5f39bbcf04f82
+      internalID: -1746235150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (134)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2306
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da2576bfc0421d418d85f27a8719901
+      internalID: -1525940443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (135)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2306
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb5adeb267d31f4d9d5c889b3580c42
+      internalID: -904758533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (136)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2306
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a4a1f83f8e44a47ae54472282680f5
+      internalID: 9366520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (137)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2306
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e7c895f9443714eb884ad6d058ae78
+      internalID: 387970699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (138)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2306
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9294434b67da64fbc9287193a0d3fb
+      internalID: -1852955303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (139)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2306
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e900520b451aeca4493702a80b8b11a8
+      internalID: 344108566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (14)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3926
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fefe8b0aac1b04daec3fd3b728b4c5
+      internalID: 1424465152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (140)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2306
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72af670329e18140bbf33ab1a7be01f
+      internalID: -721608228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (141)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2216
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d293c962bdd3a46ad8da71d7243fb4
+      internalID: 391380970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (142)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2216
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c195157768ffd48981b60ad0f465b8
+      internalID: 1636036900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (143)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2216
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33015dd3b585fed4c94539f65e926fdc
+      internalID: -523600219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (144)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2216
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c11bfe13bdfe94ca1919ef20e4ee9a
+      internalID: -1224103549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (145)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2216
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718842999107c7141abeb29f8627ce50
+      internalID: -14380217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (146)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2216
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a296bcba0042d5745a7af497c5bd9e77
+      internalID: -1007669681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (147)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2216
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5da6dab80e36f4bb153ee82f5c4b97
+      internalID: -255389543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (148)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2126
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b41340bcad1d1f4398e7a36f2bf4ecb
+      internalID: -1553129447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (149)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2126
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce3f64f244c8f4eb66945bc75bd176
+      internalID: -1857972976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (15)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3836
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f065573596ffa47be28fc01ad2b1d2
+      internalID: 2072224920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (150)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2126
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae10b32dbf6db2b4280465d9d19f277c
+      internalID: 1815485446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (151)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2126
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eb1f75a2f2faa40b27aec5ef0ce9e5
+      internalID: -954275288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (152)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2126
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6eddee264890c4abb9fe090c5da018
+      internalID: 1656558658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (153)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2126
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991d59b93fed73d44b125ad847ee96d1
+      internalID: -1100306570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (154)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2126
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47c9a68991acf145bdcd407491d94a7
+      internalID: -1449429494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (155)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2036
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df2817ba4a99fc49b1c5d846d1dcaf3
+      internalID: -1922350059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (156)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2033
+        width: 534
+        height: 73
+      alignment: 9
+      pivot: {x: -0.9194757, y: -12.69863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dde524c0c899548969b31512d21c38
+      internalID: -2084577176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (157)
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2036
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4774cdb873464418d73ea74e3d768d
+      internalID: 349236694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (158)
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 2036
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e85c8843de70f24fb6d7ee3f125b955
+      internalID: -241835026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (159)
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 2036
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e864165fb05239409892d7238c1dd9d
+      internalID: 1469969252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (16)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3836
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d67c22eb854c924b90988d56c28e2d9
+      internalID: 1496398855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (160)
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2036
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a405bd52c9683a14784fa541c8abb3b1
+      internalID: 213637953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (161)
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 2036
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2085265ef6e72c94fa5af0c1cca2fd8c
+      internalID: -88300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (162)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1943
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2efd19152bded46adbbd19af986801
+      internalID: -1204079661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (163)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1943
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ce3cb7bc19306419604b3f8b8db410
+      internalID: 1892701452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (164)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1943
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bd8a9cdc7364842a00589375abc0a9
+      internalID: 1718743880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (165)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1943
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023e005579bd01c47bec87106d2d419c
+      internalID: 255795738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (166)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1943
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f549f38a143d4b74786feecbcffa2a9c
+      internalID: -175152651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (167)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1943
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566d0566534b5fc45bbdd784cebe59ca
+      internalID: 1817911313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (168)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1943
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9d9e624464ca24a81eaeb6742d533f
+      internalID: 1664270035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (169)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1853
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924b3642d644e2845b8183952ced627f
+      internalID: 2027393547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (17)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3836
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9e81821b80a5a458610336e439e11e
+      internalID: -1930791728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (170)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1853
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dadc49d93871d479ebb301ef7d8da6
+      internalID: -1427694163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (171)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1853
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e612f660f1e1a4987f24169649d6c9
+      internalID: -254314135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (172)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1853
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2a48f8befe505499aaa2695fc01bce
+      internalID: 42534458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (173)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1853
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332d172a71e741d4c94b479be1b88fa1
+      internalID: 2125078514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (174)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1853
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cc580fe2d6d5349b2f522550d847ee
+      internalID: 1793124918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (175)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1853
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e2d8297be741042b4e13986c5e09a5
+      internalID: -1685726651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (176)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1763
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1893af1c71617db46a5f083adb871533
+      internalID: -1945445159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (177)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1763
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7897d38ce37a545b344dbea2c46d5d
+      internalID: -2147068082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (178)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1763
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe09198937b146438f74cba18a6c788
+      internalID: -1765429388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (179)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1763
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227eb51d07aa8844fa915dcfc8e8c8d4
+      internalID: 481867781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (18)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3836
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3bf2dd6db45ce46aed1b30473e991a
+      internalID: -1933953909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (180)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1763
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d652551b62e9b4e41870726f3433224c
+      internalID: -1518905927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (181)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1758
+        width: 532
+        height: 75
+      alignment: 9
+      pivot: {x: -0.9266917, y: -12.386666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c80faa11d79d1c488050cf01603acf5
+      internalID: 1822545369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (182)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1763
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f44cde147081b4bbdd93390025a00d
+      internalID: 54635350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (183)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1668
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d42bb27b1c0c8f41b9bf48f92499833
+      internalID: -1032838129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (184)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1668
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b394301b4e20974488553987cb5f6c0
+      internalID: 1146794038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (185)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1668
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b590f731ac280f546ac0fd7baab78907
+      internalID: -1354533215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (186)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1668
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43721320280a46b47b9fe428999c7b2c
+      internalID: 1134023580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (187)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1668
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a81af51ef01e0f4c9141dc3e5056391
+      internalID: 895499522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (188)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1668
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f37190a68ff11458e1c51c62604d1e
+      internalID: -965168072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (189)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1668
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48bfcafc2732644bb4ae4bbe7a1a3ca
+      internalID: -584267642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (19)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3836
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcbebc388e3d904aab9be49195663eb
+      internalID: -1544679078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (190)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1578
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cb41fec3b15ea4689ea841a2dc5fe8
+      internalID: -1176796734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (191)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1578
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a236c74c89cf428f6ed9ae46ea392
+      internalID: 318684965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (192)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1578
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6dc307d21e3ac46a7a8bead2d51c90
+      internalID: 2115271583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (193)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1578
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817a2050546b99a47a221e048046bd85
+      internalID: 165017710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (194)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1578
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5e18983fa4564439c980f26ed42e27
+      internalID: 2058154991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (195)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1578
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c35321a5579fad4b9e1dca6e88d827b
+      internalID: -541293578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (196)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1578
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23577e850f3d47148932ed4e885fa4f4
+      internalID: -809378518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (197)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1488
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dafa4854d20f048ad4267971bb76fd
+      internalID: 1583687613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (198)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1488
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a118609f3594c049890b093108d027c
+      internalID: 1866576732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (199)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1488
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7ea97c9f8968d4da58bd2aff5c25af
+      internalID: 1947286766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (2)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 4016
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169c4ddfca2ee324f981918fccf85925
+      internalID: -1598803354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (20)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3836
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1643a2e24e0ca46ae3f7fcfe1d9dbb
+      internalID: -509249174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (200)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1488
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5f6fa02be815140a90bf4548a6a514
+      internalID: -1569001464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (201)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1488
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557420f38529e32438488be14bf2564b
+      internalID: -21639478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (202)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1488
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7629d1a5fe8b1a04ab601f444d1cdd1e
+      internalID: -2029490382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (203)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1488
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51e81abf86aa6e4ab3f0da619a5fc6a
+      internalID: -2143375672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (204)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1398
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b3acdf45cc4f14cb09dfb5979971dc
+      internalID: 1381333999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (205)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1398
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6448b2250290448b3fc93ec911d1ea
+      internalID: 655935373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (206)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1398
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ca7753cbd87564c958edbd6d34db07
+      internalID: -1639224425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (207)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1398
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f81610c34d3a242a8c3fca13d1c3cf
+      internalID: 283776362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (208)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1398
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159ab800ebf6578468addd457fa8ed31
+      internalID: -110397766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (209)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1398
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8012d4f99a64665418d9eaccefd964d8
+      internalID: -1762853214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (21)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3836
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ef1a4b2a7c6624f84108333c049a14
+      internalID: -1321290399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (210)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1398
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef29802ed060b499553fffb6b88bf5
+      internalID: -985885841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (211)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1308
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c0e27c9fb1a34db3c343a1fdeb3be
+      internalID: -1067667109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (212)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1308
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbdfe0af1564fe46a1f3d832b33bf0b
+      internalID: -1492476355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (213)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1308
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981357e9e2bcab34bb4ce48441106eb3
+      internalID: -579478464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (214)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1308
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9cb2417a92698438964b6fb3aa1ed5
+      internalID: -810087464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (215)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1308
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe102520d0ad6e448b5ba6ccb8b2142
+      internalID: -1077963315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (216)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1308
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2de93097411bb14a8dac77aed91ebf6
+      internalID: -1753573707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (217)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1308
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e193da4c25dd64418a74f8e9112c2f8
+      internalID: 929988301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (218)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1218
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf28ee7e43f439f4389569175c1ea8e0
+      internalID: 502938138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (219)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1218
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c412ee5463a6827419b25e411860afe3
+      internalID: -1357475370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (22)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3746
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c4228c0d6ba17499437ad79069b20e
+      internalID: 1997112051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (220)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1218
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed1f0720d6b91b418cef046dff219da
+      internalID: -1520794682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (221)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1218
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74f27961296eac4592e89721db28bb1
+      internalID: 20480487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (222)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1218
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9827805e5f51afd4b842690501cb1d6f
+      internalID: -902434273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (223)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1218
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5013a2da091b10e4f9b39be7c4beb2dc
+      internalID: 1816821590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (224)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1218
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e29d0d80f43db44985587dc8545bd7
+      internalID: -1297443980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (225)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1128
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8934948a52ada374b8c44f76a8ec1ca2
+      internalID: -701436736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (226)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1128
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b37b5312c3f28439f719e741ff5af7
+      internalID: 1855405253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (227)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1128
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb8a96914086714aa15735b0a5f869f
+      internalID: -1493272434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (228)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1128
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b2bea09563554dbf2549237402450
+      internalID: -1997266663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (229)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1128
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f1c20bde7451a4ab57a888a45b05fa
+      internalID: -427337647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (23)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3746
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2a4225da0a3c64eb42b0331635af16
+      internalID: -1484893315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (230)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1128
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8e052243155704fb635a8b7ff14996
+      internalID: -786536346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (231)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1128
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f057653ee4e5646adc1399840aaea9
+      internalID: 1835193389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (232)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1037
+        width: 532
+        height: 71
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.084507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62cca8c2e1a0d045a38dc0c30125600
+      internalID: -1455801535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (233)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1038
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a343ca3fbc12ed042a74032bdc73c4cd
+      internalID: 276737110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (234)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1038
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7d1975c884ac64ab981d319a2bca38
+      internalID: 747863671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (235)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1038
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbd3779f8c2e9e4c971056392322478
+      internalID: -327595411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (236)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1038
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35455852ebcd50549a8170a4482bb1f8
+      internalID: -1422953176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (24)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3746
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb0ca31cab263240bf68851b2d4d2ed
+      internalID: 1148813809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (25)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3746
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b635a02ac82d34db19a90589ed9520
+      internalID: -1900958458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (26)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3746
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b6dd8c496a89b45bdabc910f2cd287
+      internalID: -1941877496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (27)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3746
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544f51384ebefd349b8197b255e3b658
+      internalID: 1016525037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (28)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3746
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3494987028f234197139d7bcf649ae
+      internalID: -1744931388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (29)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3656
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56015782ec5ad7b44a3897b79a3847de
+      internalID: 1898301682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (3)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 4016
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c622bfb8065d00439986d0c6910d57b
+      internalID: 1804198387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (30)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3656
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bdbb1c15195f64981b5d065de2e476
+      internalID: 1129539100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (31)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3656
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8002a6150e32ae84a96c7aeceb047651
+      internalID: 1043474292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (32)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3656
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446fbe1ee58355345b91cd484b3e921b
+      internalID: 2083909791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (33)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3656
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f943f285b8b6e142851129228971648
+      internalID: 1452527889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (34)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3656
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7687ad5ea5b98974f8942b0bd77460a1
+      internalID: -523897977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (35)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3656
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a459bd48e93d5488e943a81b125c71
+      internalID: -689303385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (36)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3566
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baa4af36782fd543a8bf477c52ad1a9
+      internalID: 996571903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (37)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3566
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13403bcceeb13e44b9609c3058f2d299
+      internalID: 760452985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (38)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3566
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c67f25145f1d6468393c5bb9b678b1
+      internalID: -812631169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (39)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3566
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8977eb5b23f3ac4993fe522b9742ced
+      internalID: -866615182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (4)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 4016
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4799638f4b16ea943b01a71d2c1458b6
+      internalID: 1233934341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (40)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3566
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388e84c92c335284ea1671504133fbc0
+      internalID: 1078420695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (41)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3566
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9dfe014f559c4bb122df9fecf5715
+      internalID: -101347753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (42)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3566
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339414e301143c14393f1fee67a8ab14
+      internalID: 1640173022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (43)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3476
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244cb088e83723f47bca2be8ac2999b5
+      internalID: -120095331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (44)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3476
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a6887b99216204196ac484d2629a40
+      internalID: -696158223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (45)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3476
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c427a053b2866b469454a94a8c59de6
+      internalID: 1482570569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (46)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3476
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ab482791959814794803e4ed8e53b0
+      internalID: -489274705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (47)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3476
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e94987be4dcfd14da8d0cec5eb31326
+      internalID: -849489059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (48)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3476
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b699d385f1d0704685089f8206b86fa
+      internalID: -1104611550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (49)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3476
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e57057c3294bb4cad7989c764d47c3
+      internalID: -459099845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (5)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 4016
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d4ec819c4220f488acde3c9ab676d4
+      internalID: 1839754021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (50)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3386
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3945ca5eb9672a34e9aee9fe325f8a1b
+      internalID: 2035073369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (51)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3386
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f845f4c5b23f0e848898a39172f91aba
+      internalID: -1253145497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (52)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3386
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92000cdb4277d184887b6693ada71d58
+      internalID: 1598676523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (53)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3386
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa5239827026644dbe43c1b2801217e
+      internalID: -2059767649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (54)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3386
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91abd51e4d2548749a77372a26bb1827
+      internalID: 1020301830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (55)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3386
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3d5851229a2dd4c99075f21a6167da
+      internalID: -501964655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (56)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3386
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee70febf15d0f94c849fdcd4a739bcc
+      internalID: 70450856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (57)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3296
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c245637743aa3648935d179836a2db0
+      internalID: 45389478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (58)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3296
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1761604254f8f8847a174ca1b8a7c69b
+      internalID: 1146074040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (59)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3296
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87af93e06153f0d4db5b88ee65801485
+      internalID: -155288487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (6)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 4016
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1a16b30ba902e4f9642b489ceba8f0
+      internalID: -1209275490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (60)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3296
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe4ac6e9544be46b242f079ba8b0da
+      internalID: -2037784853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (61)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3296
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b7b985bafb6d949bcfeacfa9da0954
+      internalID: -1817833871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (62)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3296
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06818bd60fd1bac449ac34292f620388
+      internalID: -1194788218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (63)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3296
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217330764c2c097419dd2de405cbcf04
+      internalID: -100041013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (64)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3206
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6d9c4d146d5c4c929e8dae2e629b7
+      internalID: -1922227634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (65)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3206
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54bd3454230bd041919dadc06b0e789
+      internalID: -14409469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (66)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3206
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871651a2de1f8414291f56245c36729e
+      internalID: 1401569858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (67)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3206
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29abf7cbc90a65043a4f7466064b03fe
+      internalID: -1027910695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (68)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3206
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646840b79605c5b4c81110f54799b43a
+      internalID: -1762248257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (69)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3206
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240f35ba0d9c8364bacdf2c0b521515b
+      internalID: 793109838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (7)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 4016
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe94e7b3c988d18418d64dfc02ed1085
+      internalID: 583285930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (70)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3206
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56467ab782cf40542b23ecd06a055c7e
+      internalID: 1608883773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (71)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3116
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b52c29e04e54141a2cc99ac295bed9
+      internalID: 1790224925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (72)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3116
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ba63548bd1f7b4d88858944dfcd461
+      internalID: 93826054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (73)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3116
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cf82e17a798ea4fbc029f005a7f1fd
+      internalID: 395068291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (74)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3116
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efabd1901d4ec54fa9edb48afc58810
+      internalID: -94592892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (75)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3116
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49f45004e8ea4a498fc1481355c51e8
+      internalID: 183675865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (76)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3116
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecee2455f8245d438857b308739efd6
+      internalID: -2019168494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (77)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3116
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2dce86669848c4597d83d75d86c6a0
+      internalID: 1538914441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (78)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3026
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d247be0ce2ac14f9a2ddf5cd57d63d
+      internalID: 410334681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (79)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3026
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b2478f1a3285a4d9a2663251fe888c
+      internalID: 1105438776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (8)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3926
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0ec8750871645449e01aaea397b1d4
+      internalID: 1442178724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (80)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3026
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4ec046529a0ad44bfec85858ef52f7
+      internalID: -1560709718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (81)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3026
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc462d1054796cd4f9c2bf2cb920ce29
+      internalID: 740234761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (82)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3026
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002c9a2d8d6deed4e850f1f3cbb3a99d
+      internalID: -506305982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (83)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3026
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9123434a3b5c614798d6fddd003361e
+      internalID: -55365038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (84)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3026
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c4a7663bd507248942e03fc7e136d9
+      internalID: 1770223954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (85)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2936
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5318c269c72074596d1afe1677658a
+      internalID: -727694692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (86)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2936
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a12a189ff1365f47879f5171848ba8c
+      internalID: -408757038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (87)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2936
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496bf290c9d64224d88ee8562826e511
+      internalID: 1499761971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (88)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2936
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4466d29b48b2a84eba2e6ab65cc7c91
+      internalID: -517124524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (89)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2936
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb6fb202f4ca2947a11d3d9c3e0b2c2
+      internalID: -10325531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (9)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3926
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48e881215957fa4998e6131fa6338cb
+      internalID: 611480121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (90)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2936
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5550ccb5a5dd5f845aaf3dd313285d4e
+      internalID: 592014611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (91)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2936
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3955cab61fdea941aa84fe219d7fd5a
+      internalID: 1972993932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (92)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2846
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f63601679878146996da9ebb4e8731
+      internalID: -516881224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (93)
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2846
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f45ce639583a14ba990c6676a34b7d
+      internalID: 1286435061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (94)
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2846
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f555f9c8718d6489a2348e0f014dff
+      internalID: 1548774065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (95)
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2846
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1517beb0e1a7e140abccbf44b3de85f
+      internalID: -2105049149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (96)
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2846
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c706a01c294ad534cb34d3881460a2c1
+      internalID: 931954931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (97)
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2846
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382940e3fb8f94f418530a47de97ee6c
+      internalID: -497075064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (98)
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2846
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdc3a10ea6ffaf4d8daf349b4d53546
+      internalID: -778208159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_CommanderPoint (99)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2756
+        width: 532
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9266917, y: -13.271428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b04c4d7ea60bd44c93efc004b40afd4
+      internalID: -191801957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 11ce39e255aa3e641aa2b04389da47f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 8a1bb65807b66bf4d9f6597b0ce1caf7, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-P02_CommanderPoint (207): 283776362
+      Base-P02_CommanderPoint (125): -98477682
+      Base-P02_CommanderPoint (151): -954275288
+      Base-P02_CommanderPoint (144): -1224103549
+      Base-P02_CommanderPoint (95): -2105049149
+      Base-P02_CommanderPoint (176): -1945445159
+      Base-P02_CommanderPoint (108): 1026404705
+      Base-P02_CommanderPoint (172): 42534458
+      Base-P02_CommanderPoint (117): 367607973
+      Base-P02_CommanderPoint (13): 1562948625
+      Base-P02_CommanderPoint (226): 1855405253
+      Base-P02_CommanderPoint (15): 2072224920
+      Base-P02_CommanderPoint (159): 1469969252
+      Base-P02_CommanderPoint (185): -1354533215
+      Base-P02_CommanderPoint (118): 1546395066
+      Base-P02_CommanderPoint (129): 1264632749
+      Base-P02_CommanderPoint (190): -1176796734
+      Base-P02_CommanderPoint (233): 276737110
+      Base-P02_CommanderPoint (80): -1560709718
+      Base-P02_CommanderPoint (37): 760452985
+      Base-P02_CommanderPoint (27): 1016525037
+      Base-P02_CommanderPoint (202): -2029490382
+      Base-P02_CommanderPoint (154): -1449429494
+      Base-P02_CommanderPoint (156): -2084577176
+      Base-P02_CommanderPoint (110): -322001626
+      Base-P02_CommanderPoint (140): -721608228
+      Base-P02_CommanderPoint (179): 481867781
+      Base-P02_CommanderPoint (61): -1817833871
+      Base-P02_CommanderPoint (191): 318684965
+      Base-P02_CommanderPoint (153): -1100306570
+      Base-P02_CommanderPoint (36): 996571903
+      Base-P02_CommanderPoint (150): 1815485446
+      Base-P02_CommanderPoint (149): -1857972976
+      Base-P02_CommanderPoint (40): 1078420695
+      Base-P02_CommanderPoint (45): 1482570569
+      Base-P02_CommanderPoint (230): -786536346
+      Base-P02_CommanderPoint (128): 1084218186
+      Base-P02_CommanderPoint (196): -809378518
+      Base-P02_CommanderPoint (220): -1520794682
+      Base-P02_CommanderPoint (231): 1835193389
+      Base-P02_CommanderPoint (223): 1816821590
+      Base-P02_CommanderPoint (77): 1538914441
+      Base-P02_CommanderPoint (60): -2037784853
+      Base-P02_CommanderPoint (169): 2027393547
+      Base-P02_CommanderPoint (166): -175152651
+      Base-P02_CommanderPoint (12): 61522705
+      Base-P02_CommanderPoint (165): 255795738
+      Base-P02_CommanderPoint (162): -1204079661
+      Base-P02_CommanderPoint (142): 1636036900
+      Base-P02_CommanderPoint (219): -1357475370
+      Base-P02_CommanderPoint (81): 740234761
+      Base-P02_CommanderPoint (197): 1583687613
+      Base-P02_CommanderPoint (161): -88300150
+      Base-P02_CommanderPoint (49): -459099845
+      Base-P02_CommanderPoint (107): 745005940
+      Base-P02_CommanderPoint (127): -317603473
+      Base-P02_CommanderPoint (134): -1525940443
+      Base-P02_CommanderPoint (182): 54635350
+      Base-P02_CommanderPoint (204): 1381333999
+      Base-P02_CommanderPoint (168): 1664270035
+      Base-P02_CommanderPoint (222): -902434273
+      Base-P02_CommanderPoint (38): -812631169
+      Base-P02_CommanderPoint (28): -1744931388
+      Base-P02_CommanderPoint (200): -1569001464
+      Base-P02_CommanderPoint (201): -21639478
+      Base-P02_CommanderPoint (186): 1134023580
+      Base-P02_CommanderPoint (41): -101347753
+      Base-P02_CommanderPoint (73): 395068291
+      Base-P02_CommanderPoint (189): -584267642
+      Base-P02_CommanderPoint (46): -489274705
+      Base-P02_CommanderPoint (16): 1496398855
+      Base-P02_CommanderPoint (29): 1898301682
+      Base-P02_CommanderPoint (158): -241835026
+      Base-P02_CommanderPoint (192): 2115271583
+      Base-P02_CommanderPoint (78): 410334681
+      Base-P02_CommanderPoint (90): 592014611
+      Base-P02_CommanderPoint (2): -1598803354
+      Base-P02_CommanderPoint (64): -1922227634
+      Base-P02_CommanderPoint (87): 1499761971
+      Base-P02_CommanderPoint (123): 821943002
+      Base-P02_CommanderPoint (54): 1020301830
+      Base-P02_CommanderPoint (93): 1286435061
+      Base-P02_CommanderPoint (213): -579478464
+      Base-P02_CommanderPoint (119): 102738198
+      Base-P02_CommanderPoint (211): -1067667109
+      Base-P02_CommanderPoint (194): 2058154991
+      Base-P02_CommanderPoint (102): 62641135
+      Base-P02_CommanderPoint (34): -523897977
+      Base-P02_CommanderPoint (224): -1297443980
+      Base-P02_CommanderPoint (131): 246094053
+      Base-P02_CommanderPoint (39): -866615182
+      Base-P02_CommanderPoint (82): -506305982
+      Base-P02_CommanderPoint (227): -1493272434
+      Base-P02_CommanderPoint (96): 931954931
+      Base-P02_CommanderPoint (229): -427337647
+      Base-P02_CommanderPoint (188): -965168072
+      Base-P02_CommanderPoint (232): -1455801535
+      Base-P02_CommanderPoint (92): -516881224
+      Base-P02_CommanderPoint (104): -965761800
+      Base-P02_CommanderPoint (30): 1129539100
+      Base-P02_CommanderPoint (83): -55365038
+      Base-P02_CommanderPoint (210): -985885841
+      Base-P02_CommanderPoint (171): -254314135
+      Base-P02_CommanderPoint (217): 929988301
+      Base-P02_CommanderPoint (75): 183675865
+      Base-P02_CommanderPoint (221): 20480487
+      Base-P02_CommanderPoint (116): 1748283681
+      Base-P02_CommanderPoint (184): 1146794038
+      Base-P02_CommanderPoint (56): 70450856
+      Base-P02_CommanderPoint (19): -1544679078
+      Base-P02_CommanderPoint (50): 2035073369
+      Base-P02_CommanderPoint (143): -523600219
+      Base-P02_CommanderPoint (3): 1804198387
+      Base-P02_CommanderPoint (59): -155288487
+      Base-P02_CommanderPoint (88): -517124524
+      Base-P02_CommanderPoint (63): -100041013
+      Base-P02_CommanderPoint (72): 93826054
+      Base-P02_CommanderPoint (146): -1007669681
+      Base-P02_CommanderPoint (122): -1045600465
+      Base-P02_CommanderPoint (25): -1900958458
+      Base-P02_CommanderPoint (32): 2083909791
+      Base-P02_CommanderPoint (9): 611480121
+      Base-P02_CommanderPoint (17): -1930791728
+      Base-P02_CommanderPoint (86): -408757038
+      Base-P02_CommanderPoint (148): -1553129447
+      Base-P02_CommanderPoint (18): -1933953909
+      Base-P02_CommanderPoint (23): -1484893315
+      Base-P02_CommanderPoint (215): -1077963315
+      Base-P02_CommanderPoint (206): -1639224425
+      Base-P02_CommanderPoint (126): -1559331603
+      Base-P02_CommanderPoint (187): 895499522
+      Base-P02_CommanderPoint (111): 1955577835
+      Base-P02_CommanderPoint (157): 349236694
+      Base-P02_CommanderPoint (130): 2082850184
+      Base-P02_CommanderPoint (79): 1105438776
+      Base-P02_CommanderPoint (124): 1921465584
+      Base-P02_CommanderPoint (53): -2059767649
+      Base-P02_CommanderPoint (69): 793109838
+      Base-P02_CommanderPoint (235): -327595411
+      Base-P02_CommanderPoint (135): -904758533
+      Base-P02_CommanderPoint (89): -10325531
+      Base-P02_CommanderPoint (22): 1997112051
+      Base-P02_CommanderPoint (160): 213637953
+      Base-P02_CommanderPoint (48): -1104611550
+      Base-P02_CommanderPoint (26): -1941877496
+      Base-P02_CommanderPoint (67): -1027910695
+      Base-P02_CommanderPoint (52): 1598676523
+      Base-P02_CommanderPoint (137): 387970699
+      Base-P02_CommanderPoint (58): 1146074040
+      Base-P02_CommanderPoint (8): 1442178724
+      Base-P02_CommanderPoint (91): 1972993932
+      Base-P02_CommanderPoint (208): -110397766
+      Base-P02_CommanderPoint (20): -509249174
+      Base-P02_CommanderPoint (55): -501964655
+      Base-P02_CommanderPoint (109): 863399400
+      Base-P02_CommanderPoint (112): 1214737751
+      Base-P02_CommanderPoint (183): -1032838129
+      Base-P02_CommanderPoint (141): 391380970
+      Base-P02_CommanderPoint (114): 1038803317
+      Base-P02_CommanderPoint (216): -1753573707
+      Base-P02_CommanderPoint (113): 437104722
+      Base-P02_CommanderPoint (218): 502938138
+      Base-P02_CommanderPoint (199): 1947286766
+      Base-P02_CommanderPoint (51): -1253145497
+      Base-P02_CommanderPoint (212): -1492476355
+      Base-P02_CommanderPoint (203): -2143375672
+      Base-P02_CommanderPoint (193): 165017710
+      Base-P02_CommanderPoint (234): 747863671
+      Base-P02_CommanderPoint (1): 1550206705
+      Base-P02_CommanderPoint (132): -114057685
+      Base-P02_CommanderPoint (6): -1209275490
+      Base-P02_CommanderPoint (214): -810087464
+      Base-P02_CommanderPoint (225): -701436736
+      Base-P02_CommanderPoint (236): -1422953176
+      Base-P02_CommanderPoint (101): 1841918762
+      Base-P02_CommanderPoint (105): 1619012959
+      Base-P02_CommanderPoint (85): -727694692
+      Base-P02_CommanderPoint (100): 882094419
+      Base-P02_CommanderPoint (147): -255389543
+      Base-P02_CommanderPoint (177): -2147068082
+      Base-P02_CommanderPoint (121): -225754011
+      Base-P02_CommanderPoint (138): -1852955303
+      Base-P02_CommanderPoint (180): -1518905927
+      Base-P02_CommanderPoint (94): 1548774065
+      Base-P02_CommanderPoint (7): 583285930
+      Base-P02_CommanderPoint (145): -14380217
+      Base-P02_CommanderPoint (174): 1793124918
+      Base-P02_CommanderPoint (181): 1822545369
+      Base-P02_CommanderPoint (115): 2008629398
+      Base-P02_CommanderPoint (14): 1424465152
+      Base-P02_CommanderPoint (195): -541293578
+      Base-P02_CommanderPoint (167): 1817911313
+      Base-P02_CommanderPoint (65): -14409469
+      Base-P02_CommanderPoint (33): 1452527889
+      Base-P02_CommanderPoint (68): -1762248257
+      Base-P02_CommanderPoint (198): 1866576732
+      Base-P02_CommanderPoint (164): 1718743880
+      Base-P02_CommanderPoint (21): -1321290399
+      Base-P02_CommanderPoint (98): -778208159
+      Base-P02_CommanderPoint (47): -849489059
+      Base-P02_CommanderPoint (71): 1790224925
+      Base-P02_CommanderPoint (228): -1997266663
+      Base-P02_CommanderPoint (163): 1892701452
+      Base-P02_CommanderPoint (178): -1765429388
+      Base-P02_CommanderPoint (99): -191801957
+      Base-P02_CommanderPoint (175): -1685726651
+      Base-P02_CommanderPoint (42): 1640173022
+      Base-P02_CommanderPoint (31): 1043474292
+      Base-P02_CommanderPoint (103): 1672601667
+      Base-P02_CommanderPoint (120): -1427584676
+      Base-P02_CommanderPoint (76): -2019168494
+      Base-P02_CommanderPoint (44): -696158223
+      Base-P02_CommanderPoint (43): -120095331
+      Base-P02_CommanderPoint (10): 940638894
+      Base-P02_CommanderPoint (35): -689303385
+      Base-P02_CommanderPoint (4): 1233934341
+      Base-P02_CommanderPoint (70): 1608883773
+      Base-P02_CommanderPoint (11): -1400369862
+      Base-P02_CommanderPoint (209): -1762853214
+      Base-P02_CommanderPoint (136): 9366520
+      Base-P02_CommanderPoint (62): -1194788218
+      Base-P02_CommanderPoint (173): 2125078514
+      Base-P02_CommanderPoint (97): -497075064
+      Base-P02_CommanderPoint (74): -94592892
+      Base-P02_CommanderPoint (84): 1770223954
+      Base-P02_CommanderPoint (106): -1619897909
+      Base-P02_CommanderPoint (155): -1922350059
+      Base-P02_CommanderPoint (205): 655935373
+      Base-P02_CommanderPoint (139): 344108566
+      Base-P02_CommanderPoint (24): 1148813809
+      Base-P02_CommanderPoint (133): -1746235150
+      Base-P02_CommanderPoint (57): 45389478
+      Base-P02_CommanderPoint (170): -1427694163
+      Base-P02_CommanderPoint (66): 1401569858
+      Base-P02_CommanderPoint (5): 1839754021
+      Base-P02_CommanderPoint (152): 1656558658
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

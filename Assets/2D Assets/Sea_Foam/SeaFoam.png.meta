@@ -1,0 +1,7834 @@
+fileFormatVersion: 2
+guid: baf489b486528dc4390b7484c60d4f2a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seafoamcycle000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7683
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b46b637911b2441bfd61f3a5b9be1f
+      internalID: -425104454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle001
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 7683
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d91872e870e9a419476579c5cff236
+      internalID: 1721797740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle002
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 7683
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535300d27210af64295705b70646ab6f
+      internalID: 1870654076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle003
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 7683
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f486484a248e91e4fa40cfe4c691980a
+      internalID: 1768262166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle004
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 7683
+        width: 1452
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4752066, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3643e4379de06fd449f0f4e6b52ae9c6
+      internalID: -2118854543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle005
+      rect:
+        serializedVersion: 2
+        x: 7059
+        y: 7683
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9736786d6a267e44fa467c43f96c0c19
+      internalID: 412420855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle006
+      rect:
+        serializedVersion: 2
+        x: 8461
+        y: 7683
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd97df2895473488a970d35c5c0b4b
+      internalID: -1352186328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle007
+      rect:
+        serializedVersion: 2
+        x: 9863
+        y: 7683
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c5d829a09c1574296cf2c88ed413f6
+      internalID: 646033314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle008
+      rect:
+        serializedVersion: 2
+        x: 11265
+        y: 7683
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ab666b6771a4742bcd7b77da18bbaf
+      internalID: -400228574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle009
+      rect:
+        serializedVersion: 2
+        x: 12668
+        y: 7683
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fbb6c5b5d2969428b92c7a87e135dc
+      internalID: 1331295037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle010
+      rect:
+        serializedVersion: 2
+        x: 14070
+        y: 7683
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285651a90e7417a4e8175ffe69bc5185
+      internalID: -1947605734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c1fd4ef41fbab4cbd8e1aa602cd169
+      internalID: -1030677491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle012
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 7173
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a91b997860ee7f41b9acddecec9f52a
+      internalID: -1398746379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle013
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 7173
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03027ff6e3e4bc84e83d76cc9af50812
+      internalID: -1589210447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle014
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83f408e4024050459f7afab37d19bb8
+      internalID: 1090295788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle015
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 7173
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad19322a199e264d9a1bf87c0b58b61
+      internalID: 1923643099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle016
+      rect:
+        serializedVersion: 2
+        x: 7009
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cef06d344cbbe41a91ad4555e0b7c7
+      internalID: -172189168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle017
+      rect:
+        serializedVersion: 2
+        x: 8410
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794b27a5e9b0d394db2d910651cb666c
+      internalID: -309486199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle018
+      rect:
+        serializedVersion: 2
+        x: 9811
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1c833d3a37b9f42b738ea863d1c4bb
+      internalID: -29742112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle019
+      rect:
+        serializedVersion: 2
+        x: 11212
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da69d02de9f66de4ca5d4d72d6c4f70a
+      internalID: -1945477130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle020
+      rect:
+        serializedVersion: 2
+        x: 12613
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4ed499b1dc2a240bd460807ef34be9
+      internalID: -686586935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle021
+      rect:
+        serializedVersion: 2
+        x: 14014
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa776521418d98f41bd24dcf8bd50886
+      internalID: 197611850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6663
+        width: 1398
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49284694, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d81bd21dc9cd4ba22af3e7adeb3f5
+      internalID: 2078100112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle023
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 6663
+        width: 1398
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49284694, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c84f5a91fe0e49b5c98e8fd4182d6
+      internalID: 73263979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle024
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 6663
+        width: 1398
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49284694, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f816659969ed484d89b0222b7c406f5
+      internalID: -1309482796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle025
+      rect:
+        serializedVersion: 2
+        x: 4201
+        y: 6663
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec011dad2c12290498f5fbfa370a2ea0
+      internalID: 1863202362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle026
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 6663
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c126cbdda3a0d7409d57e4303e7af71
+      internalID: -997449830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle027
+      rect:
+        serializedVersion: 2
+        x: 7006
+        y: 6663
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd32a6cfe78d62545987e638af0c93a9
+      internalID: 270235593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle028
+      rect:
+        serializedVersion: 2
+        x: 8409
+        y: 6663
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a71308e59fdf498fafb0352303ad2
+      internalID: -1158676707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle029
+      rect:
+        serializedVersion: 2
+        x: 9812
+        y: 6663
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8e2bb9c5d394946bbe69d43db7e471
+      internalID: -992852450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle030
+      rect:
+        serializedVersion: 2
+        x: 11214
+        y: 6663
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20c60feb872de44f8f4d3782b180d2e
+      internalID: 1555885283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle031
+      rect:
+        serializedVersion: 2
+        x: 12616
+        y: 6663
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f0f5bf7ccd57046a3362570635f030
+      internalID: 722724994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle032
+      rect:
+        serializedVersion: 2
+        x: 14019
+        y: 6663
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec4d11585ed6ff46a3d1733bd4aac31
+      internalID: -1432721540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle033
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6153
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ba59fa9e857242aa0a4daa1535d56
+      internalID: -1628943698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle034
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 6153
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aa57365ba81cf4eaad4d113eec34d0
+      internalID: 2001092764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle035
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 6153
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2491996691b1e4fa38d4ce38077090
+      internalID: 1225471003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle036
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 6153
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32153c66a1ff059459029c7422a5c3db
+      internalID: 589323422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle037
+      rect:
+        serializedVersion: 2
+        x: 5611
+        y: 6153
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05730010f83ea44b9f9b07022705326
+      internalID: -1474180071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle038
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 6153
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaa480414ebe224c99e2342488883bf
+      internalID: -627203965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle039
+      rect:
+        serializedVersion: 2
+        x: 8415
+        y: 6153
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d16658c1b9111248bf70b87f3f784c7
+      internalID: 1933948243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle040
+      rect:
+        serializedVersion: 2
+        x: 9817
+        y: 6153
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda0cd4857403e2469076b0025480620
+      internalID: -1696991984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle041
+      rect:
+        serializedVersion: 2
+        x: 11218
+        y: 6153
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487a8314ce203194aac163dd338aa928
+      internalID: -1576567143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle042
+      rect:
+        serializedVersion: 2
+        x: 12619
+        y: 6153
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9b795051e9969459ae5d2151d4caf1
+      internalID: -1230487083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle043
+      rect:
+        serializedVersion: 2
+        x: 14021
+        y: 6153
+        width: 1420
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48591548, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7c3f0b939122f499c5d2a06cf9a1aa
+      internalID: -1420019023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle044
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5643
+        width: 1420
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48591548, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d3315fa8cfcff428f39bc477220eb2
+      internalID: -980739589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle045
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 5643
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c9e0d26066bc944911db4f2aadb59e
+      internalID: -387146921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle046
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1943bd126783345ab7866f606bd9ec
+      internalID: -2126559638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle047
+      rect:
+        serializedVersion: 2
+        x: 4226
+        y: 5643
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7415205835bd5478e688c929cd0b4e
+      internalID: -1117086317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle048
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d16c8b227f57644811397c0b03b975
+      internalID: -929578669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle049
+      rect:
+        serializedVersion: 2
+        x: 7029
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fec2540af41ac240a151ba789d44c81
+      internalID: 1225267682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle050
+      rect:
+        serializedVersion: 2
+        x: 8430
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23e41b7c6e114a4280f52eadd6e07e3
+      internalID: 653819920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle051
+      rect:
+        serializedVersion: 2
+        x: 9831
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a429ced5bbd336549a410fd2ea537f27
+      internalID: 184986418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle052
+      rect:
+        serializedVersion: 2
+        x: 11232
+        y: 5643
+        width: 1416
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48728815, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b9d1b367aa8474ba084313039b7329
+      internalID: 1901172110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle053
+      rect:
+        serializedVersion: 2
+        x: 12650
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7c09e8b15f0554f9745ae75f75087c
+      internalID: 1346052242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle054
+      rect:
+        serializedVersion: 2
+        x: 14051
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f3760c5f9f5af43b2531bdab50bae6
+      internalID: -339742647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle055
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f98ae0272ff5a544b3ab428b6fc6bff
+      internalID: 1053663753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle056
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6b935da6c9bd845a11b085b5f5ffae
+      internalID: 2052970289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle057
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3469bfb3d0e01b645a07c2770a7cee9d
+      internalID: 1545839803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle058
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf0f302e7d8cd84a9a13da171988ba6
+      internalID: -209738003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle059
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 5133
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822ef88037ffa01429babf208f953797
+      internalID: 623662641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle060
+      rect:
+        serializedVersion: 2
+        x: 7007
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83e106bd3852b54d90d17fdb143fa95
+      internalID: 661529933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle061
+      rect:
+        serializedVersion: 2
+        x: 8408
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999562c8f416ebe4aab1fc11de3d2cd1
+      internalID: -1375410971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle062
+      rect:
+        serializedVersion: 2
+        x: 9809
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2064ff11b76c045b5e0b3c7d18a870
+      internalID: 607755703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle063
+      rect:
+        serializedVersion: 2
+        x: 11210
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129cb01fcbb642940ad37db91f2a2f88
+      internalID: -79359704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle064
+      rect:
+        serializedVersion: 2
+        x: 12611
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ec9e0836410944bbe7e4256ac78a25
+      internalID: 454223933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle065
+      rect:
+        serializedVersion: 2
+        x: 14012
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8686deecdb5570f4ba351bef3630f287
+      internalID: 217763057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle066
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4623
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5118935bb537b0439ffb4740e3b2532
+      internalID: 349156898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle067
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 4623
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bfeaac722300643bf39277555277dd
+      internalID: 966204279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle068
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 4623
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c447842ff612904d8220c98402be789
+      internalID: 1249414392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle069
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 4623
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2696ab1349469a744a5ff58a42d7e5b3
+      internalID: -1893010002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle070
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 4623
+        width: 1396
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49212036, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890d3cf8528b59242a7e40c549eddcce
+      internalID: -149310965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle071
+      rect:
+        serializedVersion: 2
+        x: 7003
+        y: 4623
+        width: 1396
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49212036, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5631b571904ae247a31a667912c9f22
+      internalID: -372589884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle072
+      rect:
+        serializedVersion: 2
+        x: 8401
+        y: 4623
+        width: 1397
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49248388, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482e68a8de2862d4aaccaa8fd7c618c7
+      internalID: 883389726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle073
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 4623
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf208efe6795fe419a17a05fa8c876f
+      internalID: -787845007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle074
+      rect:
+        serializedVersion: 2
+        x: 11202
+        y: 4623
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db571ae1870108b4a90e25a03ab92b1e
+      internalID: -776099672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle075
+      rect:
+        serializedVersion: 2
+        x: 12604
+        y: 4623
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf8d75fbf1a1fa4583ad70193e5a4bc
+      internalID: -852299532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle076
+      rect:
+        serializedVersion: 2
+        x: 14006
+        y: 4623
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0e0786cdf6e644989e8135b1b821c3
+      internalID: -1273711696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle077
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4113
+        width: 1397
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49248388, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b739812cc40ed904a8e4933f24f7d503
+      internalID: 2020021371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle078
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4113
+        width: 1415
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48551238, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f72ae239d8aa64eae9c01706a3005f
+      internalID: 604510231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle079
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 4113
+        width: 1397
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49248388, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fcfd7fbe81c4948a932b5da0b21c6e
+      internalID: 311132553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle080
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 4113
+        width: 1396
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49212036, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58da0861168d08f40874645b37db87ad
+      internalID: -2070530605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle081
+      rect:
+        serializedVersion: 2
+        x: 5614
+        y: 4113
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a14637cc6892174e9dbb93424d50939
+      internalID: 909566912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle082
+      rect:
+        serializedVersion: 2
+        x: 7017
+        y: 4113
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c18f9014bbd26459a5810fa39c2bfd
+      internalID: -1156296638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle083
+      rect:
+        serializedVersion: 2
+        x: 8419
+        y: 4113
+        width: 1428
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48319328, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ced3c6a7d5ead84db84cd8bfdd47ffe
+      internalID: -1571547722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle084
+      rect:
+        serializedVersion: 2
+        x: 9849
+        y: 4113
+        width: 1428
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48319328, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190f17ac9b5aa874194ad793b2824ee1
+      internalID: -916406678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle085
+      rect:
+        serializedVersion: 2
+        x: 11279
+        y: 4113
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef442f1de8c8054fb644d6f4621bc01
+      internalID: 78699130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle086
+      rect:
+        serializedVersion: 2
+        x: 12680
+        y: 4113
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e57540fe8ff8e4eb70776687724160
+      internalID: 818294167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle087
+      rect:
+        serializedVersion: 2
+        x: 14081
+        y: 4113
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d25fca55a7dfa649be935ce33dd600a
+      internalID: 587177345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle088
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3603
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe322af5f6480af41b412f37b9e42407
+      internalID: 1730212370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle089
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 3603
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7249dd781b984e24999c4c1d76eeb0e9
+      internalID: 1072668920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle090
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 3603
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5da276a20e66e247b8640fefd59e835
+      internalID: -1846756873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle091
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 3603
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6af79136ca1004882263e541a0e3ee
+      internalID: -1956808436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle092
+      rect:
+        serializedVersion: 2
+        x: 5608
+        y: 3603
+        width: 1431
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4828791, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0714cecaa979448f0b21ec55d4fa8
+      internalID: -2105716140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle093
+      rect:
+        serializedVersion: 2
+        x: 7041
+        y: 3603
+        width: 1435
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4815331, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a22bae5c0d6be84eb12fc24a127dfc9
+      internalID: -557850770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle094
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 3603
+        width: 1431
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4821803, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61be7c33d8c818d4db4046dd445ee245
+      internalID: -1244885114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle095
+      rect:
+        serializedVersion: 2
+        x: 9911
+        y: 3603
+        width: 1436
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48119777, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78936f6081d214d40b14c15468ebdf5f
+      internalID: -365764755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle096
+      rect:
+        serializedVersion: 2
+        x: 11349
+        y: 3603
+        width: 1432
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4825419, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1827eb998e60d5140b35ec72b970e7de
+      internalID: 100139846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle097
+      rect:
+        serializedVersion: 2
+        x: 12783
+        y: 3603
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c82695b04ff144fae30f444fa56b1d
+      internalID: -2121341696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle098
+      rect:
+        serializedVersion: 2
+        x: 14185
+        y: 3603
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e68b33b7edaa40acb2b421daa44c7
+      internalID: -254024627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle099
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3093
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad789db66682774292885041e8a67a4
+      internalID: 1113355546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle100
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 3093
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1396382a0cbfb1c4a99a5de3cca3fb50
+      internalID: 1910272619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle101
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 3093
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db7f572e3089bb4ba1c5e06eb31fe13
+      internalID: 1865430385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle102
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 3093
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0c374f7301aa74eb770fe6212879b5
+      internalID: 1674567749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle103
+      rect:
+        serializedVersion: 2
+        x: 5608
+        y: 3093
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaf784b13c225046b871acc5d9859b3
+      internalID: -472590692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle104
+      rect:
+        serializedVersion: 2
+        x: 7009
+        y: 3093
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682f42c37f5d7f6468a6a89af41adaa6
+      internalID: -260372664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle105
+      rect:
+        serializedVersion: 2
+        x: 8410
+        y: 3093
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a09e422165c6aa46abd606cb65deaa8
+      internalID: 2125952561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle106
+      rect:
+        serializedVersion: 2
+        x: 9811
+        y: 3093
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89fa9b205bf6d64598194959aa23ef0
+      internalID: 473287769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle107
+      rect:
+        serializedVersion: 2
+        x: 11213
+        y: 3093
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9618c771c0c817040aa7a427b46f6608
+      internalID: 96416810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle108
+      rect:
+        serializedVersion: 2
+        x: 12618
+        y: 3093
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58f7da9d3707c743ad2ed9f81123ce6
+      internalID: -479805736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle109
+      rect:
+        serializedVersion: 2
+        x: 14020
+        y: 3093
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43897710a9cfd0745a36828722de71e0
+      internalID: -358601979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4dd1271c8a08e44be437365d230f58
+      internalID: 1036177558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle111
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60591c6d19b57f449b1200aa6c2a2a98
+      internalID: -94970460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle112
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771f3125f97d78d4c983770ba3b01026
+      internalID: 2109232002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle113
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acb874a8c446e8409af2223367a9a75
+      internalID: 416442168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle114
+      rect:
+        serializedVersion: 2
+        x: 5609
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee92b0d7b924f48aeb793106f4832b
+      internalID: 473267866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle115
+      rect:
+        serializedVersion: 2
+        x: 7011
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b57fe8a19b6734d8187756b71d4f3e
+      internalID: -612697079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle116
+      rect:
+        serializedVersion: 2
+        x: 8413
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f657f4669c938b4fb882eaa749d5e9e
+      internalID: 625747120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle117
+      rect:
+        serializedVersion: 2
+        x: 9815
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec3d86b5cf1f9949b848d15c1800861
+      internalID: 926605757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle118
+      rect:
+        serializedVersion: 2
+        x: 11217
+        y: 2583
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8116e62c8d7ee40a539e95ac25b8aa
+      internalID: 236091393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle119
+      rect:
+        serializedVersion: 2
+        x: 12621
+        y: 2583
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e59fee28bef345967b9eac5694767
+      internalID: -160748070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle120
+      rect:
+        serializedVersion: 2
+        x: 14025
+        y: 2583
+        width: 1429
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4856543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c5cf62ce180ed40b0dd12fc5f7d3e9
+      internalID: -2067833518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle121
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2073
+        width: 1428
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d79cfbfd5c4084992733eab92d5e76
+      internalID: 699238393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle122
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2073
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298fb40fba844a041a143a1b01f67cc2
+      internalID: -627065108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle123
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2073
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db33b9b4ae6d1a4599a3488e038deb4
+      internalID: 1052653183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle124
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 2073
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76e30be735fe834f9b9568c61343539
+      internalID: -582794759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle125
+      rect:
+        serializedVersion: 2
+        x: 5634
+        y: 2073
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d39b3af2d95214a8ad8eca0ee7a40e
+      internalID: -1704303980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle126
+      rect:
+        serializedVersion: 2
+        x: 7035
+        y: 2073
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63cfc6332732fd4fa89565bac840496
+      internalID: -1061152976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle127
+      rect:
+        serializedVersion: 2
+        x: 8436
+        y: 2073
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ee212b95b7ed3438ba25d4b5673308
+      internalID: -2064191492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle128
+      rect:
+        serializedVersion: 2
+        x: 9838
+        y: 2073
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8eed3213c1e8f4ebbdad003a283835
+      internalID: 1533099205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle129
+      rect:
+        serializedVersion: 2
+        x: 11242
+        y: 2073
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f88c7e66b51a440863158afbcb9742
+      internalID: 626723631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle130
+      rect:
+        serializedVersion: 2
+        x: 12646
+        y: 2073
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d97ed3a87d1174d9e6449f264c1ac1
+      internalID: 1399678497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle131
+      rect:
+        serializedVersion: 2
+        x: 14049
+        y: 2073
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfca58ec54984e247b84521e991a86f0
+      internalID: 1373986310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1563
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e383b07a48db79408351cbec9addeb8
+      internalID: 962679331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle133
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1563
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabab6785685d5d4a9e4977f6c3c3ca0
+      internalID: -1417138686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle134
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 1563
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c2b4214c54cb4e85442caf0294158
+      internalID: -2083492676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle135
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 1563
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff85d244dae9164ca97725bb195dccb
+      internalID: -513323531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle136
+      rect:
+        serializedVersion: 2
+        x: 5614
+        y: 1563
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb544ad94f196d349afa2f069c6678b6
+      internalID: 1306507943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle137
+      rect:
+        serializedVersion: 2
+        x: 7018
+        y: 1563
+        width: 1426
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48597476, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61757272bf947348bb13649a35a5e1b
+      internalID: 2099138118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle138
+      rect:
+        serializedVersion: 2
+        x: 8446
+        y: 1563
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ee5dbe4a30380418d49afa8d35986d
+      internalID: -2056493001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle139
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 1563
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9fbbf219a58d04fbfc1d7a1862119a
+      internalID: -1968456328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle140
+      rect:
+        serializedVersion: 2
+        x: 11255
+        y: 1563
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4076ac054c1f20848ac0ec7a1b9a1de1
+      internalID: -1417340407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle141
+      rect:
+        serializedVersion: 2
+        x: 12659
+        y: 1563
+        width: 1425
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48701754, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb86adcdb2c3e494eba5b11fd57b1155
+      internalID: 1068831599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle142
+      rect:
+        serializedVersion: 2
+        x: 14086
+        y: 1563
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2729b451ef56f6444a8fb9d6109e4feb
+      internalID: 1177949697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle143
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1053
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c20b3d40e2b8ab4e89503c7e99ecf50
+      internalID: -488915502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle144
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1053
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21962c0dbde96fd40acf79acf41418db
+      internalID: 170772598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle145
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 1053
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fdcc1910bb6354784dca3b7d169648
+      internalID: -1435874089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle146
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 1053
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef105f9efdafe0742a518ddd119eb3c1
+      internalID: -1782191990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle147
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1053
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4280fc5a00a42840bacfb1c6f07a655
+      internalID: 479907424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle148
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1053
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5cd42506b575a49aa87c9f820c956c
+      internalID: 273599689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle149
+      rect:
+        serializedVersion: 2
+        x: 8422
+        y: 1053
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fa2f482ff9c534e9a211052c40f7d3
+      internalID: -396158714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle150
+      rect:
+        serializedVersion: 2
+        x: 9824
+        y: 1053
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d23259d1c96ed42a1c31ae6da304fa
+      internalID: 1189933166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle151
+      rect:
+        serializedVersion: 2
+        x: 11227
+        y: 1053
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84ff10f2515ed41a69d2a76cef8a4e
+      internalID: 1263719757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle152
+      rect:
+        serializedVersion: 2
+        x: 12630
+        y: 1053
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba880a2505a5b0349a6a988fbc47af8c
+      internalID: -1804195751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle153
+      rect:
+        serializedVersion: 2
+        x: 14033
+        y: 1053
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3aeaa6f6260a14fb5ef81a0597f753
+      internalID: -754513470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle154
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 543
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d48d7a8dcf3b24589c448c7e36eb21
+      internalID: -1864362736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle155
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 543
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b327a69f9cf084ebc6cf523e9167f7
+      internalID: -464093951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle156
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 543
+        width: 1424
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48595506, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb49484462569642b68f8a51f71fab1
+      internalID: -1596731545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle157
+      rect:
+        serializedVersion: 2
+        x: 4235
+        y: 543
+        width: 1423
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48559383, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91295b9b87e96d74a8cab949cd17d6e5
+      internalID: -1816649941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle158
+      rect:
+        serializedVersion: 2
+        x: 5660
+        y: 543
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f276db6e233794d94014dff8cdcf68
+      internalID: -1869671214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle159
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 543
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fe3db1a932c9b4ea4d4263e8288a25
+      internalID: -884804585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle160
+      rect:
+        serializedVersion: 2
+        x: 8466
+        y: 543
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d394e5e80d1b2341ad52222b9f0601c
+      internalID: -1667715234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle161
+      rect:
+        serializedVersion: 2
+        x: 9867
+        y: 543
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035d96fc0eee3e4458f4bc14292bea1f
+      internalID: -2050428989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle162
+      rect:
+        serializedVersion: 2
+        x: 11269
+        y: 543
+        width: 1398
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49284694, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c98458dc807c499cf0cdd5ba87ad0
+      internalID: 798351813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle163
+      rect:
+        serializedVersion: 2
+        x: 12669
+        y: 543
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb8ce4d602ca614ea5f0923776a2b74
+      internalID: -1611399559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle164
+      rect:
+        serializedVersion: 2
+        x: 14071
+        y: 543
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49321914, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d733cf89ad34e0247ad12d1aeacd7fac
+      internalID: 1787673262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle165
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f311290ee2be77439aec35449342f24
+      internalID: 788450035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle166
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 33
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52257d8f6ff098849864f1c4fa5b1760
+      internalID: -1412223339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle167
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 33
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deaad85d72557846a43da214db7e72b
+      internalID: -1750093990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle168
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 33
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8003c27f369c84fa756097f8c57afb
+      internalID: 1813251726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle169
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 33
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f698fffd4bf37224293d7b234ed3c105
+      internalID: -553461759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle170
+      rect:
+        serializedVersion: 2
+        x: 7012
+        y: 33
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d123f6558dc57524ebf68372de9e26b8
+      internalID: 1332149274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle171
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 33
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eec1cb1cb9ef0d48aa8a5f6f930ce7b
+      internalID: 1785185323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle172
+      rect:
+        serializedVersion: 2
+        x: 9816
+        y: 33
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbfa1b388aad31499df0ec01b59af9d
+      internalID: 2004191730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle173
+      rect:
+        serializedVersion: 2
+        x: 11217
+        y: 33
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888abfb90317ecc4e890a4c86a7727b2
+      internalID: -120820392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle174
+      rect:
+        serializedVersion: 2
+        x: 12618
+        y: 33
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9733ef0fc9464148a44e18c9c35ddcc
+      internalID: -2114550185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle175
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7683
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d39fe8f76755b744a2ed33dc7c9e8fc
+      internalID: -379825743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle176
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 7683
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a61988b9c1dc44d9c237641f7690f0
+      internalID: -612108880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle177
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 7683
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf008fef4391dba4887ff9b6b86ee79e
+      internalID: 2010953168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle178
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 7683
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0763ca5d028814449b012e9dc30dcdc1
+      internalID: 1213020009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle179
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 7683
+        width: 1452
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4752066, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a7728315294de4482efd15f375462e
+      internalID: -1362999352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle180
+      rect:
+        serializedVersion: 2
+        x: 7059
+        y: 7683
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999edb76ddaf024aa4be3dc8ff98b65
+      internalID: -1844921472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle181
+      rect:
+        serializedVersion: 2
+        x: 8461
+        y: 7683
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de20bb7c8ed9b8e4bbfe42c1728de446
+      internalID: 280192249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle182
+      rect:
+        serializedVersion: 2
+        x: 9863
+        y: 7683
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf26fffc7eb8d54b9f747204d8647e4
+      internalID: -736676276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle183
+      rect:
+        serializedVersion: 2
+        x: 11265
+        y: 7683
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae38785924a2d9348a65b98a8f14e14c
+      internalID: -1457308144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle184
+      rect:
+        serializedVersion: 2
+        x: 12668
+        y: 7683
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f39f5c0646395444b6af6e015b834b0
+      internalID: -1120384442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle185
+      rect:
+        serializedVersion: 2
+        x: 14070
+        y: 7683
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea2b3f5301643c4088951a097452355
+      internalID: 1486149232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle186
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa427a977896044a91bd3f07d911013
+      internalID: -821729909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle187
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 7173
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568c42c810ca4f64f8655e3962656f06
+      internalID: 1943698245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle188
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 7173
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3754263634ba5f148b09f2682a031cdc
+      internalID: 503746094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle189
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de670748a6081fc49843ce5ba722859a
+      internalID: -519784628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle190
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 7173
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f8d7f283d131d40b077302c6c7cdad
+      internalID: 1889370387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle191
+      rect:
+        serializedVersion: 2
+        x: 7009
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f48c7cad00c3f04fabb8d323543aa08
+      internalID: -1044779776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle192
+      rect:
+        serializedVersion: 2
+        x: 8410
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d9f6b1ce5a3b4d987096938e6cb93
+      internalID: -741323709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle193
+      rect:
+        serializedVersion: 2
+        x: 9811
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e477e29945a79459b101ac9412608d
+      internalID: -1161093926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle194
+      rect:
+        serializedVersion: 2
+        x: 11212
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370540c0822262048b6e38188f4a430f
+      internalID: -957945161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle195
+      rect:
+        serializedVersion: 2
+        x: 12613
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9079f2ca8ee424192405c0580a8efc
+      internalID: 137963511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle196
+      rect:
+        serializedVersion: 2
+        x: 14014
+        y: 7173
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215819b1900a43d4dbc1e189b04cdd04
+      internalID: 768693369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle197
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6663
+        width: 1398
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49284694, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451158b3edd6ccc41b9e96525e4acaf2
+      internalID: -1848356254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle198
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 6663
+        width: 1398
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49284694, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307f0e051144f8943acfe33321ebc7ee
+      internalID: -694437269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle199
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 6663
+        width: 1398
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49284694, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c746dc20120f6f94eb3ecd1f7b093ab9
+      internalID: 1470083452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle200
+      rect:
+        serializedVersion: 2
+        x: 4201
+        y: 6663
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47d1f3fdaceccc4d9ca18ac947419ad
+      internalID: -1911131031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle201
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 6663
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d7b8d53be29ad409790f5f7a23b0e0
+      internalID: 1157639494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle202
+      rect:
+        serializedVersion: 2
+        x: 7006
+        y: 6663
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b68c2ae605d8c24b9f043833b4cf374
+      internalID: 1144050083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle203
+      rect:
+        serializedVersion: 2
+        x: 8409
+        y: 6663
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931c198c636106e49a5366890c0ed3f8
+      internalID: 36767814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle204
+      rect:
+        serializedVersion: 2
+        x: 9812
+        y: 6663
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22c0fa19335f84f9a398a49395b93b
+      internalID: 1076584579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle205
+      rect:
+        serializedVersion: 2
+        x: 11214
+        y: 6663
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f27c7eca9784a244b03a87fdc11e07f
+      internalID: 1029602710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle206
+      rect:
+        serializedVersion: 2
+        x: 12616
+        y: 6663
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7f5d868a738a54ba91039b4f9b4e2b
+      internalID: 288180769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle207
+      rect:
+        serializedVersion: 2
+        x: 14019
+        y: 6663
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7773e3ade46ec2b4d9f2d2e8b7b054a3
+      internalID: 1015156503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle208
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6153
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6cb8fc26040c2489ad40865ca43eda
+      internalID: -1975594992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle209
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 6153
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7105d041f1d7844b14bfd180dfd268
+      internalID: -1086228454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle210
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 6153
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bc3b272fb8a444fb0ac91f2c362fa3
+      internalID: -1064901661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle211
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 6153
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a750635f13479de458858b69917776de
+      internalID: 692915619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle212
+      rect:
+        serializedVersion: 2
+        x: 5611
+        y: 6153
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce5d9afb290c374f9babc6c8342faf4
+      internalID: 420352893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle213
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 6153
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba877df9f5aebe9448f9257823e5f430
+      internalID: -82769514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle214
+      rect:
+        serializedVersion: 2
+        x: 8415
+        y: 6153
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a11f36f052d6c04a9155810ed5946d9
+      internalID: 1579524793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle215
+      rect:
+        serializedVersion: 2
+        x: 9817
+        y: 6153
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9618ce02fdc8f499dd01c5308e1ac8
+      internalID: 1754519918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle216
+      rect:
+        serializedVersion: 2
+        x: 11218
+        y: 6153
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5376072c1de73f43b9f0ffce4c2002d
+      internalID: -1889775601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle217
+      rect:
+        serializedVersion: 2
+        x: 12619
+        y: 6153
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c30a3e175788e428202e5c6a1acdfe
+      internalID: -1724604547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle218
+      rect:
+        serializedVersion: 2
+        x: 14021
+        y: 6153
+        width: 1420
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48591548, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90a6d6e6035a0d4789b8b44919ec416
+      internalID: 1082389826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle219
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5643
+        width: 1420
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48591548, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd91166edd7824f4894519218e63397b
+      internalID: 223988670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle220
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 5643
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0b0f0f70515af4e96747824ab95d54
+      internalID: 1709280949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle221
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3633a95f8f2d5be4faedf04b288cf832
+      internalID: -1518098898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle222
+      rect:
+        serializedVersion: 2
+        x: 4226
+        y: 5643
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43dd89a4c1e84a4fb0dd9e44d4dfe93
+      internalID: -179092593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle223
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b5244ea6b9a3499af5a7b545ac6e0
+      internalID: 321615863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle224
+      rect:
+        serializedVersion: 2
+        x: 7029
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fe0a0ad976a3242853a999dcec3ebb
+      internalID: -678689123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle225
+      rect:
+        serializedVersion: 2
+        x: 8430
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194322e4cda648d47b3badb859fb3c4b
+      internalID: -187231641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle226
+      rect:
+        serializedVersion: 2
+        x: 9831
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4972d47f8531b9e4b83b3146c0e9b563
+      internalID: 1356827639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle227
+      rect:
+        serializedVersion: 2
+        x: 11232
+        y: 5643
+        width: 1416
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48728815, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7887f7ca80b2ab418f2d9caaa2e3c18
+      internalID: -1213693606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle228
+      rect:
+        serializedVersion: 2
+        x: 12650
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86967cf7e90b9a448d4149895e71609
+      internalID: 2093433528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle229
+      rect:
+        serializedVersion: 2
+        x: 14051
+        y: 5643
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2477ac786a2646469f5fb681de267e1
+      internalID: 1121640622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle230
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8ace2d8f52d084d9048c986adfbeb1
+      internalID: 1879094828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle231
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7b11de999e62643b685751d6e5b8f9
+      internalID: 186174771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle232
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a988d0172d1bba74da841bb522a2f098
+      internalID: -872953493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle233
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5100f745d8751274f9d46768c270ca98
+      internalID: 707178747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle234
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 5133
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24991ed2aaaf7a54d9a9840fc9eb3319
+      internalID: 1872438741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle235
+      rect:
+        serializedVersion: 2
+        x: 7007
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b9ef34537bc3248afff42cddb16061
+      internalID: -878495095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle236
+      rect:
+        serializedVersion: 2
+        x: 8408
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177b3cdbb5a6624d9a94b57bd233eff
+      internalID: -1323660060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle237
+      rect:
+        serializedVersion: 2
+        x: 9809
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4609ae321dd8a41a5428f29634d91b
+      internalID: -1785950133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle238
+      rect:
+        serializedVersion: 2
+        x: 11210
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add21a2c8a759474a8c73ef6c20a4c13
+      internalID: -2021613388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle239
+      rect:
+        serializedVersion: 2
+        x: 12611
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f13baa7d2f8f647998e141121ec883
+      internalID: -1235331715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle240
+      rect:
+        serializedVersion: 2
+        x: 14012
+        y: 5133
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46b4ac5e15a4cd42ac665ac3276e35b
+      internalID: -690703178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle241
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4623
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a56999bf975df43b04d69fade0028d
+      internalID: -2019647818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle242
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 4623
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ab9edc38ce8414ca49d21ad4d9ce6f
+      internalID: -1732264988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle243
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 4623
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fe7e322b1ba6f40a6ee692c3e140a4
+      internalID: -425190594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle244
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 4623
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3523356a63405545b72037e3f023d4f
+      internalID: 12942119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle245
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 4623
+        width: 1396
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49212036, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96e9659092e4ed47a1df662745a54ab
+      internalID: -1231941869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle246
+      rect:
+        serializedVersion: 2
+        x: 7003
+        y: 4623
+        width: 1396
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49212036, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4978a5de610c387418c4333a207b9757
+      internalID: -1556318867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle247
+      rect:
+        serializedVersion: 2
+        x: 8401
+        y: 4623
+        width: 1397
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49248388, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca56fa7bf2245ce4cb0e1c888f934905
+      internalID: 1105548727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle248
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 4623
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36935bef75927a844a9eee79a32105ed
+      internalID: 2096879262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle249
+      rect:
+        serializedVersion: 2
+        x: 11202
+        y: 4623
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cebc96b2cd67842b73e95d31919296
+      internalID: -608487940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle250
+      rect:
+        serializedVersion: 2
+        x: 12604
+        y: 4623
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f060f86effb5ca48b4e9f6d0a8f583c
+      internalID: 1978946168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle251
+      rect:
+        serializedVersion: 2
+        x: 14006
+        y: 4623
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e190efb11a1057249976abee29f1b9eb
+      internalID: 79308008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle252
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4113
+        width: 1397
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49248388, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f374c58a221e447a99902f736906c7
+      internalID: 2116886990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle253
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4113
+        width: 1415
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48551238, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fe937e3756f6e4691a8a65383e62f5
+      internalID: 553558844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle254
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 4113
+        width: 1397
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49248388, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5413ad6d681bf94da30ded53b93ab1f
+      internalID: -1565183755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle255
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 4113
+        width: 1396
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49212036, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ce99909fa8934fa357b964573a306
+      internalID: 1602676128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle256
+      rect:
+        serializedVersion: 2
+        x: 5614
+        y: 4113
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f7b9c11e56c5f41be2ba8361e50e80
+      internalID: 1554808321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle257
+      rect:
+        serializedVersion: 2
+        x: 7017
+        y: 4113
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67e6182f830b5b4186b4d69267715af
+      internalID: 1439705103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle258
+      rect:
+        serializedVersion: 2
+        x: 8419
+        y: 4113
+        width: 1428
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48319328, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdab4eb5de341f49b0f79ce41f4eac4
+      internalID: -1652782209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle259
+      rect:
+        serializedVersion: 2
+        x: 9849
+        y: 4113
+        width: 1428
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48319328, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc04132521b6b148a44a68c66a4e8c7
+      internalID: -1821025303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle260
+      rect:
+        serializedVersion: 2
+        x: 11279
+        y: 4113
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d53c3498278894e97be8fccf39781a
+      internalID: -439111209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle261
+      rect:
+        serializedVersion: 2
+        x: 12680
+        y: 4113
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32e9767833ec7240a030c2b4328a07d
+      internalID: -2127020515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle262
+      rect:
+        serializedVersion: 2
+        x: 14081
+        y: 4113
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d397dd6989e7fc047ac8ddb1d59845db
+      internalID: -1680927105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle263
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3603
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d93480e5506ade4cab0ddd76f774a5e
+      internalID: -1375035710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle264
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 3603
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d523b6a73a6eb46bc8ffae185ac8e3
+      internalID: -2033662260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle265
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 3603
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21182b1c280b3a4a97da18cd1e7ad9e
+      internalID: -1517640555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle266
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 3603
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ca6f7ab623de2468a0ab6997434a98
+      internalID: 1305517262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle267
+      rect:
+        serializedVersion: 2
+        x: 5608
+        y: 3603
+        width: 1431
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4828791, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875a864fa8365a4449842b6eddb4c5d8
+      internalID: 1811634235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle268
+      rect:
+        serializedVersion: 2
+        x: 7041
+        y: 3603
+        width: 1435
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4815331, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6913e7fbe4e24014690a0d483c02abc2
+      internalID: 772712077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle269
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 3603
+        width: 1431
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4821803, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3d4318e47dfb04aaa5db61388717bb
+      internalID: -1012316707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle270
+      rect:
+        serializedVersion: 2
+        x: 9911
+        y: 3603
+        width: 1436
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48119777, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f87c8825ca62b946b005f5af4e5723f
+      internalID: -2047169670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle271
+      rect:
+        serializedVersion: 2
+        x: 11349
+        y: 3603
+        width: 1432
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4825419, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92b4655fca9ed24f9287325837215e1
+      internalID: 1365441851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle272
+      rect:
+        serializedVersion: 2
+        x: 12783
+        y: 3603
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c1d899c33882641b8f60e79aeb8295
+      internalID: 1386346121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle273
+      rect:
+        serializedVersion: 2
+        x: 14185
+        y: 3603
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee04080ee79b9dd41bd1a4f599406978
+      internalID: -544570692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle274
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3093
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db9145cde55aa34da51d7bf4d9e5f06
+      internalID: 1580189613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle275
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 3093
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83aaace7295f8349aeb3a9432b6d8fb
+      internalID: 2137993031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle276
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 3093
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed68be4ac570fc40a9ea7471a0c5caa
+      internalID: 541864881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle277
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 3093
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1499be3b99e11fd43916c44ff2348fe9
+      internalID: -484259260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle278
+      rect:
+        serializedVersion: 2
+        x: 5608
+        y: 3093
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc33556320c4d98488d646c388204d40
+      internalID: -2106569399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle279
+      rect:
+        serializedVersion: 2
+        x: 7009
+        y: 3093
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b2d241422549b48b07ef57e72cbdfd
+      internalID: 1766809788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle280
+      rect:
+        serializedVersion: 2
+        x: 8410
+        y: 3093
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d7448ee1ba5e040963dcc686866c01
+      internalID: 760865607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle281
+      rect:
+        serializedVersion: 2
+        x: 9811
+        y: 3093
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c4284e7cb84b34ba402d523effc7e6
+      internalID: 1232627937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle282
+      rect:
+        serializedVersion: 2
+        x: 11213
+        y: 3093
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb4e799d7ecb7846a49861c2a5d1dfc
+      internalID: 1449903306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle283
+      rect:
+        serializedVersion: 2
+        x: 12618
+        y: 3093
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7bafac21f863744887af8f6d155990
+      internalID: -1326565551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle284
+      rect:
+        serializedVersion: 2
+        x: 14020
+        y: 3093
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7d0edf32f830541a665c1c4a7fa146
+      internalID: -1811885544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle285
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbd798bc24b7b543ae69df175235eac
+      internalID: -656382024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle286
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994fc54d81f952d4e8d24cd6eaf6656b
+      internalID: -14703259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle287
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d76ed5481395340bbc0d41ecb7a494
+      internalID: 1427604898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle288
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2334fedda3551ac46bd1cda8f79a429b
+      internalID: -460134927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle289
+      rect:
+        serializedVersion: 2
+        x: 5609
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af948edeae629d4d9c9768221277e71
+      internalID: 38598120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle290
+      rect:
+        serializedVersion: 2
+        x: 7011
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2edc2ea5affad43b4b6908693a397e
+      internalID: -465309897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle291
+      rect:
+        serializedVersion: 2
+        x: 8413
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca68f52a877f80542825572c7f1bfa8c
+      internalID: -1731180791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle292
+      rect:
+        serializedVersion: 2
+        x: 9815
+        y: 2583
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5261eeeea88b83f419d7143849102c0e
+      internalID: 337728114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle293
+      rect:
+        serializedVersion: 2
+        x: 11217
+        y: 2583
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dd21473c1116e4aafaca66818c0cf3
+      internalID: 1523098480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle294
+      rect:
+        serializedVersion: 2
+        x: 12621
+        y: 2583
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c39f8885c60244da0064a3d2946f91
+      internalID: 51477626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle295
+      rect:
+        serializedVersion: 2
+        x: 14025
+        y: 2583
+        width: 1429
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4856543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52daddebd4fa5c945a850052481dcf72
+      internalID: -571576383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle296
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2073
+        width: 1428
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4852941, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c097ec3c1904a41b52d5a2d757efe0
+      internalID: 1657037101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle297
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2073
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5ccbfaa3ce130428217db08b606540
+      internalID: -1184347562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle298
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2073
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0e430a88588bb468e4a03c6c62c260
+      internalID: 711508631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle299
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 2073
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf9ab69be22ee2419b4d120b36a3181
+      internalID: -1073475185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle300
+      rect:
+        serializedVersion: 2
+        x: 5634
+        y: 2073
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4c857969472d049ae0e526148eb4f8
+      internalID: -546045531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle301
+      rect:
+        serializedVersion: 2
+        x: 7035
+        y: 2073
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf757dd922b87b9459b6538c13c4fdf7
+      internalID: 571686678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle302
+      rect:
+        serializedVersion: 2
+        x: 8436
+        y: 2073
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5518e17d6ccf3af42ae3cf89f168681e
+      internalID: -1546437398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle303
+      rect:
+        serializedVersion: 2
+        x: 9838
+        y: 2073
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d06a53daaf24a408431a8d22486442
+      internalID: 1673016229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle304
+      rect:
+        serializedVersion: 2
+        x: 11242
+        y: 2073
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b490003dc0b8e254e9d91894a4289bea
+      internalID: -670202385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle305
+      rect:
+        serializedVersion: 2
+        x: 12646
+        y: 2073
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc27c483a96fc347be7c43f41384cf0
+      internalID: -1325425554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle306
+      rect:
+        serializedVersion: 2
+        x: 14049
+        y: 2073
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e736c3a5ac63f42be56a92d9cadab6
+      internalID: -1524279350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle307
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1563
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1699c9ed546f8e347ad28b5dd32ed36e
+      internalID: 767349598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle308
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1563
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a7a89714f109c48ac7f9da89a006b5
+      internalID: 1377944212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle309
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 1563
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6940ce9d4f7d743895e56fec1596bb
+      internalID: -1819746635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle310
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 1563
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3be15bf38954d4a9364e58b8b914d9
+      internalID: -263695665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle311
+      rect:
+        serializedVersion: 2
+        x: 5614
+        y: 1563
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392939f920718e94990de8bf7404ae64
+      internalID: -143255025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle312
+      rect:
+        serializedVersion: 2
+        x: 7018
+        y: 1563
+        width: 1426
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48597476, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483f77bc780924c4fb1d517133540fb1
+      internalID: -223049029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle313
+      rect:
+        serializedVersion: 2
+        x: 8446
+        y: 1563
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd01d5e4867d8c244a56aa544e111c08
+      internalID: 1613308673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle314
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 1563
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d4bb8eb0daad47be1ab00ed448ded
+      internalID: -92242030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle315
+      rect:
+        serializedVersion: 2
+        x: 11255
+        y: 1563
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a358cbac9ac75e4bb54ecffa7acdc86
+      internalID: -54633094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle316
+      rect:
+        serializedVersion: 2
+        x: 12659
+        y: 1563
+        width: 1425
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48701754, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39689341798258e48a3a57bff0548b6c
+      internalID: -1694636889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle317
+      rect:
+        serializedVersion: 2
+        x: 14086
+        y: 1563
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf84dc3c9e15e3147a615b7e370690cd
+      internalID: 1637984470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle318
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1053
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad981b1aee123584494ced7f195576ff
+      internalID: -1084559895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle319
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1053
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15daecdd7e59e8a4580bfa21c2c2b65a
+      internalID: -934272025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle320
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 1053
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac8cfdc0b9112640b656311601e1ea4
+      internalID: -420662407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle321
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 1053
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059f3e5d96e22e9499544ea4447ec3fc
+      internalID: 1842101064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle322
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1053
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e606188e565c248b86e8f4ef056a8f
+      internalID: 992130400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle323
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 1053
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5660cc362980e4faee7508729391fa
+      internalID: 1220371432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle324
+      rect:
+        serializedVersion: 2
+        x: 8422
+        y: 1053
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14b309a5162d8a4fbc28d5a0c9d4189
+      internalID: 1224148840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle325
+      rect:
+        serializedVersion: 2
+        x: 9824
+        y: 1053
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c3a333b518785469275a46e0bf117d
+      internalID: -1857777159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle326
+      rect:
+        serializedVersion: 2
+        x: 11227
+        y: 1053
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c734ff6a19e1742468fd2d6626e90ca6
+      internalID: -1217958959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle327
+      rect:
+        serializedVersion: 2
+        x: 12630
+        y: 1053
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16b9304f5ca9bf4d8eaf517c264c827
+      internalID: -965194965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle328
+      rect:
+        serializedVersion: 2
+        x: 14033
+        y: 1053
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e9204aa3610174a978a0f8a585a04b
+      internalID: 1635047193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle329
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 543
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97e9cc0443b25c4aa26090817267f40
+      internalID: -754991616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle330
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 543
+        width: 1403
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4946543, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac0a014b007fe446b13e6bf3f5522df
+      internalID: 739035779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle331
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 543
+        width: 1424
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48595506, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1508610d4846d9949aa096e1703d1c80
+      internalID: -1374173317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle332
+      rect:
+        serializedVersion: 2
+        x: 4235
+        y: 543
+        width: 1423
+        height: 508
+      alignment: 9
+      pivot: {x: 0.48559383, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869278623c3451740909032bc4801f04
+      internalID: 613032031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle333
+      rect:
+        serializedVersion: 2
+        x: 5660
+        y: 543
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7485207d4d7c644b490f3acf04793a
+      internalID: 845223726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle334
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 543
+        width: 1402
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49429387, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972213ef9a9906846ab2f26126a98b4c
+      internalID: -1262739312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle335
+      rect:
+        serializedVersion: 2
+        x: 8466
+        y: 543
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e16139571e4b4e888220ed089af14
+      internalID: -2085387416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle336
+      rect:
+        serializedVersion: 2
+        x: 9867
+        y: 543
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36789c81ad4498d499451b780e7dffa6
+      internalID: 1217752000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle337
+      rect:
+        serializedVersion: 2
+        x: 11269
+        y: 543
+        width: 1398
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49284694, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff9d92337b680439de6a86d8dc361c
+      internalID: 731046098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle338
+      rect:
+        serializedVersion: 2
+        x: 12669
+        y: 543
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d770e9d4ef31a4191ecc115b4df94c
+      internalID: -1820668429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle339
+      rect:
+        serializedVersion: 2
+        x: 14071
+        y: 543
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49321914, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7820d0209a2e9a94199eb3cdfd2e1de8
+      internalID: -110135744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle340
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 1401
+        height: 508
+      alignment: 9
+      pivot: {x: 0.4939329, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2517e41dc666252449fbe7ac2c3eb7e0
+      internalID: 1661572752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle341
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 33
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca19035dc305e447a1242c93d64e1ae
+      internalID: -422558747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle342
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 33
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972823f1c58372f4f8b771fdc4c9caa5
+      internalID: 1530899438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle343
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 33
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6705f3442a18934c9f80f64ccb92083
+      internalID: 2048692695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle344
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 33
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb604e8fc3c2e74fa722caf845dd6ea
+      internalID: 2071518054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle345
+      rect:
+        serializedVersion: 2
+        x: 7012
+        y: 33
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7985129976af934d9df18fcaf0f73c5
+      internalID: -1307822067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle346
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 33
+        width: 1400
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49357143, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3975663f8bdf294e90693a57c1671ae
+      internalID: -638025299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle347
+      rect:
+        serializedVersion: 2
+        x: 9816
+        y: 33
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5be57f0f2ab7db4eb84cedd2a4521f4
+      internalID: 1869125607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle348
+      rect:
+        serializedVersion: 2
+        x: 11217
+        y: 33
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caac2e7132b6f644ba85091ee30ce86
+      internalID: -1398297803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamcycle349
+      rect:
+        serializedVersion: 2
+        x: 12618
+        y: 33
+        width: 1399
+        height: 508
+      alignment: 9
+      pivot: {x: 0.49320942, y: 0.93700784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cee6ad4b96ede40a6ad4be3c34fdd5
+      internalID: 329638884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c3e23b66a0d6a5c42af4bd2799e89727
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      seafoamcycle196: 768693369
+      seafoamcycle220: 1709280949
+      seafoamcycle074: -776099672
+      seafoamcycle019: -1945477130
+      seafoamcycle005: 412420855
+      seafoamcycle016: -172189168
+      seafoamcycle185: 1486149232
+      seafoamcycle219: 223988670
+      seafoamcycle248: 2096879262
+      seafoamcycle195: 137963511
+      seafoamcycle306: -1524279350
+      seafoamcycle289: 38598120
+      seafoamcycle246: -1556318867
+      seafoamcycle027: 270235593
+      seafoamcycle153: -754513470
+      seafoamcycle208: -1975594992
+      seafoamcycle026: -997449830
+      seafoamcycle311: -143255025
+      seafoamcycle072: 883389726
+      seafoamcycle036: 589323422
+      seafoamcycle295: -571576383
+      seafoamcycle323: 1220371432
+      seafoamcycle110: 1036177558
+      seafoamcycle260: -439111209
+      seafoamcycle312: -223049029
+      seafoamcycle090: -1846756873
+      seafoamcycle095: -365764755
+      seafoamcycle173: -120820392
+      seafoamcycle106: 473287769
+      seafoamcycle203: 36767814
+      seafoamcycle122: -627065108
+      seafoamcycle136: 1306507943
+      seafoamcycle089: 1072668920
+      seafoamcycle256: 1554808321
+      seafoamcycle030: 1555885283
+      seafoamcycle130: 1399678497
+      seafoamcycle335: -2085387416
+      seafoamcycle297: -1184347562
+      seafoamcycle126: -1061152976
+      seafoamcycle139: -1968456328
+      seafoamcycle326: -1217958959
+      seafoamcycle332: 613032031
+      seafoamcycle120: -2067833518
+      seafoamcycle129: 626723631
+      seafoamcycle314: -92242030
+      seafoamcycle091: -1956808436
+      seafoamcycle194: -957945161
+      seafoamcycle034: 2001092764
+      seafoamcycle052: 1901172110
+      seafoamcycle247: 1105548727
+      seafoamcycle143: -488915502
+      seafoamcycle281: 1232627937
+      seafoamcycle168: 1813251726
+      seafoamcycle304: -670202385
+      seafoamcycle257: 1439705103
+      seafoamcycle002: 1870654076
+      seafoamcycle086: 818294167
+      seafoamcycle115: -612697079
+      seafoamcycle013: -1589210447
+      seafoamcycle117: 926605757
+      seafoamcycle344: 2071518054
+      seafoamcycle039: 1933948243
+      seafoamcycle069: -1893010002
+      seafoamcycle169: -553461759
+      seafoamcycle121: 699238393
+      seafoamcycle163: -1611399559
+      seafoamcycle224: -678689123
+      seafoamcycle175: -379825743
+      seafoamcycle038: -627203965
+      seafoamcycle211: 692915619
+      seafoamcycle045: -387146921
+      seafoamcycle324: 1224148840
+      seafoamcycle096: 100139846
+      seafoamcycle329: -754991616
+      seafoamcycle343: 2048692695
+      seafoamcycle347: 1869125607
+      seafoamcycle201: 1157639494
+      seafoamcycle135: -513323531
+      seafoamcycle309: -1819746635
+      seafoamcycle154: -1864362736
+      seafoamcycle235: -878495095
+      seafoamcycle085: 78699130
+      seafoamcycle046: -2126559638
+      seafoamcycle184: -1120384442
+      seafoamcycle226: 1356827639
+      seafoamcycle296: 1657037101
+      seafoamcycle101: 1865430385
+      seafoamcycle109: -358601979
+      seafoamcycle267: 1811634235
+      seafoamcycle193: -1161093926
+      seafoamcycle283: -1326565551
+      seafoamcycle111: -94970460
+      seafoamcycle178: 1213020009
+      seafoamcycle217: -1724604547
+      seafoamcycle132: 962679331
+      seafoamcycle278: -2106569399
+      seafoamcycle263: -1375035710
+      seafoamcycle268: 772712077
+      seafoamcycle054: -339742647
+      seafoamcycle290: -465309897
+      seafoamcycle082: -1156296638
+      seafoamcycle276: 541864881
+      seafoamcycle028: -1158676707
+      seafoamcycle092: -2105716140
+      seafoamcycle213: -82769514
+      seafoamcycle042: -1230487083
+      seafoamcycle341: -422558747
+      seafoamcycle342: 1530899438
+      seafoamcycle080: -2070530605
+      seafoamcycle294: 51477626
+      seafoamcycle127: -2064191492
+      seafoamcycle112: 2109232002
+      seafoamcycle225: -187231641
+      seafoamcycle274: 1580189613
+      seafoamcycle157: -1816649941
+      seafoamcycle210: -1064901661
+      seafoamcycle298: 711508631
+      seafoamcycle100: 1910272619
+      seafoamcycle261: -2127020515
+      seafoamcycle345: -1307822067
+      seafoamcycle105: 2125952561
+      seafoamcycle207: 1015156503
+      seafoamcycle083: -1571547722
+      seafoamcycle103: -472590692
+      seafoamcycle191: -1044779776
+      seafoamcycle251: 79308008
+      seafoamcycle333: 845223726
+      seafoamcycle078: 604510231
+      seafoamcycle081: 909566912
+      seafoamcycle245: -1231941869
+      seafoamcycle007: 646033314
+      seafoamcycle165: 788450035
+      seafoamcycle066: 349156898
+      seafoamcycle025: 1863202362
+      seafoamcycle161: -2050428989
+      seafoamcycle018: -29742112
+      seafoamcycle258: -1652782209
+      seafoamcycle024: -1309482796
+      seafoamcycle009: 1331295037
+      seafoamcycle244: 12942119
+      seafoamcycle241: -2019647818
+      seafoamcycle238: -2021613388
+      seafoamcycle003: 1768262166
+      seafoamcycle064: 454223933
+      seafoamcycle317: 1637984470
+      seafoamcycle205: 1029602710
+      seafoamcycle222: -179092593
+      seafoamcycle017: -309486199
+      seafoamcycle073: -787845007
+      seafoamcycle240: -690703178
+      seafoamcycle156: -1596731545
+      seafoamcycle259: -1821025303
+      seafoamcycle231: 186174771
+      seafoamcycle234: 1872438741
+      seafoamcycle216: -1889775601
+      seafoamcycle272: 1386346121
+      seafoamcycle128: 1533099205
+      seafoamcycle040: -1696991984
+      seafoamcycle348: -1398297803
+      seafoamcycle133: -1417138686
+      seafoamcycle319: -934272025
+      seafoamcycle250: 1978946168
+      seafoamcycle186: -821729909
+      seafoamcycle321: 1842101064
+      seafoamcycle159: -884804585
+      seafoamcycle172: 2004191730
+      seafoamcycle188: 503746094
+      seafoamcycle300: -546045531
+      seafoamcycle146: -1782191990
+      seafoamcycle043: -1420019023
+      seafoamcycle113: 416442168
+      seafoamcycle318: -1084559895
+      seafoamcycle291: -1731180791
+      seafoamcycle212: 420352893
+      seafoamcycle048: -929578669
+      seafoamcycle293: 1523098480
+      seafoamcycle134: -2083492676
+      seafoamcycle174: -2114550185
+      seafoamcycle053: 1346052242
+      seafoamcycle097: -2121341696
+      seafoamcycle006: -1352186328
+      seafoamcycle179: -1362999352
+      seafoamcycle264: -2033662260
+      seafoamcycle299: -1073475185
+      seafoamcycle223: 321615863
+      seafoamcycle214: 1579524793
+      seafoamcycle140: -1417340407
+      seafoamcycle144: 170772598
+      seafoamcycle262: -1680927105
+      seafoamcycle271: 1365441851
+      seafoamcycle075: -852299532
+      seafoamcycle177: 2010953168
+      seafoamcycle098: -254024627
+      seafoamcycle227: -1213693606
+      seafoamcycle011: -1030677491
+      seafoamcycle124: -582794759
+      seafoamcycle340: 1661572752
+      seafoamcycle197: -1848356254
+      seafoamcycle315: -54633094
+      seafoamcycle119: -160748070
+      seafoamcycle349: 329638884
+      seafoamcycle233: 707178747
+      seafoamcycle330: 739035779
+      seafoamcycle021: 197611850
+      seafoamcycle266: 1305517262
+      seafoamcycle346: -638025299
+      seafoamcycle199: 1470083452
+      seafoamcycle292: 337728114
+      seafoamcycle063: -79359704
+      seafoamcycle079: 311132553
+      seafoamcycle032: -1432721540
+      seafoamcycle310: -263695665
+      seafoamcycle337: 731046098
+      seafoamcycle181: 280192249
+      seafoamcycle254: -1565183755
+      seafoamcycle033: -1628943698
+      seafoamcycle270: -2047169670
+      seafoamcycle204: 1076584579
+      seafoamcycle255: 1602676128
+      seafoamcycle029: -992852450
+      seafoamcycle170: 1332149274
+      seafoamcycle275: 2137993031
+      seafoamcycle303: 1673016229
+      seafoamcycle114: 473267866
+      seafoamcycle077: 2020021371
+      seafoamcycle076: -1273711696
+      seafoamcycle062: 607755703
+      seafoamcycle004: -2118854543
+      seafoamcycle020: -686586935
+      seafoamcycle108: -479805736
+      seafoamcycle284: -1811885544
+      seafoamcycle232: -872953493
+      seafoamcycle138: -2056493001
+      seafoamcycle065: 217763057
+      seafoamcycle155: -464093951
+      seafoamcycle192: -741323709
+      seafoamcycle058: -209738003
+      seafoamcycle325: -1857777159
+      seafoamcycle000: -425104454
+      seafoamcycle148: 273599689
+      seafoamcycle301: 571686678
+      seafoamcycle189: -519784628
+      seafoamcycle142: 1177949697
+      seafoamcycle334: -1262739312
+      seafoamcycle269: -1012316707
+      seafoamcycle047: -1117086317
+      seafoamcycle280: 760865607
+      seafoamcycle277: -484259260
+      seafoamcycle056: 2052970289
+      seafoamcycle107: 96416810
+      seafoamcycle171: 1785185323
+      seafoamcycle320: -420662407
+      seafoamcycle147: 479907424
+      seafoamcycle322: 992130400
+      seafoamcycle328: 1635047193
+      seafoamcycle305: -1325425554
+      seafoamcycle253: 553558844
+      seafoamcycle200: -1911131031
+      seafoamcycle209: -1086228454
+      seafoamcycle145: -1435874089
+      seafoamcycle118: 236091393
+      seafoamcycle151: 1263719757
+      seafoamcycle190: 1889370387
+      seafoamcycle102: 1674567749
+      seafoamcycle180: -1844921472
+      seafoamcycle215: 1754519918
+      seafoamcycle061: -1375410971
+      seafoamcycle229: 1121640622
+      seafoamcycle001: 1721797740
+      seafoamcycle236: -1323660060
+      seafoamcycle288: -460134927
+      seafoamcycle182: -736676276
+      seafoamcycle050: 653819920
+      seafoamcycle187: 1943698245
+      seafoamcycle137: 2099138118
+      seafoamcycle055: 1053663753
+      seafoamcycle068: 1249414392
+      seafoamcycle031: 722724994
+      seafoamcycle265: -1517640555
+      seafoamcycle230: 1879094828
+      seafoamcycle012: -1398746379
+      seafoamcycle014: 1090295788
+      seafoamcycle141: 1068831599
+      seafoamcycle104: -260372664
+      seafoamcycle162: 798351813
+      seafoamcycle202: 1144050083
+      seafoamcycle008: -400228574
+      seafoamcycle152: -1804195751
+      seafoamcycle150: 1189933166
+      seafoamcycle099: 1113355546
+      seafoamcycle339: -110135744
+      seafoamcycle279: 1766809788
+      seafoamcycle239: -1235331715
+      seafoamcycle035: 1225471003
+      seafoamcycle302: -1546437398
+      seafoamcycle336: 1217752000
+      seafoamcycle316: -1694636889
+      seafoamcycle252: 2116886990
+      seafoamcycle041: -1576567143
+      seafoamcycle243: -425190594
+      seafoamcycle023: 73263979
+      seafoamcycle338: -1820668429
+      seafoamcycle010: -1947605734
+      seafoamcycle228: 2093433528
+      seafoamcycle131: 1373986310
+      seafoamcycle067: 966204279
+      seafoamcycle088: 1730212370
+      seafoamcycle183: -1457308144
+      seafoamcycle307: 767349598
+      seafoamcycle237: -1785950133
+      seafoamcycle313: 1613308673
+      seafoamcycle087: 587177345
+      seafoamcycle044: -980739589
+      seafoamcycle176: -612108880
+      seafoamcycle125: -1704303980
+      seafoamcycle242: -1732264988
+      seafoamcycle022: 2078100112
+      seafoamcycle158: -1869671214
+      seafoamcycle057: 1545839803
+      seafoamcycle198: -694437269
+      seafoamcycle123: 1052653183
+      seafoamcycle049: 1225267682
+      seafoamcycle084: -916406678
+      seafoamcycle160: -1667715234
+      seafoamcycle167: -1750093990
+      seafoamcycle093: -557850770
+      seafoamcycle221: -1518098898
+      seafoamcycle116: 625747120
+      seafoamcycle164: 1787673262
+      seafoamcycle206: 288180769
+      seafoamcycle285: -656382024
+      seafoamcycle166: -1412223339
+      seafoamcycle327: -965194965
+      seafoamcycle060: 661529933
+      seafoamcycle071: -372589884
+      seafoamcycle249: -608487940
+      seafoamcycle094: -1244885114
+      seafoamcycle287: 1427604898
+      seafoamcycle015: 1923643099
+      seafoamcycle037: -1474180071
+      seafoamcycle051: 184986418
+      seafoamcycle059: 623662641
+      seafoamcycle149: -396158714
+      seafoamcycle273: -544570692
+      seafoamcycle331: -1374173317
+      seafoamcycle282: 1449903306
+      seafoamcycle308: 1377944212
+      seafoamcycle070: -149310965
+      seafoamcycle218: 1082389826
+      seafoamcycle286: -14703259
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

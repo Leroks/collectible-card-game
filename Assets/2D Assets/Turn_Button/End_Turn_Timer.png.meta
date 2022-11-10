@@ -1,0 +1,2124 @@
+fileFormatVersion: 2
+guid: ecb798b5d35b30e428734490381618c0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (1)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3795
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24fa8d189fab05459aeb846446b122c
+      internalID: -1150841044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (10)
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 3795
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52209c8ebe9ef0488d6f6db81b42781
+      internalID: -949814407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (11)
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 3795
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3efb6c306af12449ee9447ec04027e
+      internalID: 158782716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (12)
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 3795
+        width: 302
+        height: 291
+      alignment: 9
+      pivot: {x: -4.0397353, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a3642735a987646a577b9fd0a308ed
+      internalID: -1702716369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (13)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3484
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080881d96435e1541b9151b2c872955b
+      internalID: 594527935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (14)
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3484
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cab44b78c9ff3141bbf4ca3ad619db8
+      internalID: 1066063250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (15)
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 3484
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3d706e2a2f17d44bf08b78293aa5c4
+      internalID: 807969845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (16)
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 3484
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ac2b900438aee468c2472f1219b7a7
+      internalID: -1125347793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (17)
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 3484
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a582bde78c680534dac91645e391a555
+      internalID: 1420818573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (18)
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 3484
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5035051b101914459daa52391a361a2
+      internalID: -1295349324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (19)
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 3484
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fed372637f39f4fa9899e193f36ece
+      internalID: 1140220103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (2)
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3795
+        width: 306
+        height: 291
+      alignment: 9
+      pivot: {x: -3.986928, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fa41c03f3a8fe4fb98053da5919e21
+      internalID: -284175145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (20)
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3484
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ba60d0769462b4abf765f7b2c8c7cb
+      internalID: 1915822959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (21)
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 3484
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a387eabba90ab7d41abdbc6a0f6c61b7
+      internalID: -1298084699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (22)
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 3484
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709e1c2c94517fe4ea9703c362dd0f1e
+      internalID: 1308046802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (23)
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 3484
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f67d12e424c60479f5a226d299b0d5
+      internalID: -1376121559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (24)
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 3484
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc81223f85923564586d54e514bff1f5
+      internalID: -1741278247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (25)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3173
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23292ea8b67c5e94a802e3fd39a7529e
+      internalID: 1992532264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (26)
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3173
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ae291c2a777e847a9f1d5c60e6ae29
+      internalID: 1479707198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (27)
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 3173
+        width: 306
+        height: 291
+      alignment: 9
+      pivot: {x: -3.986928, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e85b44bc1e2ab4b925ed6e19a9ac0f
+      internalID: -1546526713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (28)
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 3173
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c41d1165e7397f4bbeb9ba0c22f90fe
+      internalID: -1045566385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (29)
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 3173
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7700eac79340f2048964c62798c009c2
+      internalID: 5676259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (3)
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3795
+        width: 306
+        height: 291
+      alignment: 9
+      pivot: {x: -3.986928, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751ac04b1ea42564a9cca0b89f221031
+      internalID: -1113972799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (30)
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 3173
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d456fee4ae8196843b0f53d9b8907543
+      internalID: -2127860465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (31)
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 3173
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d697bfbcea594ba51580b86de74c5
+      internalID: -1643684860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (32)
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3173
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770cccb61d48c4945a8838e4ff1d8603
+      internalID: -1250625100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (33)
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 3173
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ba1613d173f074d96dff561bacc269
+      internalID: 316042423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (34)
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 3173
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf969180da569374da12b83297b46855
+      internalID: -1263146567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (35)
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 3173
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc0ff1c73160943b74a5d5a6de93f3
+      internalID: 817038269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (36)
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 3173
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a735df321fec849914fa58823a6f67
+      internalID: -2083421550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (37)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2862
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7175f1e356b8326449c7a70f0e22f191
+      internalID: 1256261786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (38)
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2862
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332ed0688eacc2e4d9af23014a584218
+      internalID: -415884110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (39)
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2862
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f803bb7f2d16a7429909536ca5ad040
+      internalID: -314414814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (4)
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 3795
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dc4084073bb5241b8a1bbb47aa42ec
+      internalID: -1972110490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (40)
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2862
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2969df84e9d4d3a4aa479ebf2abc9302
+      internalID: -1711660588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (41)
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 2862
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ada381a5aa6e4ea0c17551f018b2e
+      internalID: 1968292387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (42)
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2862
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218c8553d82bb7d4c91e1530443acaf7
+      internalID: -982518209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (43)
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 2862
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d64b3370437ffd47a657c1375852b40
+      internalID: 1087348799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (44)
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 2862
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d334070fd0dc4443b46753543ea1551
+      internalID: -523621102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (45)
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 2862
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82ebc39fadb27049a9b58120dbea65a
+      internalID: 1591770288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (46)
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 2862
+        width: 304
+        height: 291
+      alignment: 9
+      pivot: {x: -4.013158, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f90294b1d1f1a048a4126f2cd7fb7d2
+      internalID: 908106973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (47)
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 2862
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66fc98d8e61e0f468b0c958094c013a
+      internalID: 1204145444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (48)
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 2862
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3bc1fdbf3a7ad41b13d2324dc1545b
+      internalID: 2126335024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (49)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2551
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25fdbecf7fb50f4db1826b0d07976ed
+      internalID: 56987588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (5)
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 3795
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd93c580748ae314cb18a4e8eef22acf
+      internalID: -281813194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (50)
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2551
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3ef47ed0cfbc447bb5bd10c6a8494f
+      internalID: 2114801364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (51)
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2551
+        width: 306
+        height: 291
+      alignment: 9
+      pivot: {x: -3.986928, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b770616a3eab71489f5fc3120490abd
+      internalID: 703015199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (52)
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2551
+        width: 306
+        height: 291
+      alignment: 9
+      pivot: {x: -3.986928, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368e3abb016e77840930cb4f0572787b
+      internalID: 1147963567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (53)
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 2551
+        width: 305
+        height: 291
+      alignment: 9
+      pivot: {x: -4, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09d13c6372c789438ac06b5bac2415a
+      internalID: -566912088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (54)
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 2551
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661c894cbc1a9294ba0beafd7ceb50cf
+      internalID: -15050299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (55)
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 2551
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df0fd5cbf0a03244820ae667944fea4
+      internalID: 352042677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (56)
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 2551
+        width: 304
+        height: 291
+      alignment: 9
+      pivot: {x: -4.013158, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14651f37a778684a84eaafa58b4e134
+      internalID: 146802265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (57)
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 2551
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301fd35a28f67bd439a211a4d055fd35
+      internalID: 1215008071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (58)
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 2551
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b754d3d6435afd408ca31efbac9d4ab
+      internalID: 320432869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (59)
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 2551
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33164c7c1037cf04b81e3570a0c3257c
+      internalID: 805234459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (6)
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 3795
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c188377adbd4da468ce9f1e4941aa80
+      internalID: 295326673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (60)
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 2551
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca00df448ed3cc84f8027a9059f1f3e0
+      internalID: 1250679898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (61)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2240
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c71a9b451e3be46a9e9b8b30afe5fe
+      internalID: -207567669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (62)
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2240
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b12dc42f7bf9245a537fcaa185d64e
+      internalID: -1104667440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (63)
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2240
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9134da12ea296047ace3855f2d73fee
+      internalID: -1732056137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (64)
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2240
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9407f97004948af44be0a1abfd896da4
+      internalID: -1381986210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (65)
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 2240
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5a1facd342a514ca4ade858151c57b
+      internalID: 1102518359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (66)
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 2240
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebdbeedcc34f5c449d458274e7983db
+      internalID: 1899162482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (67)
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2240
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09993c126d6dd144f90b7c4c16a6dbd2
+      internalID: 1576859900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (68)
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2240
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29ff6990fd57bf4fb5ae7de402835fa
+      internalID: -532869227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (69)
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 2240
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15798e2b58fb2948bb9f7a1a76d2eb5
+      internalID: 190344618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (7)
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 3795
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d9c8272269c54fae9a9f297032048
+      internalID: 637691310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (70)
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 2240
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a070b528e141d459bd87a6359fa04a
+      internalID: 1045436687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (71)
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 2240
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a125406a1166a40bd09110c3f981a5
+      internalID: -1318132887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (72)
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 2240
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f509a6251897d4c9cc74ad02e62e2c
+      internalID: 739025730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (73)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1929
+        width: 306
+        height: 291
+      alignment: 9
+      pivot: {x: -3.986928, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e18ee305881b0d4d993d884fe64ea0d
+      internalID: 1709425598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (74)
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1929
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6befa951d8dc944bb5afa39c1b490f0
+      internalID: 2046554981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (75)
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1929
+        width: 305
+        height: 291
+      alignment: 9
+      pivot: {x: -4, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4482dde9dd6e5e04291780ce6e9f018d
+      internalID: -1290934083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (76)
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1929
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2660190069aa4714bb36f98c4d6af840
+      internalID: -601108657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (77)
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1929
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b4a27eefa10134c9cd381b3327558e
+      internalID: 2015614415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (78)
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1929
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fe276e2291b894ea7bbbbe19e62a8c
+      internalID: -1034873458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (79)
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1929
+        width: 306
+        height: 291
+      alignment: 9
+      pivot: {x: -3.986928, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2866616a226b9994fa116b0d1cfa00cd
+      internalID: -1724509750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (8)
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 3795
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c4669921918154c87afd377260170e
+      internalID: -1551407283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (80)
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 1929
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b96a5db2f0139429e469ec12d235db
+      internalID: -212313200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (81)
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1929
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2450aa2bb4b2d0f438ea9e36a9302ffd
+      internalID: -599223332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (82)
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 1929
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b913415fae059b4da5e8f23af475c03
+      internalID: -264922847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (83)
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 1929
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f981bb11bcff818498ad8849396851e7
+      internalID: -729616850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (84)
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 1929
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea4692f8489f224980f008641ee6d6a
+      internalID: -1578970020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (85)
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1618
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6c43a7807fdb64187b7a476109e84d
+      internalID: 2011152159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (86)
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1618
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82493300221550140aebeae41db2a04e
+      internalID: 1791081547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (87)
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1618
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defffca708b8e494da5d17829bf61f00
+      internalID: -240468799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (88)
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1618
+        width: 306
+        height: 291
+      alignment: 9
+      pivot: {x: -3.986928, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78a337434026194bbd636f5bb032e1e
+      internalID: 1651528180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (89)
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1618
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3597bb5a8f04aa540bdf0b8d7e232b66
+      internalID: 1117048816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (9)
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 3795
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ec459c78460bc45b1cc7b3c908d672
+      internalID: -1748675226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (90)
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1618
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797b2d47790fd3645b2c872c4945783f
+      internalID: 1545294577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (91)
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1618
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd5c89e89409f4ab85786e030479db
+      internalID: 812058457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-End_Turn_Timer (92)
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1618
+        width: 304
+        height: 291
+      alignment: 9
+      pivot: {x: -4.013158, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5235c0667ed4c640ba54b4013be8535
+      internalID: -1350100954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 711957acd68c7a4459346cdfa9fbe6fc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 33d9670be581a2e4f84318dd2bd00539, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-End_Turn_Timer (42): -982518209
+      Base-End_Turn_Timer (26): 1479707198
+      Base-End_Turn_Timer (7): 637691310
+      Base-End_Turn_Timer (16): -1125347793
+      Base-End_Turn_Timer (24): -1741278247
+      Base-End_Turn_Timer (62): -1104667440
+      Base-End_Turn_Timer (88): 1651528180
+      Base-End_Turn_Timer (66): 1899162482
+      Base-End_Turn_Timer (53): -566912088
+      Base-End_Turn_Timer (65): 1102518359
+      Base-End_Turn_Timer (82): -264922847
+      Base-End_Turn_Timer (74): 2046554981
+      Base-End_Turn_Timer (5): -281813194
+      Base-End_Turn_Timer (52): 1147963567
+      Base-End_Turn_Timer (46): 908106973
+      Base-End_Turn_Timer (39): -314414814
+      Base-End_Turn_Timer (58): 320432869
+      Base-End_Turn_Timer (48): 2126335024
+      Base-End_Turn_Timer (34): -1263146567
+      Base-End_Turn_Timer (25): 1992532264
+      Base-End_Turn_Timer (6): 295326673
+      Base-End_Turn_Timer (14): 1066063250
+      Base-End_Turn_Timer (21): -1298084699
+      Base-End_Turn_Timer (32): -1250625100
+      Base-End_Turn_Timer (9): -1748675226
+      Base-End_Turn_Timer (4): -1972110490
+      Base-End_Turn_Timer (57): 1215008071
+      Base-End_Turn_Timer (60): 1250679898
+      Base-End_Turn_Timer (70): 1045436687
+      Base-End_Turn_Timer (73): 1709425598
+      Base-End_Turn_Timer (54): -15050299
+      Base-End_Turn_Timer (64): -1381986210
+      Base-End_Turn_Timer (83): -729616850
+      Base-End_Turn_Timer (55): 352042677
+      Base-End_Turn_Timer (50): 2114801364
+      Base-End_Turn_Timer (81): -599223332
+      Base-End_Turn_Timer (1): -1150841044
+      Base-End_Turn_Timer (72): 739025730
+      Base-End_Turn_Timer (20): 1915822959
+      Base-End_Turn_Timer (63): -1732056137
+      Base-End_Turn_Timer (92): -1350100954
+      Base-End_Turn_Timer (56): 146802265
+      Base-End_Turn_Timer (69): 190344618
+      Base-End_Turn_Timer (90): 1545294577
+      Base-End_Turn_Timer (59): 805234459
+      Base-End_Turn_Timer (61): -207567669
+      Base-End_Turn_Timer (11): 158782716
+      Base-End_Turn_Timer (23): -1376121559
+      Base-End_Turn_Timer (67): 1576859900
+      Base-End_Turn_Timer (19): 1140220103
+      Base-End_Turn_Timer (76): -601108657
+      Base-End_Turn_Timer (49): 56987588
+      Base-End_Turn_Timer (89): 1117048816
+      Base-End_Turn_Timer (85): 2011152159
+      Base-End_Turn_Timer (27): -1546526713
+      Base-End_Turn_Timer (79): -1724509750
+      Base-End_Turn_Timer (28): -1045566385
+      Base-End_Turn_Timer (80): -212313200
+      Base-End_Turn_Timer (2): -284175145
+      Base-End_Turn_Timer (22): 1308046802
+      Base-End_Turn_Timer (47): 1204145444
+      Base-End_Turn_Timer (17): 1420818573
+      Base-End_Turn_Timer (41): 1968292387
+      Base-End_Turn_Timer (86): 1791081547
+      Base-End_Turn_Timer (37): 1256261786
+      Base-End_Turn_Timer (87): -240468799
+      Base-End_Turn_Timer (29): 5676259
+      Base-End_Turn_Timer (84): -1578970020
+      Base-End_Turn_Timer (3): -1113972799
+      Base-End_Turn_Timer (12): -1702716369
+      Base-End_Turn_Timer (75): -1290934083
+      Base-End_Turn_Timer (71): -1318132887
+      Base-End_Turn_Timer (15): 807969845
+      Base-End_Turn_Timer (10): -949814407
+      Base-End_Turn_Timer (43): 1087348799
+      Base-End_Turn_Timer (44): -523621102
+      Base-End_Turn_Timer (36): -2083421550
+      Base-End_Turn_Timer (18): -1295349324
+      Base-End_Turn_Timer (31): -1643684860
+      Base-End_Turn_Timer (38): -415884110
+      Base-End_Turn_Timer (33): 316042423
+      Base-End_Turn_Timer (77): 2015614415
+      Base-End_Turn_Timer (30): -2127860465
+      Base-End_Turn_Timer (8): -1551407283
+      Base-End_Turn_Timer (68): -532869227
+      Base-End_Turn_Timer (91): 812058457
+      Base-End_Turn_Timer (78): -1034873458
+      Base-End_Turn_Timer (45): 1591770288
+      Base-End_Turn_Timer (51): 703015199
+      Base-End_Turn_Timer (40): -1711660588
+      Base-End_Turn_Timer (13): 594527935
+      Base-End_Turn_Timer (35): 817038269
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 3ab88b812877bfd438f6f45a1d4ea282
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frontline.png0000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3089
+        width: 993
+        height: 1006
+      alignment: 9
+      pivot: {x: 0.51762336, y: 0.35089463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a0d8f87fb8a8541ade0218a6972709
+      internalID: -2123337059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0001
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3077
+        width: 1002
+        height: 1018
+      alignment: 9
+      pivot: {x: 0.51796407, y: 0.35265225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d194e321224e941acca2692a417126
+      internalID: 1802058260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0002
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3079
+        width: 1001
+        height: 1016
+      alignment: 9
+      pivot: {x: 0.52147853, y: 0.35137796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c0ec45e73f03b4f9299629d60374f1
+      internalID: 1858141089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0003
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 3094
+        width: 1005
+        height: 1001
+      alignment: 9
+      pivot: {x: 0.519403, y: 0.35164836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b67e6b9d5840e4596edf99b254e063
+      internalID: 1297777025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0004
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 3073
+        width: 1006
+        height: 1022
+      alignment: 9
+      pivot: {x: 0.5188867, y: 0.34637964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ac90da9852c43449d7c9cbed7b3e2c
+      internalID: -1446876034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0005
+      rect:
+        serializedVersion: 2
+        x: 5018
+        y: 3079
+        width: 1005
+        height: 1016
+      alignment: 9
+      pivot: {x: 0.519403, y: 0.34251967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07228a876a905104a81489e1d9680629
+      internalID: -28996583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0006
+      rect:
+        serializedVersion: 2
+        x: 6025
+        y: 3093
+        width: 1005
+        height: 1002
+      alignment: 9
+      pivot: {x: 0.519403, y: 0.3502994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43ad2c1603c1aa49b20fa237dab3e56
+      internalID: -1974221634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0007
+      rect:
+        serializedVersion: 2
+        x: 7032
+        y: 3087
+        width: 1002
+        height: 1008
+      alignment: 9
+      pivot: {x: 0.52095807, y: 0.35218254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c2251f2a9f4c4459240c55d54b7fe7
+      internalID: -861676830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2072
+        width: 1001
+        height: 999
+      alignment: 9
+      pivot: {x: 0.5174825, y: 0.35235235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc851f3a0f2003546a86f33ee8314225
+      internalID: 3922908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0009
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2073
+        width: 1006
+        height: 998
+      alignment: 9
+      pivot: {x: 0.5188867, y: 0.3537074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717f09da8f29e5149ab4bc5203d3c017
+      internalID: 230454454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0010
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 2071
+        width: 1000
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.517, y: 0.353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b546b890d87c8a489abb0aa29b67cf9
+      internalID: 1681816207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0011
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 2073
+        width: 994
+        height: 998
+      alignment: 9
+      pivot: {x: 0.51810867, y: 0.3537074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba5f65e9a71324da9806041079fafc
+      internalID: 443461093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0012
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 2074
+        width: 999
+        height: 997
+      alignment: 9
+      pivot: {x: 0.5165165, y: 0.35305917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df439c70578eff4dabc8ff70377418e
+      internalID: -675348946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0013
+      rect:
+        serializedVersion: 2
+        x: 5011
+        y: 2075
+        width: 1003
+        height: 996
+      alignment: 9
+      pivot: {x: 0.5204387, y: 0.34839356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4c70805f238a84db84845140b9bb92
+      internalID: 1747567200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0014
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 2071
+        width: 1005
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.519403, y: 0.347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca64c6ddbf9be5408b2ee5b800f326d
+      internalID: 409948173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0015
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 2048
+        width: 1003
+        height: 1023
+      alignment: 9
+      pivot: {x: 0.5204387, y: 0.34701857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd1f08bcea6234c95150311398b110
+      internalID: 1214543488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1038
+        width: 1000
+        height: 1008
+      alignment: 9
+      pivot: {x: 0.516, y: 0.35218254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a26a8c04bfe82749b3c6c442923bb95
+      internalID: 1609461726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0017
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1038
+        width: 1000
+        height: 1008
+      alignment: 9
+      pivot: {x: 0.516, y: 0.35218254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80789db052284db4194c77e9880e0008
+      internalID: -1852650480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0018
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1038
+        width: 1000
+        height: 1008
+      alignment: 9
+      pivot: {x: 0.516, y: 0.35218254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f0f8f6f4f8f84687c3a8911367cd2
+      internalID: -303720428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0019
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 1038
+        width: 1000
+        height: 1008
+      alignment: 9
+      pivot: {x: 0.516, y: 0.35218254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c96e91546e8c87428e2fa82f78c45ef
+      internalID: 90538197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0020
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 1091
+        width: 995
+        height: 955
+      alignment: 9
+      pivot: {x: 0.51859295, y: 0.3696335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9221950e8e5081545966a6ba56d375b0
+      internalID: -201266759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0021
+      rect:
+        serializedVersion: 2
+        x: 5006
+        y: 1105
+        width: 976
+        height: 941
+      alignment: 9
+      pivot: {x: 0.517418, y: 0.35812965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935ff71824dc4e848a25c2c3d46b8f94
+      internalID: -2122369158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0022
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 1126
+        width: 895
+        height: 920
+      alignment: 9
+      pivot: {x: 0.51955307, y: 0.34130436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7440e8ab09a575c4bb98ea6c6b7c8dab
+      internalID: -1905116910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0023
+      rect:
+        serializedVersion: 2
+        x: 6881
+        y: 1169
+        width: 845
+        height: 877
+      alignment: 9
+      pivot: {x: 0.5195266, y: 0.30900797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5a153c387008d4ca57cbded89b4def
+      internalID: -1865349395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frontline.png0024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 847
+        height: 876
+      alignment: 9
+      pivot: {x: 0.5182999, y: 0.30821916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92461f26b8c66cf4d87c95cb3131d922
+      internalID: 1191046172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b7b6d97b659406d448d81cb2dbf7cf2b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      frontline.png0000: -2123337059
+      frontline.png0019: 90538197
+      frontline.png0020: -201266759
+      frontline.png0017: -1852650480
+      frontline.png0004: -1446876034
+      frontline.png0023: -1865349395
+      frontline.png0009: 230454454
+      frontline.png0018: -303720428
+      frontline.png0024: 1191046172
+      frontline.png0015: 1214543488
+      frontline.png0010: 1681816207
+      frontline.png0002: 1858141089
+      frontline.png0005: -28996583
+      frontline.png0001: 1802058260
+      frontline.png0012: -675348946
+      frontline.png0011: 443461093
+      frontline.png0013: 1747567200
+      frontline.png0007: -861676830
+      frontline.png0006: -1974221634
+      frontline.png0014: 409948173
+      frontline.png0003: 1297777025
+      frontline.png0022: -1905116910
+      frontline.png0008: 3922908
+      frontline.png0016: 1609461726
+      frontline.png0021: -2122369158
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

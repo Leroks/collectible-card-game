@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: dff41568c4d02314eb821b7024716488
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (1)
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1717
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76dacaf514d22048bf14ff3eaaef1c2
+      internalID: -1005128964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (10)
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1346
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5473d2fbf10c049adc5d02db9223f1
+      internalID: 575993360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (11)
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 975
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eae1a60e587e443a8723e9c6177fe9
+      internalID: 1986667647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (12)
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 975
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357ede9521838604f8dbc61966afb25f
+      internalID: 711717872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (13)
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 975
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52102aaae1610ce45a41c47a30472c02
+      internalID: -1323585187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (14)
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 975
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61a570a5b876dd4fafd7cf923f6baea
+      internalID: 412148431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (15)
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 975
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd50fe93c32298f4d9763fe9a3e312d9
+      internalID: 395257939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (16)
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 604
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1f7f54d74737646bb2b56c1172137d
+      internalID: -636540237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (17)
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 604
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f74e03aabe318b4faf8a1bb97ff0a94
+      internalID: -436480278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (18)
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 604
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3512fbe597387142af8aa890fcb997c
+      internalID: 1431807276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (19)
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 604
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bec6b3575f3a845af0b9a63a58128c
+      internalID: 771083133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (2)
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1717
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af7101d5c21ecf489cb5657ccd4bdff
+      internalID: -1065352079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (20)
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 604
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb2a46ec3ecd4b41a512e6ba6d3b236
+      internalID: -742310192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (21)
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 233
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f304deaa4e6b386478111061e7ddf164
+      internalID: 1071618562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (3)
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1717
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb0f23078787d4419d7e2ae405a92f1
+      internalID: 1033518025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (4)
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1717
+        width: 300
+        height: 291
+      alignment: 9
+      pivot: {x: -4.0666666, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0c3f9b2669f8343809722182b27c24
+      internalID: 2143942031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (5)
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1717
+        width: 302
+        height: 291
+      alignment: 9
+      pivot: {x: -4.0397353, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b3229a3f079414d84ae6d7af9c528f
+      internalID: -976251375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (6)
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1346
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8d086b23aabfb44855669c490a8770
+      internalID: 1180057753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (7)
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1346
+        width: 303
+        height: 291
+      alignment: 9
+      pivot: {x: -4.0264025, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4f30b3d1c5a2246a64e7a577e09b4c
+      internalID: 47765494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (8)
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1346
+        width: 307
+        height: 291
+      alignment: 9
+      pivot: {x: -3.9739413, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a32fd4ed47e324a82fb4f2fe17eac5
+      internalID: -1978398974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Ennemy_Turn_Press (9)
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1346
+        width: 308
+        height: 291
+      alignment: 9
+      pivot: {x: -3.961039, y: 0.37800688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34318591fbb5d64a855046fba4ede57
+      internalID: 97846370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 79710ecde739d4840a7ede2a42648d50
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: b08d1dc3989761f4d8b91fa1fb42b288, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-Ennemy_Turn_Press (3): 1033518025
+      Base-Ennemy_Turn_Press (14): 412148431
+      Base-Ennemy_Turn_Press (13): -1323585187
+      Base-Ennemy_Turn_Press (15): 395257939
+      Base-Ennemy_Turn_Press (6): 1180057753
+      Base-Ennemy_Turn_Press (2): -1065352079
+      Base-Ennemy_Turn_Press (21): 1071618562
+      Base-Ennemy_Turn_Press (7): 47765494
+      Base-Ennemy_Turn_Press (5): -976251375
+      Base-Ennemy_Turn_Press (10): 575993360
+      Base-Ennemy_Turn_Press (18): 1431807276
+      Base-Ennemy_Turn_Press (12): 711717872
+      Base-Ennemy_Turn_Press (4): 2143942031
+      Base-Ennemy_Turn_Press (11): 1986667647
+      Base-Ennemy_Turn_Press (19): 771083133
+      Base-Ennemy_Turn_Press (16): -636540237
+      Base-Ennemy_Turn_Press (8): -1978398974
+      Base-Ennemy_Turn_Press (17): -436480278
+      Base-Ennemy_Turn_Press (9): 97846370
+      Base-Ennemy_Turn_Press (20): -742310192
+      Base-Ennemy_Turn_Press (1): -1005128964
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

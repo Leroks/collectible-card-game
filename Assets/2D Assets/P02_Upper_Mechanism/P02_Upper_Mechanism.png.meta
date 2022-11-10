@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: fd19b6240a8ce514b82513480f8fd124
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (1)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3583
+        width: 998
+        height: 512
+      alignment: 9
+      pivot: {x: 0.51102203, y: -1.109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea0ebf9b2c20b4c9c6d6fb6cf99d82
+      internalID: -416069089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (10)
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2539
+        width: 1032
+        height: 512
+      alignment: 9
+      pivot: {x: 0.4864341, y: -1.109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124d5d20ab9e75444ac6f36fb886d505
+      internalID: -1868357304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (11)
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 2540
+        width: 986
+        height: 511
+      alignment: 9
+      pivot: {x: 0.5, y: -1.113503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c201ac1f0d80a45bd7f9b8c89e725f
+      internalID: -353555412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (12)
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 2541
+        width: 994
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5080483, y: -1.117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b843c4493c8c74e807b59bf435e339
+      internalID: 1707192555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (13)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2001
+        width: 990
+        height: 532
+      alignment: 9
+      pivot: {x: 0.4979798, y: -1.0300752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b7742254bfba849ad98f6f9fa113ba
+      internalID: -1898112287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (14)
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2023
+        width: 995
+        height: 510
+      alignment: 9
+      pivot: {x: 0.50351757, y: -1.117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92036ed3a2a3b914cbc38d3202d42c3b
+      internalID: 1863439331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (15)
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 2022
+        width: 1027
+        height: 511
+      alignment: 9
+      pivot: {x: 0.49074975, y: -1.113503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec77343ec65a90144868c3c2d9039c1f
+      internalID: -934214589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (16)
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 2006
+        width: 1038
+        height: 527
+      alignment: 9
+      pivot: {x: 0.50578034, y: -1.0493358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43de4c5db436a3e419a99202b0035557
+      internalID: -967605375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (17)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1488
+        width: 982
+        height: 511
+      alignment: 9
+      pivot: {x: 0.503055, y: -1.113503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4966098cdf6ea49840dd4d9242d633
+      internalID: -1129687550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (18)
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1487
+        width: 1028
+        height: 512
+      alignment: 9
+      pivot: {x: 0.48151752, y: -1.109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1543f574c9d650246ade2e8b63ad0e81
+      internalID: 954886297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (19)
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1488
+        width: 999
+        height: 511
+      alignment: 9
+      pivot: {x: 0.4994995, y: -1.113503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7c3224fbad90247979da5cca496529
+      internalID: -271673621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (2)
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 3583
+        width: 1021
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5220372, y: -1.109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0643fdadffe6274489eeee83a232e63f
+      internalID: 919639205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (20)
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 1488
+        width: 988
+        height: 511
+      alignment: 9
+      pivot: {x: 0.50101215, y: -1.113503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4767abf86c6c514c9d6816a0450a7e0
+      internalID: -1979757934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (21)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 975
+        width: 1045
+        height: 510
+      alignment: 9
+      pivot: {x: 0.49473685, y: -1.117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf7875b8d8e2234c809af272584e385
+      internalID: -1565450307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (22)
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 974
+        width: 1001
+        height: 511
+      alignment: 9
+      pivot: {x: 0.5014985, y: -1.113503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d792b09987ccfa4bbca78ff77d9225e
+      internalID: 1518754106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (23)
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 972
+        width: 984
+        height: 513
+      alignment: 9
+      pivot: {x: 0.50406504, y: -1.1052631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc464262c0aa1540864cb27d2a34eca
+      internalID: -13233409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (24)
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 975
+        width: 989
+        height: 510
+      alignment: 9
+      pivot: {x: 0.5065723, y: -1.117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0341b370c5a9faf49bbd883797cb277f
+      internalID: -1160988360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (25)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 448
+        width: 1000
+        height: 522
+      alignment: 9
+      pivot: {x: 0.512, y: -1.0689656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4a769c5826534f85d6cb8ea3a6b4d
+      internalID: -426088682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (26)
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 458
+        width: 989
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5065723, y: -1.109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a5bacf2e119e843aa80f7b4da19013
+      internalID: -1256585617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (27)
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 445
+        width: 989
+        height: 525
+      alignment: 9
+      pivot: {x: 0.49949443, y: -1.0571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0337f0d35c6bb814ea59d6165e0622f0
+      internalID: 1558376182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (28)
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 457
+        width: 993
+        height: 513
+      alignment: 9
+      pivot: {x: 0.50553876, y: -1.1052631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fafddc56f3f01e4abbb3a393bce6a09
+      internalID: 847138370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (3)
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 3574
+        width: 985
+        height: 521
+      alignment: 9
+      pivot: {x: 0.5045685, y: -1.0729367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3d85d545c2ee74eabc694a74339252
+      internalID: -1746293143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (4)
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 3578
+        width: 988
+        height: 517
+      alignment: 9
+      pivot: {x: 0.5060729, y: -1.0889748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a3f5b57361fd0498b5f0d72372b119
+      internalID: 399309551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (5)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3059
+        width: 996
+        height: 513
+      alignment: 9
+      pivot: {x: 0.5050201, y: -1.1052631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5af3ef772bab4e40848becf989f1da3
+      internalID: 209024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (6)
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3057
+        width: 990
+        height: 515
+      alignment: 9
+      pivot: {x: 0.5070707, y: -1.0970874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd957a9d1ec5a9f43b12a4fc544ec382
+      internalID: 1696189460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (7)
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 3053
+        width: 991
+        height: 519
+      alignment: 9
+      pivot: {x: 0.5075681, y: -1.0809249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b76bb2f2ba20e47bda1819fe8a3898
+      internalID: -1656645409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (8)
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 3061
+        width: 992
+        height: 511
+      alignment: 9
+      pivot: {x: 0.5020161, y: -1.113503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea61ec951473bc2409eb66b0bdc7625f
+      internalID: -1392601820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-P02_Upper_Mechanism (9)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2535
+        width: 1019
+        height: 516
+      alignment: 9
+      pivot: {x: 0.5210991, y: -1.0930233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ba4f6befcdb24438148254231d3c41
+      internalID: 488999501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e58fba82695c0d94a9124c40b197fe83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: aeba4c8c4fafe344686a03635f16dc95, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-P02_Upper_Mechanism (1): -416069089
+      Base-P02_Upper_Mechanism (2): 919639205
+      Base-P02_Upper_Mechanism (14): 1863439331
+      Base-P02_Upper_Mechanism (19): -271673621
+      Base-P02_Upper_Mechanism (7): -1656645409
+      Base-P02_Upper_Mechanism (8): -1392601820
+      Base-P02_Upper_Mechanism (18): 954886297
+      Base-P02_Upper_Mechanism (3): -1746293143
+      Base-P02_Upper_Mechanism (26): -1256585617
+      Base-P02_Upper_Mechanism (24): -1160988360
+      Base-P02_Upper_Mechanism (15): -934214589
+      Base-P02_Upper_Mechanism (22): 1518754106
+      Base-P02_Upper_Mechanism (13): -1898112287
+      Base-P02_Upper_Mechanism (16): -967605375
+      Base-P02_Upper_Mechanism (21): -1565450307
+      Base-P02_Upper_Mechanism (11): -353555412
+      Base-P02_Upper_Mechanism (9): 488999501
+      Base-P02_Upper_Mechanism (20): -1979757934
+      Base-P02_Upper_Mechanism (27): 1558376182
+      Base-P02_Upper_Mechanism (12): 1707192555
+      Base-P02_Upper_Mechanism (17): -1129687550
+      Base-P02_Upper_Mechanism (5): 209024
+      Base-P02_Upper_Mechanism (25): -426088682
+      Base-P02_Upper_Mechanism (28): 847138370
+      Base-P02_Upper_Mechanism (23): -13233409
+      Base-P02_Upper_Mechanism (10): -1868357304
+      Base-P02_Upper_Mechanism (6): 1696189460
+      Base-P02_Upper_Mechanism (4): 399309551
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

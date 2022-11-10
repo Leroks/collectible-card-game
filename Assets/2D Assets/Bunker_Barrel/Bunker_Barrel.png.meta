@@ -1,0 +1,1522 @@
+fileFormatVersion: 2
+guid: 1f2bbb5328d27c9488dadc57f2a294e9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (1)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3691
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc438c42dc0e4644b00a8850bcc6000
+      internalID: -965915226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (10)
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3264
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b2848d72610c341a3b02ea8b138bb5
+      internalID: 992264357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (11)
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3265
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae745c62aebe0a4cb1d99d3995ce3d3
+      internalID: -363401479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (12)
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3264
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc070c0a19d19784b84fee1929d65932
+      internalID: 620811003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (13)
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 3264
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d60ae0b33b96b4c998691a6b566bb5
+      internalID: -398360863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (14)
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 3264
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98244b08700e71f448f10040b142b2df
+      internalID: 448788973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (15)
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 3264
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73078c127f71d14ba88c01861b98d41
+      internalID: -197709377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (16)
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3264
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025149c5431e0b54b8d7dc0262c2091c
+      internalID: 627808357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (17)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2838
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1ce7ff0306e3847bba2ad02889c505
+      internalID: -1849003707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (18)
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2838
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f82372662e0f14c92842e33a8c56a4
+      internalID: 499287394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (19)
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2838
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba27a69cb22ef4aa9e7209e0e0c900
+      internalID: -1051173669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (2)
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3690
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c477a0f2fca4f2b4abadc965919308cb
+      internalID: 728418288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (20)
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2838
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18936160db0ef84fb4434c591dae2aa
+      internalID: 1753489166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (21)
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2838
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a963c22e9fbf8642af6be2069fa8f9e
+      internalID: -154936088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (22)
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 2838
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6010234c116ba5d4fbbc97cbc4be816d
+      internalID: -682037584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (23)
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2838
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ac98973d0b50d4797e95c21cf5ab3b
+      internalID: -1476551209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (24)
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2838
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ed80ae561a6e34cb412d5b8af9645a
+      internalID: 2000265777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (25)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2412
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b480af76f0b43114a9ad7ebd59ada1be
+      internalID: 56446087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (26)
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2412
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f913373a3740634383e34d35d7217a6
+      internalID: -336348368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (27)
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2412
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea9e0f8592d18844824acc16383941c
+      internalID: 1083796139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (28)
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2412
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03c95f4ae14469499ad7d4c24b681b6
+      internalID: 2071613604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (29)
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2412
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3e982d01aab1f4b9b2bacdaee660f2
+      internalID: 1535922372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (3)
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3691
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f535a104f2f4574ca995748536a2f98
+      internalID: 1847917049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (30)
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 2412
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b47cb96727191458a08e4118cf9f92
+      internalID: 1231133337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (31)
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2412
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a4f61ff176d6469ccb885b2de5ab1
+      internalID: -971164289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (32)
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2412
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735e173f2a4ebfb4994945562b56f694
+      internalID: 27407086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (33)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1986
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdff1775c59dc24696ffb727b17930a
+      internalID: -2053631539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (34)
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1986
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4549f35cdd55f8c42acd2668d0fb928e
+      internalID: -667041482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (35)
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1986
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726e563cb10bda247b15393ce9a2d840
+      internalID: -577160331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (36)
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1986
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a945eefad108bdc46ae305dae1eef2cf
+      internalID: -1874419969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (37)
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1986
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0350066c36bd21549ae84c5c974cb789
+      internalID: -455320769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (38)
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1986
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d245940376bdc4384f27c05cf9d29f
+      internalID: -358132195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (39)
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1986
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bf4d9624d82364c8b2c7903724d2e7
+      internalID: -1227618045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (4)
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3691
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c39f0e937bfac541b2d5b6a640188fd
+      internalID: 1729702418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (40)
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1987
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87209726d7bf29b4aaaf8e21676eddb2
+      internalID: 1507374201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (41)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1560
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d1ef833d8f3754e868aad0a42b008a
+      internalID: 571278467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (42)
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1560
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f3103289a7fac47a3292b4f816af38
+      internalID: -904886672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (43)
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1560
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fb331f6eebbcf4c9d1a0092a44bf97
+      internalID: 1080406605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (44)
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1560
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a1f9803f0b85249847e6227b81836d
+      internalID: 2022081794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (45)
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1560
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785bcf334393c204f98e53004146e6dc
+      internalID: 160263832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (46)
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1560
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a37ad3efc194c4681a1f352cf4020d
+      internalID: 1891648553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (47)
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1560
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b612e64a9f7a8d94e9794ad1bcfa6317
+      internalID: 678581579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (48)
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1560
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a186951ca3a184a9a5bb072570915e
+      internalID: -225500561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (49)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1134
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a93d01fa4d40d41b259ed0314bba15
+      internalID: -1412858800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (5)
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 3691
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0601be48ee6d64091d15d44930ec9c
+      internalID: 1813157154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (50)
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1134
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e685beec74e52b4e83a68dd6652d501
+      internalID: -1532749884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (51)
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1134
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0c0f57bfb61204295baaefcc008ed0
+      internalID: 1986915696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (52)
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1134
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34834aefe750f4d47b6c8c7349f5bc64
+      internalID: 1323131870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (53)
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1134
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d96fd56a13c754fb68c394fe780718
+      internalID: -1823883035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (54)
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 1134
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078e4bfc8257b6409f3f3f2f04886f0
+      internalID: 514400700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (55)
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1134
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae958f81ed2bf2645a8cf302cb4dfd76
+      internalID: -865429335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (56)
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1135
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa7fed5687c24946b00356b0a528ffd
+      internalID: 896480527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (57)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 709
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a7a2d2b9fdb23419371952d0b88c8b
+      internalID: -666210146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (58)
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 709
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b7f21b442e24a458090ce035758007
+      internalID: 1636028410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (59)
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 709
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616641bec3eb377488fc82e6c7f96900
+      internalID: -2035674634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (6)
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 3691
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bc905a37d8271479a1b9d018540512
+      internalID: 1552106104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (60)
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 709
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc65f3445d5cd96439c45a83b6222ad7
+      internalID: 514971174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (61)
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 709
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ea470daf48ff74cae2850639bae8d5
+      internalID: 1052205370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (62)
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 709
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fa0d4af9a47ee46bdd981d7e67372b
+      internalID: -1976328806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (63)
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 709
+        width: 450
+        height: 385
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9168831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ff18ace896cf34587d9127272d8bed
+      internalID: -206390795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (7)
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 3690
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe594faef33af54982e29fd330ec60e
+      internalID: 582739924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (8)
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3690
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96deab4377214d44b9a660c4da1e5f82
+      internalID: -879191552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-Bunker_Barrel (9)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3264
+        width: 450
+        height: 386
+      alignment: 9
+      pivot: {x: 2.8133333, y: -0.9119171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e970862125884e8c2cffbd4e25d1b
+      internalID: -1669211843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: debd7a2cd8714ce40a4c4d2fc999c3f6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 90017d7a8266ff549ac750663df93661, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Base-Bunker_Barrel (50): -1532749884
+      Base-Bunker_Barrel (21): -154936088
+      Base-Bunker_Barrel (62): -1976328806
+      Base-Bunker_Barrel (13): -398360863
+      Base-Bunker_Barrel (18): 499287394
+      Base-Bunker_Barrel (53): -1823883035
+      Base-Bunker_Barrel (33): -2053631539
+      Base-Bunker_Barrel (34): -667041482
+      Base-Bunker_Barrel (42): -904886672
+      Base-Bunker_Barrel (40): 1507374201
+      Base-Bunker_Barrel (6): 1552106104
+      Base-Bunker_Barrel (55): -865429335
+      Base-Bunker_Barrel (8): -879191552
+      Base-Bunker_Barrel (17): -1849003707
+      Base-Bunker_Barrel (5): 1813157154
+      Base-Bunker_Barrel (36): -1874419969
+      Base-Bunker_Barrel (3): 1847917049
+      Base-Bunker_Barrel (39): -1227618045
+      Base-Bunker_Barrel (37): -455320769
+      Base-Bunker_Barrel (47): 678581579
+      Base-Bunker_Barrel (51): 1986915696
+      Base-Bunker_Barrel (12): 620811003
+      Base-Bunker_Barrel (14): 448788973
+      Base-Bunker_Barrel (31): -971164289
+      Base-Bunker_Barrel (1): -965915226
+      Base-Bunker_Barrel (44): 2022081794
+      Base-Bunker_Barrel (38): -358132195
+      Base-Bunker_Barrel (10): 992264357
+      Base-Bunker_Barrel (48): -225500561
+      Base-Bunker_Barrel (52): 1323131870
+      Base-Bunker_Barrel (9): -1669211843
+      Base-Bunker_Barrel (22): -682037584
+      Base-Bunker_Barrel (46): 1891648553
+      Base-Bunker_Barrel (11): -363401479
+      Base-Bunker_Barrel (28): 2071613604
+      Base-Bunker_Barrel (59): -2035674634
+      Base-Bunker_Barrel (35): -577160331
+      Base-Bunker_Barrel (24): 2000265777
+      Base-Bunker_Barrel (16): 627808357
+      Base-Bunker_Barrel (29): 1535922372
+      Base-Bunker_Barrel (15): -197709377
+      Base-Bunker_Barrel (43): 1080406605
+      Base-Bunker_Barrel (2): 728418288
+      Base-Bunker_Barrel (23): -1476551209
+      Base-Bunker_Barrel (30): 1231133337
+      Base-Bunker_Barrel (41): 571278467
+      Base-Bunker_Barrel (61): 1052205370
+      Base-Bunker_Barrel (25): 56446087
+      Base-Bunker_Barrel (57): -666210146
+      Base-Bunker_Barrel (60): 514971174
+      Base-Bunker_Barrel (49): -1412858800
+      Base-Bunker_Barrel (19): -1051173669
+      Base-Bunker_Barrel (45): 160263832
+      Base-Bunker_Barrel (4): 1729702418
+      Base-Bunker_Barrel (58): 1636028410
+      Base-Bunker_Barrel (56): 896480527
+      Base-Bunker_Barrel (27): 1083796139
+      Base-Bunker_Barrel (63): -206390795
+      Base-Bunker_Barrel (7): 582739924
+      Base-Bunker_Barrel (54): 514400700
+      Base-Bunker_Barrel (20): 1753489166
+      Base-Bunker_Barrel (26): -336348368
+      Base-Bunker_Barrel (32): 27407086
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
